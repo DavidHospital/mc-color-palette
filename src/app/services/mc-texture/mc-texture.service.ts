@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 
-const Vibrant = require('node-vibrant');
+import Vibrant = require('node-vibrant');
 
 @Injectable({
   providedIn: 'root'
@@ -12,11 +12,10 @@ export class McTextureService {
     return this._assets;
   }
 
-  constructor() {
-
-    Vibrant.from('src/assets/mc-textures/brain-coral-block.png').getPalette((err, palette) => {
+  generateColors() {
+    Vibrant.from('./assets/mc-textures/brain_coral_block.png').getPalette((err, palette) => {
       console.log(palette);
       this._assets.push(palette);
     });
-   }
+  }
 }

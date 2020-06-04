@@ -25,12 +25,14 @@
             "aot": true,
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets/"
             ],
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/node-vibrant/dist/vibrant.min.js"
+            ]
           },
           "configurations": {
             "production": {

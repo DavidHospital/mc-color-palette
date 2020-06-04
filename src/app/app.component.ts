@@ -14,6 +14,7 @@ export class AppComponent {
   constructor(
       private _mcTextureService: McTextureService,
   ) {
+    this._mcTextureService.generateColors();
     this._assets = this._mcTextureService.assets;
   }
   
