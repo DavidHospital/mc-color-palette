@@ -1,0 +1,6 @@
+<div class="mc-texture-container" 
+    [style.background]="mcTexture.palette.Muted.hex"
+    [style.padding.px]="padding"
+    *ngIf="mcTexture">
+  <img [src]="mcTexture.imgSrc" class="mc-texture-img mat-elevation-z16">
+</div>

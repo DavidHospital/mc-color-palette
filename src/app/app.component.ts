@@ -1,21 +1,36 @@
-import { Component } from '@angular/core';
+import { Component, ChangeDetectionStrategy, ChangeDetectorRef } from '@angular/core';
 import { McTextureService } from './services/mc-texture/mc-texture.service';
+import { McTexture } from './types/mc-texture';
+import { FormGroup, FormControl } from '@angular/forms';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  styleUrls: ['./app.component.scss'],
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class AppComponent {
-  title = 'mc-color-palette';
 
-  _assets: any;
+  formGroup = new FormGroup({
+    block: new FormControl('')
+  });
+  mcTexture: McTexture;
 
   constructor(
       private _mcTextureService: McTextureService,
+      private _changeDetectorRef: ChangeDetectorRef,
   ) {
-    this._mcTextureService.generateColors();
-    this._assets = this._mcTextureService.assets;
+    
+  }
+
+  onSubmit() {
+    this._mcTextureService.getMcTexture(this.formGroup.value.block).then(mcTexture => {
+      this.mcTexture = mcTexture;
+      console.log(mcTexture);
+      this._changeDetectorRef.detectChanges();
+    }).catch(err => {
+      console.log(err.message);
+    });
   }
   
 }
