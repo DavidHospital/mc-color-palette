@@ -22,15 +22,5 @@ export class AppComponent {
   ) {
     
   }
-
-  onSubmit() {
-    this._mcTextureService.getMcTexture(this.formGroup.value.block).then(mcTexture => {
-      this.mcTexture = mcTexture;
-      console.log(mcTexture);
-      this._changeDetectorRef.detectChanges();
-    }).catch(err => {
-      console.log(err.message);
-    });
-  }
   
 }

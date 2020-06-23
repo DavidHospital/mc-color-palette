@@ -1,11 +1,9 @@
-.mc-texture-container {
-  width: fit-content;
-  height: fit-content;
+.container {
+  padding: 24px;
 }
 
 .mc-texture-img {
-  width: 256px;
-  height: 256px;
+  height: 100%;
 
   image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
   image-rendering: -moz-crisp-edges;          /* Firefox                        */
@@ -14,5 +12,4 @@
   image-rendering: pixelated; /* Chrome */
   image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
   -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
-
 }

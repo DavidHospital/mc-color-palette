@@ -1,5 +1,5 @@
-import { Component, OnInit, Input } from '@angular/core';
-import { McTexture } from 'src/app/types/mc-texture';
+import { Component, Input } from '@angular/core';
+import { McTexture, getHexFromHsl } from 'src/app/types/mc-texture';
 
 @Component({
   selector: 'mc-texture',
@@ -7,10 +7,8 @@ import { McTexture } from 'src/app/types/mc-texture';
   styleUrls: ['./mc-texture.component.scss']
 })
 export class McTextureComponent {
+  getHexFromHsl = getHexFromHsl;
 
   @Input() mcTexture: McTexture;
   @Input() padding = 48;
-
-  constructor() { }
-
 }
