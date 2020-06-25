@@ -16,10 +16,12 @@ export class McTextureHeaderViewComponent {
   
   @Input() set mcTextureKey(mcTextureKey) {
     this._formGroup.setValue({ block: mcTextureKey });
-    this._mcTexture = this._mcTextureService.getMcTexture(mcTextureKey)
-    this._dataSource.data = this._mcTexture.colors;
-    this._changeDetectorRef.detectChanges();
-    this._changeDetectorRef.detectChanges();
+    const mcTexture = this._mcTextureService.getMcTexture(mcTextureKey);
+    if (mcTexture) {
+      this._mcTexture = mcTexture;
+      this._dataSource.data = this._mcTexture.colors;
+      this._changeDetectorRef.detectChanges();
+    }
   };
 
   _mcTexture: McTexture;
@@ -35,11 +37,7 @@ export class McTextureHeaderViewComponent {
       private _mcTextureService: McTextureService,
       private _changeDetectorRef: ChangeDetectorRef) {
   }
-
-  getHsl(swatch: Swatch): number[] {
-    return swatch?.hsl.map(decimal => Math.round(decimal * 255));
-  }
-
+  
   onSubmit() {
     this.mcTextureKey = this._formGroup.value.block;
   }

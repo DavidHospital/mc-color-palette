@@ -4,6 +4,7 @@
 
 .mc-texture-img {
   height: 100%;
+  min-height: 200px;
 
   image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
   image-rendering: -moz-crisp-edges;          /* Firefox                        */

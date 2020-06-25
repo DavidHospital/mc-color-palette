@@ -14,7 +14,7 @@ def pre_process_images(path_to_images, output_file):
 
       data[parsed_filename] = {
         'fileName': 'assets/mc-textures/' + filename,
-        'colors': list(map(lambda x: x.hsl, colors))
+        'colors': list(filter(lambda x: not (x.h == 0 and x.s == 0 and x.l == 0), map(lambda y: y.hsl, colors)))
       }
 
   with open(output_file, 'w') as output:

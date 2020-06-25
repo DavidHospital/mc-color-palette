@@ -5,11 +5,6 @@
             [
                 0,
                 0,
-                0
-            ],
-            [
-                0,
-                0,
                 105
             ],
             [
@@ -58,11 +53,6 @@
         "fileName": "assets/mc-textures/sunflower_top.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 76,
                 170,
                 75
@@ -78,11 +68,6 @@
         "fileName": "assets/mc-textures/brain_coral_fan.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 230,
                 139,
                 142
@@ -97,11 +82,6 @@
     "sweet_berry_bush_stage2": {
         "fileName": "assets/mc-textures/sweet_berry_bush_stage2.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 95,
                 83,
@@ -318,11 +298,6 @@
                 237
             ],
             [
-                0,
-                0,
-                0
-            ],
-            [
                 33,
                 60,
                 110
@@ -332,11 +307,6 @@
     "attached_melon_stem": {
         "fileName": "assets/mc-textures/attached_melon_stem.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 85,
                 2,
@@ -352,11 +322,6 @@
     "brown_mushroom": {
         "fileName": "assets/mc-textures/brown_mushroom.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 16,
                 66,
@@ -433,11 +398,6 @@
         "fileName": "assets/mc-textures/orange_stained_glass_pane_top.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 19,
                 159,
                 125
@@ -462,11 +422,6 @@
     "birch_leaves": {
         "fileName": "assets/mc-textures/birch_leaves.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 212,
                 3,
@@ -503,11 +458,6 @@
         "fileName": "assets/mc-textures/wheat_stage6.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 30,
                 107,
                 91
@@ -521,13 +471,7 @@
     },
     "redstone_dust_overlay": {
         "fileName": "assets/mc-textures/redstone_dust_overlay.png",
-        "colors": [
-            [
-                0,
-                0,
-                0
-            ]
-        ]
+        "colors": []
     },
     "chain_command_block_conditional": {
         "fileName": "assets/mc-textures/chain_command_block_conditional.png",
@@ -572,11 +516,6 @@
     "potatoes_stage1": {
         "fileName": "assets/mc-textures/potatoes_stage1.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 76,
                 132,
@@ -763,11 +702,6 @@
                 98
             ],
             [
-                0,
-                0,
-                0
-            ],
-            [
                 13,
                 136,
                 139
@@ -868,11 +802,6 @@
         "fileName": "assets/mc-textures/dead_horn_coral.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 19,
                 14,
                 142
@@ -930,11 +859,6 @@
             [
                 0,
                 0,
-                0
-            ],
-            [
-                0,
-                0,
                 234
             ],
             [
@@ -947,11 +871,6 @@
     "wheat_stage7": {
         "fileName": "assets/mc-textures/wheat_stage7.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 36,
                 93,
@@ -987,11 +906,6 @@
     "green_stained_glass_pane_top": {
         "fileName": "assets/mc-textures/green_stained_glass_pane_top.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 56,
                 111,
@@ -1063,11 +977,6 @@
         "fileName": "assets/mc-textures/pink_stained_glass_pane_top.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 240,
                 182,
                 177
@@ -1097,11 +1006,6 @@
     "lilac_bottom": {
         "fileName": "assets/mc-textures/lilac_bottom.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 213,
                 102,
@@ -1197,11 +1101,6 @@
     "campfire_fire": {
         "fileName": "assets/mc-textures/campfire_fire.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 19,
                 252,
@@ -1301,11 +1200,6 @@
                 69,
                 255,
                 47
-            ],
-            [
-                0,
-                0,
-                0
             ]
         ]
     },
@@ -1408,11 +1302,6 @@
         "fileName": "assets/mc-textures/glass_pane_top.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 133,
                 154,
                 212
@@ -1451,11 +1340,6 @@
                 0,
                 3,
                 80
-            ],
-            [
-                0,
-                0,
-                0
             ],
             [
                 180,
@@ -1537,11 +1421,6 @@
     "flower_pot": {
         "fileName": "assets/mc-textures/flower_pot.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 8,
                 102,
@@ -1739,11 +1618,6 @@
         "colors": [
             [
                 0,
-                0,
-                0
-            ],
-            [
-                0,
                 214,
                 140
             ],
@@ -1761,11 +1635,6 @@
                 85,
                 2,
                 167
-            ],
-            [
-                0,
-                0,
-                0
             ],
             [
                 212,
@@ -1838,11 +1707,6 @@
         "fileName": "assets/mc-textures/magenta_stained_glass_pane_top.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 200,
                 150,
                 140
@@ -1872,11 +1736,6 @@
     "sugar_cane": {
         "fileName": "assets/mc-textures/sugar_cane.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 62,
                 82,
@@ -1966,11 +1825,6 @@
                 30,
                 202,
                 230
-            ],
-            [
-                0,
-                0,
-                0
             ]
         ]
     },
@@ -1981,11 +1835,6 @@
                 0,
                 0,
                 158
-            ],
-            [
-                0,
-                0,
-                0
             ],
             [
                 0,
@@ -2073,11 +1922,6 @@
         "fileName": "assets/mc-textures/red_tulip.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 76,
                 199,
                 73
@@ -2141,11 +1985,6 @@
                 154,
                 69,
                 44
-            ],
-            [
-                0,
-                0,
-                0
             ],
             [
                 144,
@@ -2218,11 +2057,6 @@
         "fileName": "assets/mc-textures/allium.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 193,
                 210,
                 180
@@ -2266,11 +2100,6 @@
                 85,
                 2,
                 108
-            ],
-            [
-                0,
-                0,
-                0
             ]
         ]
     },
@@ -2360,11 +2189,6 @@
             [
                 0,
                 0,
-                0
-            ],
-            [
-                0,
-                0,
                 240
             ]
         ]
@@ -2393,11 +2217,6 @@
         "fileName": "assets/mc-textures/end_rod.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 24,
                 195,
                 238
@@ -2412,11 +2231,6 @@
     "grindstone_round": {
         "fileName": "assets/mc-textures/grindstone_round.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 0,
                 0,
@@ -2452,11 +2266,6 @@
     "end_portal_frame_eye": {
         "fileName": "assets/mc-textures/end_portal_frame_eye.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 132,
                 145,
@@ -2658,11 +2467,6 @@
         "fileName": "assets/mc-textures/fire_coral_fan.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 250,
                 167,
                 84
@@ -2806,11 +2610,6 @@
                 24,
                 100,
                 137
-            ],
-            [
-                0,
-                0,
-                0
             ]
         ]
     },
@@ -2851,11 +2650,6 @@
                 0,
                 0,
                 173
-            ],
-            [
-                0,
-                0,
-                0
             ]
         ]
     },
@@ -2882,11 +2676,6 @@
     "sweet_berry_bush_stage1": {
         "fileName": "assets/mc-textures/sweet_berry_bush_stage1.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 95,
                 83,
@@ -2987,11 +2776,6 @@
     "sweet_berry_bush_stage0": {
         "fileName": "assets/mc-textures/sweet_berry_bush_stage0.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 99,
                 93,
@@ -3143,11 +2927,6 @@
                 168
             ],
             [
-                0,
-                0,
-                0
-            ],
-            [
                 212,
                 3,
                 114
@@ -3197,11 +2976,6 @@
     "blue_stained_glass_pane_top": {
         "fileName": "assets/mc-textures/blue_stained_glass_pane_top.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 161,
                 143,
@@ -3261,22 +3035,12 @@
                 0,
                 0,
                 255
-            ],
-            [
-                0,
-                0,
-                0
             ]
         ]
     },
     "pumpkin_stem": {
         "fileName": "assets/mc-textures/pumpkin_stem.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 85,
                 2,
@@ -3292,11 +3056,6 @@
     "grass": {
         "fileName": "assets/mc-textures/grass.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 0,
                 0,
@@ -3332,11 +3091,6 @@
     "dead_bubble_coral": {
         "fileName": "assets/mc-textures/dead_bubble_coral.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 13,
                 14,
@@ -3392,11 +3146,6 @@
     "wheat_stage1": {
         "fileName": "assets/mc-textures/wheat_stage1.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 86,
                 234,
@@ -3708,11 +3457,6 @@
                 83
             ],
             [
-                0,
-                0,
-                0
-            ],
-            [
                 11,
                 137,
                 69
@@ -3767,11 +3511,6 @@
     "bell_side": {
         "fileName": "assets/mc-textures/bell_side.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 35,
                 249,
@@ -3867,11 +3606,6 @@
     "sweet_berry_bush_stage3": {
         "fileName": "assets/mc-textures/sweet_berry_bush_stage3.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 95,
                 86,
@@ -3973,11 +3707,6 @@
         "fileName": "assets/mc-textures/bubble_coral_fan.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 212,
                 178,
                 97
@@ -4077,11 +3806,6 @@
     "brown_stained_glass_pane_top": {
         "fileName": "assets/mc-textures/brown_stained_glass_pane_top.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 21,
                 86,
@@ -4358,11 +4082,6 @@
         "fileName": "assets/mc-textures/dead_brain_coral.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 12,
                 15,
                 116
@@ -4417,11 +4136,6 @@
     "bell_top": {
         "fileName": "assets/mc-textures/bell_top.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 39,
                 250,
@@ -4578,11 +4292,6 @@
         "fileName": "assets/mc-textures/tube_coral.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 160,
                 187,
                 141
@@ -4597,11 +4306,6 @@
     "light_gray_stained_glass_pane_top": {
         "fileName": "assets/mc-textures/light_gray_stained_glass_pane_top.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 0,
                 0,
@@ -4723,11 +4427,6 @@
         "fileName": "assets/mc-textures/yellow_stained_glass_pane_top.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 42,
                 183,
                 134
@@ -4773,11 +4472,6 @@
         "fileName": "assets/mc-textures/dead_fire_coral.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 12,
                 15,
                 117
@@ -4813,11 +4507,6 @@
         "fileName": "assets/mc-textures/cake_side.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 14,
                 169,
                 98
@@ -4832,11 +4521,6 @@
     "horn_coral": {
         "fileName": "assets/mc-textures/horn_coral.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 40,
                 180,
@@ -4873,11 +4557,6 @@
                 161
             ],
             [
-                0,
-                0,
-                0
-            ],
-            [
                 90,
                 194,
                 55
@@ -4887,11 +4566,6 @@
     "pink_tulip": {
         "fileName": "assets/mc-textures/pink_tulip.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 75,
                 190,
@@ -4947,11 +4621,6 @@
     "carrots_stage1": {
         "fileName": "assets/mc-textures/carrots_stage1.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 79,
                 125,
@@ -5073,11 +4742,6 @@
         "fileName": "assets/mc-textures/powered_rail_on.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 26,
                 43,
                 91
@@ -5112,11 +4776,6 @@
     "potatoes_stage2": {
         "fileName": "assets/mc-textures/potatoes_stage2.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 77,
                 129,
@@ -5262,11 +4921,6 @@
     "grass_block_side_overlay": {
         "fileName": "assets/mc-textures/grass_block_side_overlay.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 0,
                 0,
@@ -5458,11 +5112,6 @@
         "fileName": "assets/mc-textures/wheat_stage3.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 88,
                 234,
                 76
@@ -5498,11 +5147,6 @@
         "fileName": "assets/mc-textures/detector_rail_on.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 23,
                 45,
                 96
@@ -5537,11 +5181,6 @@
     "debug": {
         "fileName": "assets/mc-textures/debug.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 39,
                 255,
@@ -5637,11 +5276,6 @@
     "brain_coral": {
         "fileName": "assets/mc-textures/brain_coral.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 230,
                 141,
@@ -5790,11 +5424,6 @@
             [
                 0,
                 0,
-                0
-            ],
-            [
-                0,
-                0,
                 149
             ],
             [
@@ -5807,11 +5436,6 @@
     "kelp_plant": {
         "fileName": "assets/mc-textures/kelp_plant.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 60,
                 119,
@@ -6043,11 +5667,6 @@
         "fileName": "assets/mc-textures/acacia_sapling.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 41,
                 169,
                 71
@@ -6132,11 +5751,6 @@
     "orange_tulip": {
         "fileName": "assets/mc-textures/orange_tulip.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 75,
                 190,
@@ -6268,11 +5882,6 @@
         "fileName": "assets/mc-textures/carrots_stage3.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 78,
                 128,
                 78
@@ -6287,11 +5896,6 @@
     "light_blue_stained_glass_pane_top": {
         "fileName": "assets/mc-textures/light_blue_stained_glass_pane_top.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 150,
                 138,
@@ -6373,11 +5977,6 @@
         "fileName": "assets/mc-textures/iron_bars.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 69,
                 12,
                 115
@@ -6392,11 +5991,6 @@
     "lilac_top": {
         "fileName": "assets/mc-textures/lilac_top.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 213,
                 102,
@@ -6456,11 +6050,6 @@
                 183,
                 106,
                 15
-            ],
-            [
-                0,
-                0,
-                0
             ],
             [
                 236,
@@ -6558,11 +6147,6 @@
         "fileName": "assets/mc-textures/tripwire_hook.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 25,
                 21,
                 138
@@ -6587,11 +6171,6 @@
     "melon_stem": {
         "fileName": "assets/mc-textures/melon_stem.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 0,
                 0,
@@ -6647,11 +6226,6 @@
     "beetroots_stage1": {
         "fileName": "assets/mc-textures/beetroots_stage1.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 74,
                 134,
@@ -6743,11 +6317,6 @@
         "fileName": "assets/mc-textures/potatoes_stage0.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 79,
                 125,
                 76
@@ -6777,11 +6346,6 @@
     "peony_bottom": {
         "fileName": "assets/mc-textures/peony_bottom.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 91,
                 94,
@@ -6938,11 +6502,6 @@
         "fileName": "assets/mc-textures/wheat_stage4.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 88,
                 238,
                 77
@@ -7017,11 +6576,6 @@
     "cobweb": {
         "fileName": "assets/mc-textures/cobweb.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 0,
                 0,
@@ -7207,11 +6761,6 @@
     "blue_orchid": {
         "fileName": "assets/mc-textures/blue_orchid.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 141,
                 238,
@@ -7443,11 +6992,6 @@
         "fileName": "assets/mc-textures/beetroots_stage0.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 75,
                 133,
                 82
@@ -7463,11 +7007,6 @@
         "fileName": "assets/mc-textures/dandelion.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 75,
                 196,
                 74
@@ -7482,11 +7021,6 @@
     "potatoes_stage3": {
         "fileName": "assets/mc-textures/potatoes_stage3.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 76,
                 130,
@@ -7563,11 +7097,6 @@
         "fileName": "assets/mc-textures/activator_rail_on.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 26,
                 43,
                 91
@@ -7586,11 +7115,6 @@
                 34,
                 165,
                 235
-            ],
-            [
-                0,
-                0,
-                0
             ],
             [
                 33,
@@ -7622,11 +7146,6 @@
     "cyan_stained_glass_pane_top": {
         "fileName": "assets/mc-textures/cyan_stained_glass_pane_top.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 141,
                 85,
@@ -7753,11 +7272,6 @@
         "fileName": "assets/mc-textures/kelp.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 60,
                 115,
                 82
@@ -7786,11 +7300,6 @@
                 0,
                 2,
                 205
-            ],
-            [
-                0,
-                0,
-                0
             ],
             [
                 0,
@@ -7878,11 +7387,6 @@
         "fileName": "assets/mc-textures/carrots_stage0.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 82,
                 121,
                 74
@@ -7968,11 +7472,6 @@
         "fileName": "assets/mc-textures/white_tulip.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 71,
                 145,
                 104
@@ -8027,11 +7526,6 @@
     "cocoa_stage0": {
         "fileName": "assets/mc-textures/cocoa_stage0.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 41,
                 97,
@@ -8088,11 +7582,6 @@
         "fileName": "assets/mc-textures/tall_grass_top.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 212,
                 3,
                 155
@@ -8142,11 +7631,6 @@
     "oxeye_daisy": {
         "fileName": "assets/mc-textures/oxeye_daisy.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 73,
                 180,
@@ -8295,11 +7779,6 @@
             [
                 0,
                 0,
-                0
-            ],
-            [
-                0,
-                0,
                 240
             ]
         ]
@@ -8311,11 +7790,6 @@
                 0,
                 3,
                 82
-            ],
-            [
-                0,
-                0,
-                0
             ],
             [
                 170,
@@ -8347,11 +7821,6 @@
     "scaffolding_side": {
         "fileName": "assets/mc-textures/scaffolding_side.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 32,
                 140,
@@ -8467,11 +7936,6 @@
     "cauldron_bottom": {
         "fileName": "assets/mc-textures/cauldron_bottom.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 170,
                 12,
@@ -8650,11 +8114,6 @@
             [
                 0,
                 0,
-                0
-            ],
-            [
-                0,
-                0,
                 240
             ]
         ]
@@ -8744,11 +8203,6 @@
             ],
             [
                 0,
-                0,
-                0
-            ],
-            [
-                0,
                 1,
                 135
             ]
@@ -8787,11 +8241,6 @@
     "wheat_stage2": {
         "fileName": "assets/mc-textures/wheat_stage2.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 87,
                 231,
@@ -8866,11 +8315,6 @@
                 12,
                 12,
                 103
-            ],
-            [
-                0,
-                0,
-                0
             ],
             [
                 16,
@@ -9018,11 +8462,6 @@
         "fileName": "assets/mc-textures/lantern.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 158,
                 40,
                 78
@@ -9067,11 +8506,6 @@
     "red_stained_glass_pane_top": {
         "fileName": "assets/mc-textures/red_stained_glass_pane_top.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 0,
                 129,
@@ -9260,11 +8694,6 @@
             [
                 0,
                 0,
-                0
-            ],
-            [
-                0,
-                0,
                 155
             ],
             [
@@ -9423,11 +8852,6 @@
         "fileName": "assets/mc-textures/azure_bluet.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 71,
                 145,
                 104
@@ -9495,11 +8919,6 @@
             [
                 0,
                 0,
-                0
-            ],
-            [
-                0,
-                0,
                 73
             ]
         ]
@@ -9542,11 +8961,6 @@
     "carrots_stage2": {
         "fileName": "assets/mc-textures/carrots_stage2.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 79,
                 125,
@@ -9625,11 +9039,6 @@
             [
                 0,
                 0,
-                0
-            ],
-            [
-                0,
-                0,
                 157
             ],
             [
@@ -9646,11 +9055,6 @@
                 69,
                 211,
                 77
-            ],
-            [
-                0,
-                0,
-                0
             ],
             [
                 42,
@@ -9672,11 +9076,6 @@
     "fire_coral": {
         "fileName": "assets/mc-textures/fire_coral.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 250,
                 168,
@@ -9768,11 +9167,6 @@
         "fileName": "assets/mc-textures/bell_bottom.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 31,
                 207,
                 70
@@ -9808,11 +9202,6 @@
         "fileName": "assets/mc-textures/large_fern_top.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 85,
                 2,
                 107
@@ -9842,11 +9231,6 @@
     "wheat_stage5": {
         "fileName": "assets/mc-textures/wheat_stage5.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 52,
                 140,
@@ -9882,11 +9266,6 @@
     "horn_coral_fan": {
         "fileName": "assets/mc-textures/horn_coral_fan.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 40,
                 175,
@@ -9945,11 +9324,6 @@
             [
                 0,
                 0,
-                0
-            ],
-            [
-                0,
-                0,
                 246
             ]
         ]
@@ -9957,11 +9331,6 @@
     "birch_sapling": {
         "fileName": "assets/mc-textures/birch_sapling.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 63,
                 121,
@@ -10001,11 +9370,6 @@
                 0,
                 0,
                 146
-            ],
-            [
-                0,
-                0,
-                0
             ],
             [
                 0,
@@ -10078,11 +9442,6 @@
         "fileName": "assets/mc-textures/sunflower_front.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 35,
                 252,
                 160
@@ -10143,11 +9502,6 @@
                 178
             ],
             [
-                0,
-                0,
-                0
-            ],
-            [
                 47,
                 170,
                 206
@@ -10157,11 +9511,6 @@
     "sunflower_back": {
         "fileName": "assets/mc-textures/sunflower_back.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 78,
                 147,
@@ -10227,11 +9576,6 @@
     "lime_stained_glass_pane_top": {
         "fileName": "assets/mc-textures/lime_stained_glass_pane_top.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 60,
                 199,
@@ -10421,11 +9765,6 @@
                 33,
                 167,
                 234
-            ],
-            [
-                0,
-                0,
-                0
             ],
             [
                 116,
@@ -10745,11 +10084,6 @@
             [
                 0,
                 0,
-                0
-            ],
-            [
-                0,
-                0,
                 94
             ],
             [
@@ -10772,11 +10106,6 @@
     "peony_top": {
         "fileName": "assets/mc-textures/peony_top.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 92,
                 96,
@@ -10844,11 +10173,6 @@
         "colors": [
             [
                 0,
-                0,
-                0
-            ],
-            [
-                0,
                 217,
                 122
             ],
@@ -10882,11 +10206,6 @@
     "wheat_stage0": {
         "fileName": "assets/mc-textures/wheat_stage0.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 88,
                 220,
@@ -10963,11 +10282,6 @@
                 84
             ],
             [
-                0,
-                0,
-                0
-            ],
-            [
                 64,
                 132,
                 66
@@ -11028,11 +10342,6 @@
         "fileName": "assets/mc-textures/bubble_coral.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 214,
                 188,
                 104
@@ -11082,11 +10391,6 @@
     "tube_coral_fan": {
         "fileName": "assets/mc-textures/tube_coral_fan.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 159,
                 187,
@@ -11148,11 +10452,6 @@
         "fileName": "assets/mc-textures/purple_stained_glass_pane_top.png",
         "colors": [
             [
-                0,
-                0,
-                0
-            ],
-            [
                 193,
                 120,
                 116
@@ -11162,11 +10461,6 @@
     "sunflower_bottom": {
         "fileName": "assets/mc-textures/sunflower_bottom.png",
         "colors": [
-            [
-                0,
-                0,
-                0
-            ],
             [
                 75,
                 168,
