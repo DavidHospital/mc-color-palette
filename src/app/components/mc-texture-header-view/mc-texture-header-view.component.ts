@@ -20,6 +20,7 @@ export class McTextureHeaderViewComponent {
     if (mcTexture) {
       this._mcTexture = mcTexture;
       this._dataSource.data = this._mcTexture.colors;
+      this._mcTextureService.setCurrentTexture(mcTexture);
       this._changeDetectorRef.detectChanges();
     }
   };

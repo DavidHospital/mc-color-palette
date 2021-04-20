@@ -1,0 +1,908 @@
+{
+    "14": [
+        "acacia_door_bottom",
+        "acacia_planks",
+        "acacia_trapdoor",
+        "cake_inner",
+        "cake_side",
+        "cocoa_stage1",
+        "cocoa_stage2",
+        "dead_fire_coral_fan",
+        "item_frame",
+        "lava_still",
+        "oak_sapling",
+        "spruce_sapling",
+        "stripped_acacia_log_top"
+    ],
+    "13": [
+        "acacia_door_top",
+        "dead_bubble_coral",
+        "dead_bubble_coral_block",
+        "dead_fire_coral_block",
+        "dead_horn_coral_block",
+        "gray_terracotta",
+        "redstone_lamp",
+        "terracotta"
+    ],
+    "0": [
+        "acacia_leaves",
+        "activator_rail",
+        "andesite",
+        "anvil",
+        "anvil_top",
+        "attached_pumpkin_stem",
+        "bamboo_singleleaf",
+        "bamboo_stage0",
+        "bedrock",
+        "beetroots_stage2",
+        "black_stained_glass",
+        "black_stained_glass_pane_top",
+        "blast_furnace_front",
+        "blast_furnace_side",
+        "blast_furnace_top",
+        "brewing_stand",
+        "brewing_stand_base",
+        "cauldron_side",
+        "cauldron_top",
+        "chipped_anvil_top",
+        "coal_block",
+        "coal_ore",
+        "cobblestone",
+        "cobweb",
+        "composter_compost",
+        "composter_top",
+        "conduit",
+        "cornflower",
+        "cracked_stone_bricks",
+        "damaged_anvil_top",
+        "dead_brain_coral_fan",
+        "dead_bubble_coral_fan",
+        "dead_horn_coral_fan",
+        "dead_tube_coral_fan",
+        "destroy_stage_0",
+        "destroy_stage_1",
+        "destroy_stage_2",
+        "destroy_stage_3",
+        "destroy_stage_4",
+        "destroy_stage_5",
+        "destroy_stage_6",
+        "destroy_stage_7",
+        "destroy_stage_8",
+        "destroy_stage_9",
+        "detector_rail",
+        "diamond_ore",
+        "diorite",
+        "dispenser_front",
+        "dispenser_front_vertical",
+        "dropper_front",
+        "dropper_front_vertical",
+        "emerald_ore",
+        "fern",
+        "furnace_front",
+        "furnace_side",
+        "furnace_top",
+        "glass",
+        "gold_ore",
+        "grass",
+        "grass_block_side_overlay",
+        "grass_block_top",
+        "gray_stained_glass",
+        "gray_stained_glass_pane_top",
+        "grindstone_round",
+        "grindstone_side",
+        "hopper_outside",
+        "hopper_top",
+        "iron_block",
+        "iron_door_bottom",
+        "iron_door_top",
+        "iron_ore",
+        "iron_trapdoor",
+        "jigsaw_side",
+        "jigsaw_top",
+        "lapis_ore",
+        "lever",
+        "light_gray_stained_glass",
+        "light_gray_stained_glass_pane_top",
+        "lily_of_the_valley",
+        "lily_pad",
+        "magma",
+        "melon_stem",
+        "nether_quartz_ore",
+        "nether_wart_block",
+        "nether_wart_stage0",
+        "netherrack",
+        "observer_back",
+        "observer_back_on",
+        "observer_front",
+        "observer_side",
+        "observer_top",
+        "pink_terracotta",
+        "piston_bottom",
+        "piston_inner",
+        "poppy",
+        "powered_rail",
+        "red_concrete",
+        "red_mushroom",
+        "red_mushroom_block",
+        "red_shulker_box",
+        "red_stained_glass",
+        "red_stained_glass_pane_top",
+        "redstone_dust_dot",
+        "redstone_dust_line0",
+        "redstone_dust_line1",
+        "redstone_ore",
+        "redstone_torch",
+        "redstone_torch_off",
+        "repeater",
+        "repeater_on",
+        "smooth_stone",
+        "smooth_stone_slab_side",
+        "spruce_leaves",
+        "stone",
+        "stone_bricks",
+        "stonecutter_bottom",
+        "stonecutter_saw",
+        "structure_block_corner",
+        "structure_block_load",
+        "torch",
+        "tripwire",
+        "vine",
+        "water_flow",
+        "water_overlay",
+        "water_still",
+        "white_stained_glass",
+        "white_stained_glass_pane_top"
+    ],
+    "23": [
+        "acacia_log",
+        "barrel_bottom",
+        "barrel_side",
+        "barrel_top",
+        "barrel_top_open",
+        "bee_nest_front",
+        "bee_nest_front_honey",
+        "bee_nest_side",
+        "detector_rail_on",
+        "ladder",
+        "loom_front",
+        "mushroom_stem",
+        "podzol_top",
+        "quartz_pillar",
+        "smoker_front",
+        "smoker_front_on",
+        "spruce_door_bottom",
+        "spruce_door_top",
+        "spruce_log_top",
+        "spruce_planks",
+        "stripped_dark_oak_log",
+        "stripped_spruce_log_top"
+    ],
+    "15": [
+        "acacia_log_top",
+        "furnace_front_on",
+        "jukebox_top",
+        "lava_flow",
+        "orange_terracotta",
+        "redstone_lamp_on",
+        "soul_sand",
+        "white_terracotta"
+    ],
+    "41": [
+        "acacia_sapling",
+        "cocoa_stage0"
+    ],
+    "26": [
+        "activator_rail_on",
+        "beehive_front",
+        "beehive_front_honey",
+        "beehive_side",
+        "chiseled_quartz_block",
+        "crafting_table_front",
+        "crafting_table_side",
+        "lectern_front",
+        "mushroom_block_inside",
+        "oak_log_top",
+        "oak_planks",
+        "oak_trapdoor",
+        "powered_rail_on",
+        "stripped_oak_log_top"
+    ],
+    "193": [
+        "allium",
+        "purple_concrete",
+        "purple_shulker_box",
+        "purple_stained_glass",
+        "purple_stained_glass_pane_top"
+    ],
+    "85": [
+        "attached_melon_stem",
+        "dark_oak_leaves",
+        "jungle_leaves",
+        "large_fern_bottom",
+        "large_fern_top",
+        "oak_leaves",
+        "pumpkin_stem"
+    ],
+    "71": [
+        "azure_bluet",
+        "white_tulip"
+    ],
+    "62": [
+        "bamboo_large_leaves",
+        "bamboo_small_leaves",
+        "lime_shulker_box",
+        "sugar_cane"
+    ],
+    "59": [
+        "bamboo_stalk"
+    ],
+    "124": [
+        "beacon",
+        "diamond_block"
+    ],
+    "24": [
+        "bee_nest_bottom",
+        "end_rod",
+        "honeycomb_block",
+        "oak_log",
+        "spruce_trapdoor",
+        "stripped_spruce_log"
+    ],
+    "32": [
+        "bee_nest_top",
+        "birch_door_top",
+        "birch_log_top",
+        "birch_planks",
+        "fletching_table_top",
+        "sand",
+        "scaffolding_side",
+        "yellow_wool"
+    ],
+    "25": [
+        "beehive_end",
+        "dark_oak_log",
+        "lectern_base",
+        "lectern_sides",
+        "lectern_top",
+        "loom_bottom",
+        "oak_door_bottom",
+        "oak_door_top",
+        "piston_side",
+        "piston_top",
+        "smoker_side",
+        "tripwire_hook"
+    ],
+    "75": [
+        "beetroots_stage0",
+        "dandelion",
+        "orange_tulip",
+        "pink_tulip",
+        "sunflower_bottom"
+    ],
+    "74": [
+        "beetroots_stage1"
+    ],
+    "11": [
+        "beetroots_stage3",
+        "dead_tube_coral_block",
+        "granite",
+        "polished_granite"
+    ],
+    "31": [
+        "bell_bottom",
+        "birch_trapdoor",
+        "fletching_table_front",
+        "fletching_table_side",
+        "jungle_log",
+        "scaffolding_bottom",
+        "stripped_birch_log_top",
+        "yellow_shulker_box"
+    ],
+    "35": [
+        "bell_side",
+        "cut_sandstone",
+        "gold_block",
+        "hay_block_side",
+        "hay_block_top",
+        "sandstone",
+        "sandstone_bottom",
+        "sandstone_top",
+        "sunflower_front",
+        "yellow_concrete_powder"
+    ],
+    "39": [
+        "bell_top",
+        "debug"
+    ],
+    "34": [
+        "birch_door_bottom",
+        "birch_log",
+        "bone_block_side",
+        "turtle_egg_slightly_cracked"
+    ],
+    "212": [
+        "birch_leaves",
+        "bubble_coral_fan",
+        "chiseled_stone_bricks",
+        "chorus_flower",
+        "chorus_flower_dead",
+        "chorus_plant",
+        "polished_diorite",
+        "purpur_block",
+        "purpur_pillar",
+        "purpur_pillar_top",
+        "shulker_box",
+        "structure_block_save",
+        "tall_grass_bottom",
+        "tall_grass_top"
+    ],
+    "63": [
+        "birch_sapling",
+        "cactus_side",
+        "cactus_top"
+    ],
+    "157": [
+        "black_concrete",
+        "lapis_block"
+    ],
+    "162": [
+        "black_concrete_powder",
+        "smithing_table_front"
+    ],
+    "161": [
+        "black_glazed_terracotta",
+        "black_wool",
+        "blue_stained_glass",
+        "blue_stained_glass_pane_top"
+    ],
+    "170": [
+        "black_shulker_box",
+        "cauldron_bottom",
+        "cauldron_inner",
+        "dragon_egg",
+        "hopper_inside"
+    ],
+    "12": [
+        "black_terracotta",
+        "blast_furnace_front_on",
+        "cake_bottom",
+        "dead_brain_coral",
+        "dead_brain_coral_block",
+        "dead_fire_coral",
+        "dead_tube_coral",
+        "rose_bush_bottom",
+        "stripped_acacia_log"
+    ],
+    "169": [
+        "blue_concrete",
+        "blue_concrete_powder",
+        "blue_shulker_box",
+        "blue_wool"
+    ],
+    "176": [
+        "blue_glazed_terracotta"
+    ],
+    "153": [
+        "blue_ice"
+    ],
+    "141": [
+        "blue_orchid",
+        "cyan_stained_glass",
+        "cyan_stained_glass_pane_top",
+        "light_gray_glazed_terracotta"
+    ],
+    "189": [
+        "blue_terracotta"
+    ],
+    "37": [
+        "bone_block_top"
+    ],
+    "19": [
+        "bookshelf",
+        "campfire_fire",
+        "cartography_table_side1",
+        "cartography_table_side2",
+        "dead_horn_coral",
+        "grindstone_pivot",
+        "jungle_door_bottom",
+        "jungle_trapdoor",
+        "orange_stained_glass",
+        "orange_stained_glass_pane_top",
+        "orange_wool",
+        "podzol_side",
+        "red_sandstone",
+        "red_sandstone_bottom",
+        "stonecutter_side"
+    ],
+    "230": [
+        "brain_coral",
+        "brain_coral_block",
+        "brain_coral_fan"
+    ],
+    "9": [
+        "bricks"
+    ],
+    "18": [
+        "brown_concrete",
+        "brown_concrete_powder",
+        "brown_glazed_terracotta",
+        "brown_mushroom_block",
+        "brown_shulker_box",
+        "chiseled_red_sandstone",
+        "coarse_dirt",
+        "cut_red_sandstone",
+        "dirt",
+        "farmland",
+        "farmland_moist",
+        "grass_block_side",
+        "grass_block_snow",
+        "grass_path_side",
+        "jukebox_side",
+        "jungle_door_top",
+        "jungle_planks",
+        "mycelium_side",
+        "note_block",
+        "orange_concrete",
+        "orange_shulker_box",
+        "red_sand",
+        "red_sandstone_top"
+    ],
+    "16": [
+        "brown_mushroom",
+        "brown_terracotta",
+        "command_block_back",
+        "command_block_conditional",
+        "command_block_front",
+        "command_block_side",
+        "crafting_table_top"
+    ],
+    "20": [
+        "brown_stained_glass",
+        "cartography_table_side3",
+        "cartography_table_top",
+        "composter_bottom",
+        "composter_side",
+        "dark_oak_log_top",
+        "glowstone",
+        "orange_glazed_terracotta",
+        "scaffolding_top",
+        "stripped_jungle_log"
+    ],
+    "21": [
+        "brown_stained_glass_pane_top",
+        "comparator",
+        "comparator_on",
+        "dark_oak_door_top",
+        "dark_oak_planks",
+        "dark_oak_sapling",
+        "dead_bush",
+        "honey_block_bottom",
+        "pumpkin_side",
+        "pumpkin_top",
+        "smoker_top",
+        "spruce_log",
+        "stripped_dark_oak_log_top"
+    ],
+    "17": [
+        "brown_wool",
+        "fire_0",
+        "fire_1",
+        "rose_bush_top"
+    ],
+    "214": [
+        "bubble_coral",
+        "bubble_coral_block"
+    ],
+    "43": [
+        "cactus_bottom",
+        "end_portal_frame_side"
+    ],
+    "233": [
+        "cake_top"
+    ],
+    "155": [
+        "campfire_log",
+        "ice",
+        "packed_ice"
+    ],
+    "22": [
+        "campfire_log_lit",
+        "carved_pumpkin",
+        "dark_oak_door_bottom",
+        "dark_oak_trapdoor",
+        "jack_o_lantern",
+        "jungle_log_top",
+        "loom_top",
+        "orange_concrete_powder",
+        "quartz_block_bottom",
+        "quartz_block_side",
+        "quartz_block_top",
+        "quartz_pillar_top",
+        "stripped_jungle_log_top"
+    ],
+    "82": [
+        "carrots_stage0"
+    ],
+    "79": [
+        "carrots_stage1",
+        "carrots_stage2",
+        "potatoes_stage0"
+    ],
+    "78": [
+        "carrots_stage3",
+        "sunflower_back"
+    ],
+    "107": [
+        "chain_command_block_back",
+        "chain_command_block_front"
+    ],
+    "105": [
+        "chain_command_block_conditional"
+    ],
+    "106": [
+        "chain_command_block_side"
+    ],
+    "27": [
+        "chiseled_quartz_block_top",
+        "daylight_detector_inverted_top",
+        "daylight_detector_side",
+        "daylight_detector_top",
+        "stonecutter_top",
+        "stripped_oak_log",
+        "yellow_terracotta"
+    ],
+    "29": [
+        "chiseled_sandstone",
+        "honey_block_top",
+        "yellow_concrete"
+    ],
+    "158": [
+        "clay",
+        "lantern"
+    ],
+    "28": [
+        "composter_ready",
+        "grass_path_top",
+        "rail",
+        "rail_corner",
+        "smoker_bottom"
+    ],
+    "133": [
+        "cyan_concrete",
+        "cyan_glazed_terracotta",
+        "glass_pane_top",
+        "white_concrete"
+    ],
+    "131": [
+        "cyan_concrete_powder"
+    ],
+    "132": [
+        "cyan_shulker_box",
+        "end_portal_frame_eye"
+    ],
+    "127": [
+        "cyan_terracotta",
+        "snow",
+        "white_concrete_powder",
+        "white_shulker_box"
+    ],
+    "130": [
+        "cyan_wool"
+    ],
+    "111": [
+        "dark_prismarine"
+    ],
+    "4": [
+        "debug2",
+        "smithing_table_bottom"
+    ],
+    "64": [
+        "dried_kelp_bottom",
+        "dried_kelp_side",
+        "dried_kelp_top",
+        "lime_concrete"
+    ],
+    "96": [
+        "emerald_block"
+    ],
+    "185": [
+        "enchanting_table_bottom",
+        "obsidian"
+    ],
+    "183": [
+        "enchanting_table_side"
+    ],
+    "238": [
+        "enchanting_table_top"
+    ],
+    "117": [
+        "end_portal_frame_top"
+    ],
+    "47": [
+        "end_stone",
+        "light_gray_wool",
+        "wet_sponge"
+    ],
+    "49": [
+        "end_stone_bricks",
+        "green_terracotta",
+        "melon_top"
+    ],
+    "250": [
+        "fire_coral",
+        "fire_coral_block",
+        "fire_coral_fan"
+    ],
+    "8": [
+        "flower_pot"
+    ],
+    "154": [
+        "frosted_ice_0",
+        "frosted_ice_1",
+        "frosted_ice_2",
+        "frosted_ice_3",
+        "spawner"
+    ],
+    "7": [
+        "gravel"
+    ],
+    "151": [
+        "gray_concrete",
+        "gray_shulker_box"
+    ],
+    "143": [
+        "gray_concrete_powder",
+        "light_blue_concrete"
+    ],
+    "138": [
+        "gray_glazed_terracotta",
+        "light_blue_shulker_box"
+    ],
+    "140": [
+        "gray_wool"
+    ],
+    "56": [
+        "green_concrete",
+        "green_stained_glass",
+        "green_stained_glass_pane_top",
+        "lime_glazed_terracotta",
+        "wither_rose"
+    ],
+    "54": [
+        "green_concrete_powder",
+        "green_glazed_terracotta"
+    ],
+    "55": [
+        "green_shulker_box",
+        "green_wool"
+    ],
+    "30": [
+        "honey_block_side",
+        "stripped_birch_log",
+        "wheat_stage6"
+    ],
+    "40": [
+        "horn_coral",
+        "horn_coral_block",
+        "horn_coral_fan"
+    ],
+    "69": [
+        "iron_bars",
+        "seagrass",
+        "tall_seagrass_bottom",
+        "tall_seagrass_top"
+    ],
+    "199": [
+        "jigsaw_bottom",
+        "structure_block",
+        "structure_block_data"
+    ],
+    "53": [
+        "jungle_sapling"
+    ],
+    "60": [
+        "kelp",
+        "kelp_plant",
+        "lime_stained_glass",
+        "lime_stained_glass_pane_top"
+    ],
+    "137": [
+        "light_blue_concrete_powder",
+        "light_blue_glazed_terracotta",
+        "light_blue_wool"
+    ],
+    "150": [
+        "light_blue_stained_glass",
+        "light_blue_stained_glass_pane_top"
+    ],
+    "177": [
+        "light_blue_terracotta"
+    ],
+    "42": [
+        "light_gray_concrete",
+        "light_gray_shulker_box",
+        "sponge",
+        "yellow_stained_glass",
+        "yellow_stained_glass_pane_top"
+    ],
+    "48": [
+        "light_gray_concrete_powder",
+        "melon_side"
+    ],
+    "10": [
+        "light_gray_terracotta",
+        "loom_side"
+    ],
+    "213": [
+        "lilac_bottom",
+        "lilac_top"
+    ],
+    "61": [
+        "lime_concrete_powder",
+        "lime_wool"
+    ],
+    "51": [
+        "lime_terracotta"
+    ],
+    "216": [
+        "magenta_concrete",
+        "magenta_glazed_terracotta",
+        "magenta_shulker_box",
+        "magenta_wool"
+    ],
+    "215": [
+        "magenta_concrete_powder"
+    ],
+    "200": [
+        "magenta_stained_glass",
+        "magenta_stained_glass_pane_top"
+    ],
+    "241": [
+        "magenta_terracotta",
+        "pink_shulker_box"
+    ],
+    "58": [
+        "mossy_cobblestone",
+        "mossy_stone_bricks"
+    ],
+    "242": [
+        "mycelium_top"
+    ],
+    "245": [
+        "nether_bricks"
+    ],
+    "187": [
+        "nether_portal"
+    ],
+    "2": [
+        "nether_wart_stage1",
+        "nether_wart_stage2",
+        "red_glazed_terracotta"
+    ],
+    "73": [
+        "oxeye_daisy"
+    ],
+    "91": [
+        "peony_bottom"
+    ],
+    "92": [
+        "peony_top"
+    ],
+    "239": [
+        "pink_concrete",
+        "pink_concrete_powder"
+    ],
+    "240": [
+        "pink_glazed_terracotta",
+        "pink_stained_glass",
+        "pink_stained_glass_pane_top",
+        "pink_wool",
+        "purple_terracotta"
+    ],
+    "77": [
+        "piston_top_sticky",
+        "potatoes_stage2"
+    ],
+    "113": [
+        "polished_andesite"
+    ],
+    "76": [
+        "potatoes_stage1",
+        "potatoes_stage3",
+        "red_tulip",
+        "slime_block",
+        "sunflower_top"
+    ],
+    "115": [
+        "prismarine"
+    ],
+    "121": [
+        "prismarine_bricks"
+    ],
+    "196": [
+        "purple_concrete_powder",
+        "purple_wool"
+    ],
+    "197": [
+        "purple_glazed_terracotta"
+    ],
+    "1": [
+        "red_concrete_powder",
+        "red_wool"
+    ],
+    "253": [
+        "red_nether_bricks"
+    ],
+    "6": [
+        "red_terracotta",
+        "tnt_bottom",
+        "tnt_side",
+        "tnt_top"
+    ],
+    "5": [
+        "redstone_block"
+    ],
+    "181": [
+        "repeating_command_block_back"
+    ],
+    "180": [
+        "repeating_command_block_conditional",
+        "repeating_command_block_front",
+        "repeating_command_block_side"
+    ],
+    "100": [
+        "sea_lantern"
+    ],
+    "46": [
+        "sea_pickle"
+    ],
+    "163": [
+        "smithing_table_side"
+    ],
+    "165": [
+        "smithing_table_top"
+    ],
+    "99": [
+        "sweet_berry_bush_stage0"
+    ],
+    "95": [
+        "sweet_berry_bush_stage1",
+        "sweet_berry_bush_stage2",
+        "sweet_berry_bush_stage3"
+    ],
+    "160": [
+        "tube_coral"
+    ],
+    "159": [
+        "tube_coral_block",
+        "tube_coral_fan"
+    ],
+    "33": [
+        "turtle_egg",
+        "turtle_egg_very_cracked",
+        "yellow_glazed_terracotta"
+    ],
+    "88": [
+        "wheat_stage0",
+        "wheat_stage3",
+        "wheat_stage4"
+    ],
+    "86": [
+        "wheat_stage1"
+    ],
+    "87": [
+        "wheat_stage2"
+    ],
+    "52": [
+        "wheat_stage5"
+    ],
+    "36": [
+        "wheat_stage7"
+    ],
+    "120": [
+        "white_glazed_terracotta"
+    ],
+    "136": [
+        "white_wool"
+    ]
+}

@@ -1,4 +1,5 @@
-import { hslToRgb } from "node-vibrant/lib/util";
+import { hslToRgb } from 'node-vibrant/lib/util';
+import { Harmony } from 'src/app/types/color-harmonies';
 
 export interface McTexture {
   fileName: string;
@@ -12,3 +13,5 @@ export function getHexFromHsl(hsl: number[]) {
   const b = Math.floor(rgb[2]).toString(16).padStart(2, '0');
   return `#${r}${g}${b}`;
 }
+
+

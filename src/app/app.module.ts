@@ -6,6 +6,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { McTextureHeaderViewModule } from './components/mc-texture-header-view/mc-texture-header-view.module';
+import { McTextureListViewModule } from './components/mc-texture-list-view/mc-texture-list-view.module';
 
 @NgModule({
   declarations: [
@@ -16,6 +17,7 @@ import { McTextureHeaderViewModule } from './components/mc-texture-header-view/m
     AppRoutingModule,
     MatProgressSpinnerModule,
     McTextureHeaderViewModule,
+    McTextureListViewModule,
     BrowserAnimationsModule,
   ],
   providers: [],
