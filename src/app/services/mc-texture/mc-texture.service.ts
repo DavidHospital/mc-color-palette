@@ -37,6 +37,12 @@ export class McTextureService {
         return textureMap[base.colors[0][0]].map(name => this.getMcTexture(name));
     }
 
+    public searchTextureMapByHue(hue: number): McTexture[] {
+        let t = textureMap[hue];
+        if (!t) return [];
+        return t.map(name => this.getMcTexture(name));
+    }
+
     private _loadMcTextures() {
         this._assetsCache = data;
     }

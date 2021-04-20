@@ -1,7 +1,9 @@
 import { Component, OnInit, AfterViewInit, Input } from '@angular/core';
 import { McTexture } from 'src/app/types/mc-texture';
 import { McTextureService } from 'src/app/services/mc-texture/mc-texture.service';
+import { Harmony } from 'src/app/types/color-harmonies';
 import { Subscription } from 'rxjs';
+import { PaletteService } from 'src/app/services/palette/palette.service';
 
 @Component({
   selector: 'mc-texture-list-view',
@@ -15,11 +17,12 @@ export class McTextureListViewComponent implements AfterViewInit {
 
   displayedColumns = ["image", "name", "color"];
 
-  constructor(private _mcTextureService: McTextureService) { }
+  constructor(private _mcTextureService: McTextureService,
+              private _paletteService: PaletteService) { }
 
   ngAfterViewInit(): void {
     this._currentTextureSub = this._mcTextureService.currentTexture.subscribe(mcTexture => {
-      this._mcTextures = this._mcTextureService.searchTextureMap(mcTexture);
+      this._mcTextures = this._paletteService.getPalette(mcTexture, Harmony.COMPLEMENTARY, 8);
     });
   }
 

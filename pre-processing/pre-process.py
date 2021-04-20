@@ -2,22 +2,24 @@ import colorgram
 import os
 import json
 
-COLOR_EPSILON = 5
+def get_whitelist(path_to_whitelist):
+    with open(path_to_whitelist) as inpt:
+        return json.load(inpt)["whitelist"]
 
-def pre_process_images(path_to_images, output_file):
+def pre_process_images(path_to_images, output_file, whitelist=None):
 
     data = {}
-
     for filename in os.listdir(path_to_images):
         if filename.endswith(".png"): 
-            parsed_filename = filename.split('.')[0]
+            if filename in whitelist:
+                parsed_filename = filename.split('.')[0]
+                colors = colorgram.extract(path_to_images + '/' + filename, 3)
 
-            colors = colorgram.extract(path_to_images + '/' + filename, 3)
-
-            data[parsed_filename] = {
-                    'fileName': 'assets/mc-textures/' + filename,
-                    'colors': list(filter(lambda x: not (x.h == 0 and x.s == 0 and x.l == 0), map(lambda y: y.hsl, colors)))
-            }
+                data[parsed_filename] = {
+                        'fileName': 'assets/mc-textures/' + filename,
+                        'name': parsed_filename,
+                        'colors': list(filter(lambda x: not (x.h == 0 and x.s == 0 and x.l == 0), map(lambda y: y.hsl, colors)))
+                }
 
     with open(output_file, 'w') as output:
         output.write(json.dumps(data, indent=4))
@@ -38,6 +40,6 @@ def pre_process_color_maps(data, output_file):
     with open(output_file, 'w') as output:
         output.write(json.dumps(colors, indent=4))
 
-
-data = pre_process_images('src/assets/mc-textures', 'src/assets/textures-data.json')
+whitelist = get_whitelist('src/assets/texture-whitelist.json')
+data = pre_process_images('src/assets/mc-textures', 'src/assets/textures-data.json', whitelist=whitelist)
 pre_process_color_maps(data, 'src/assets/texture-color-maps.json')

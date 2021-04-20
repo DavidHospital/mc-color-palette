@@ -4,6 +4,10 @@ export class Harmony {
     return this._angles;
   }
 
+  get hueAngles(): number[] {
+    return this._angles.map(angle => Math.round(angle / 360. * 256));
+  }
+  
   get name(): string {
     return this._name;
   }

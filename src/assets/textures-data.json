@@ -1,21 +1,7 @@
 {
-    "acacia_door_bottom": {
-        "fileName": "assets/mc-textures/acacia_door_bottom.png",
-        "colors": [
-            [
-                14,
-                128,
-                98
-            ],
-            [
-                13,
-                136,
-                139
-            ]
-        ]
-    },
     "acacia_door_top": {
         "fileName": "assets/mc-textures/acacia_door_top.png",
+        "name": "acacia_door_top",
         "colors": [
             [
                 13,
@@ -34,23 +20,9 @@
             ]
         ]
     },
-    "acacia_leaves": {
-        "fileName": "assets/mc-textures/acacia_leaves.png",
-        "colors": [
-            [
-                0,
-                0,
-                158
-            ],
-            [
-                0,
-                3,
-                107
-            ]
-        ]
-    },
     "acacia_log": {
         "fileName": "assets/mc-textures/acacia_log.png",
+        "name": "acacia_log",
         "colors": [
             [
                 23,
@@ -66,6 +38,7 @@
     },
     "acacia_log_top": {
         "fileName": "assets/mc-textures/acacia_log_top.png",
+        "name": "acacia_log_top",
         "colors": [
             [
                 15,
@@ -86,6 +59,7 @@
     },
     "acacia_planks": {
         "fileName": "assets/mc-textures/acacia_planks.png",
+        "name": "acacia_planks",
         "colors": [
             [
                 14,
@@ -99,23 +73,9 @@
             ]
         ]
     },
-    "acacia_sapling": {
-        "fileName": "assets/mc-textures/acacia_sapling.png",
-        "colors": [
-            [
-                41,
-                169,
-                71
-            ],
-            [
-                51,
-                164,
-                92
-            ]
-        ]
-    },
     "acacia_trapdoor": {
         "fileName": "assets/mc-textures/acacia_trapdoor.png",
+        "name": "acacia_trapdoor",
         "colors": [
             [
                 14,
@@ -134,58 +94,9 @@
             ]
         ]
     },
-    "activator_rail": {
-        "fileName": "assets/mc-textures/activator_rail.png",
-        "colors": [
-            [
-                0,
-                255,
-                11
-            ],
-            [
-                26,
-                43,
-                91
-            ],
-            [
-                25,
-                32,
-                149
-            ]
-        ]
-    },
-    "activator_rail_on": {
-        "fileName": "assets/mc-textures/activator_rail_on.png",
-        "colors": [
-            [
-                26,
-                43,
-                91
-            ],
-            [
-                25,
-                32,
-                149
-            ]
-        ]
-    },
-    "allium": {
-        "fileName": "assets/mc-textures/allium.png",
-        "colors": [
-            [
-                193,
-                210,
-                180
-            ],
-            [
-                193,
-                210,
-                204
-            ]
-        ]
-    },
     "andesite": {
         "fileName": "assets/mc-textures/andesite.png",
+        "name": "andesite",
         "colors": [
             [
                 0,
@@ -206,6 +117,7 @@
     },
     "anvil": {
         "fileName": "assets/mc-textures/anvil.png",
+        "name": "anvil",
         "colors": [
             [
                 0,
@@ -219,168 +131,9 @@
             ]
         ]
     },
-    "anvil_top": {
-        "fileName": "assets/mc-textures/anvil_top.png",
-        "colors": [
-            [
-                0,
-                0,
-                74
-            ],
-            [
-                0,
-                0,
-                12
-            ]
-        ]
-    },
-    "attached_melon_stem": {
-        "fileName": "assets/mc-textures/attached_melon_stem.png",
-        "colors": [
-            [
-                85,
-                2,
-                140
-            ],
-            [
-                212,
-                1,
-                97
-            ]
-        ]
-    },
-    "attached_pumpkin_stem": {
-        "fileName": "assets/mc-textures/attached_pumpkin_stem.png",
-        "colors": [
-            [
-                0,
-                0,
-                149
-            ],
-            [
-                0,
-                0,
-                95
-            ]
-        ]
-    },
-    "azure_bluet": {
-        "fileName": "assets/mc-textures/azure_bluet.png",
-        "colors": [
-            [
-                71,
-                145,
-                104
-            ],
-            [
-                42,
-                120,
-                238
-            ]
-        ]
-    },
-    "bamboo_large_leaves": {
-        "fileName": "assets/mc-textures/bamboo_large_leaves.png",
-        "colors": [
-            [
-                62,
-                161,
-                98
-            ],
-            [
-                63,
-                176,
-                81
-            ],
-            [
-                64,
-                158,
-                55
-            ]
-        ]
-    },
-    "bamboo_singleleaf": {
-        "fileName": "assets/mc-textures/bamboo_singleleaf.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                58,
-                168,
-                77
-            ],
-            [
-                57,
-                112,
-                133
-            ]
-        ]
-    },
-    "bamboo_small_leaves": {
-        "fileName": "assets/mc-textures/bamboo_small_leaves.png",
-        "colors": [
-            [
-                62,
-                130,
-                45
-            ],
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                63,
-                176,
-                81
-            ]
-        ]
-    },
-    "bamboo_stage0": {
-        "fileName": "assets/mc-textures/bamboo_stage0.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                24,
-                119,
-                58
-            ],
-            [
-                20,
-                150,
-                36
-            ]
-        ]
-    },
-    "bamboo_stalk": {
-        "fileName": "assets/mc-textures/bamboo_stalk.png",
-        "colors": [
-            [
-                59,
-                237,
-                71
-            ],
-            [
-                61,
-                129,
-                139
-            ],
-            [
-                61,
-                183,
-                60
-            ]
-        ]
-    },
     "barrel_bottom": {
         "fileName": "assets/mc-textures/barrel_bottom.png",
+        "name": "barrel_bottom",
         "colors": [
             [
                 23,
@@ -396,6 +149,7 @@
     },
     "barrel_side": {
         "fileName": "assets/mc-textures/barrel_side.png",
+        "name": "barrel_side",
         "colors": [
             [
                 23,
@@ -416,6 +170,7 @@
     },
     "barrel_top": {
         "fileName": "assets/mc-textures/barrel_top.png",
+        "name": "barrel_top",
         "colors": [
             [
                 23,
@@ -424,23 +179,9 @@
             ]
         ]
     },
-    "barrel_top_open": {
-        "fileName": "assets/mc-textures/barrel_top_open.png",
-        "colors": [
-            [
-                23,
-                103,
-                89
-            ],
-            [
-                24,
-                163,
-                33
-            ]
-        ]
-    },
     "beacon": {
         "fileName": "assets/mc-textures/beacon.png",
+        "name": "beacon",
         "colors": [
             [
                 124,
@@ -461,6 +202,7 @@
     },
     "bedrock": {
         "fileName": "assets/mc-textures/bedrock.png",
+        "name": "bedrock",
         "colors": [
             [
                 0,
@@ -481,6 +223,7 @@
     },
     "bee_nest_bottom": {
         "fileName": "assets/mc-textures/bee_nest_bottom.png",
+        "name": "bee_nest_bottom",
         "colors": [
             [
                 24,
@@ -496,6 +239,7 @@
     },
     "bee_nest_front": {
         "fileName": "assets/mc-textures/bee_nest_front.png",
+        "name": "bee_nest_front",
         "colors": [
             [
                 23,
@@ -514,48 +258,9 @@
             ]
         ]
     },
-    "bee_nest_front_honey": {
-        "fileName": "assets/mc-textures/bee_nest_front_honey.png",
-        "colors": [
-            [
-                23,
-                134,
-                140
-            ],
-            [
-                32,
-                235,
-                163
-            ],
-            [
-                20,
-                83,
-                83
-            ]
-        ]
-    },
-    "bee_nest_side": {
-        "fileName": "assets/mc-textures/bee_nest_side.png",
-        "colors": [
-            [
-                23,
-                135,
-                144
-            ],
-            [
-                32,
-                225,
-                167
-            ],
-            [
-                20,
-                115,
-                87
-            ]
-        ]
-    },
     "bee_nest_top": {
         "fileName": "assets/mc-textures/bee_nest_top.png",
+        "name": "bee_nest_top",
         "colors": [
             [
                 32,
@@ -576,6 +281,7 @@
     },
     "beehive_end": {
         "fileName": "assets/mc-textures/beehive_end.png",
+        "name": "beehive_end",
         "colors": [
             [
                 25,
@@ -596,6 +302,7 @@
     },
     "beehive_front": {
         "fileName": "assets/mc-textures/beehive_front.png",
+        "name": "beehive_front",
         "colors": [
             [
                 26,
@@ -614,28 +321,9 @@
             ]
         ]
     },
-    "beehive_front_honey": {
-        "fileName": "assets/mc-textures/beehive_front_honey.png",
-        "colors": [
-            [
-                26,
-                103,
-                138
-            ],
-            [
-                25,
-                108,
-                89
-            ],
-            [
-                26,
-                125,
-                118
-            ]
-        ]
-    },
     "beehive_side": {
         "fileName": "assets/mc-textures/beehive_side.png",
+        "name": "beehive_side",
         "colors": [
             [
                 26,
@@ -649,143 +337,9 @@
             ]
         ]
     },
-    "beetroots_stage0": {
-        "fileName": "assets/mc-textures/beetroots_stage0.png",
-        "colors": [
-            [
-                75,
-                133,
-                82
-            ],
-            [
-                71,
-                148,
-                108
-            ]
-        ]
-    },
-    "beetroots_stage1": {
-        "fileName": "assets/mc-textures/beetroots_stage1.png",
-        "colors": [
-            [
-                74,
-                134,
-                84
-            ],
-            [
-                71,
-                148,
-                108
-            ]
-        ]
-    },
-    "beetroots_stage2": {
-        "fileName": "assets/mc-textures/beetroots_stage2.png",
-        "colors": [
-            [
-                0,
-                255,
-                1
-            ],
-            [
-                76,
-                131,
-                82
-            ],
-            [
-                71,
-                148,
-                108
-            ]
-        ]
-    },
-    "beetroots_stage3": {
-        "fileName": "assets/mc-textures/beetroots_stage3.png",
-        "colors": [
-            [
-                11,
-                255,
-                9
-            ],
-            [
-                77,
-                129,
-                79
-            ],
-            [
-                71,
-                148,
-                108
-            ]
-        ]
-    },
-    "bell_bottom": {
-        "fileName": "assets/mc-textures/bell_bottom.png",
-        "colors": [
-            [
-                31,
-                207,
-                70
-            ],
-            [
-                28,
-                220,
-                158
-            ]
-        ]
-    },
-    "bell_side": {
-        "fileName": "assets/mc-textures/bell_side.png",
-        "colors": [
-            [
-                35,
-                249,
-                158
-            ],
-            [
-                39,
-                250,
-                204
-            ]
-        ]
-    },
-    "bell_top": {
-        "fileName": "assets/mc-textures/bell_top.png",
-        "colors": [
-            [
-                39,
-                250,
-                203
-            ],
-            [
-                36,
-                252,
-                163
-            ]
-        ]
-    },
-    "birch_door_bottom": {
-        "fileName": "assets/mc-textures/birch_door_bottom.png",
-        "colors": [
-            [
-                34,
-                123,
-                177
-            ],
-            [
-                32,
-                97,
-                156
-            ],
-            [
-                32,
-                123,
-                224
-            ]
-        ]
-    },
     "birch_door_top": {
         "fileName": "assets/mc-textures/birch_door_top.png",
+        "name": "birch_door_top",
         "colors": [
             [
                 32,
@@ -804,23 +358,9 @@
             ]
         ]
     },
-    "birch_leaves": {
-        "fileName": "assets/mc-textures/birch_leaves.png",
-        "colors": [
-            [
-                212,
-                3,
-                110
-            ],
-            [
-                0,
-                1,
-                135
-            ]
-        ]
-    },
     "birch_log": {
         "fileName": "assets/mc-textures/birch_log.png",
+        "name": "birch_log",
         "colors": [
             [
                 34,
@@ -841,6 +381,7 @@
     },
     "birch_log_top": {
         "fileName": "assets/mc-textures/birch_log_top.png",
+        "name": "birch_log_top",
         "colors": [
             [
                 32,
@@ -861,6 +402,7 @@
     },
     "birch_planks": {
         "fileName": "assets/mc-textures/birch_planks.png",
+        "name": "birch_planks",
         "colors": [
             [
                 32,
@@ -879,23 +421,9 @@
             ]
         ]
     },
-    "birch_sapling": {
-        "fileName": "assets/mc-textures/birch_sapling.png",
-        "colors": [
-            [
-                63,
-                121,
-                107
-            ],
-            [
-                63,
-                111,
-                85
-            ]
-        ]
-    },
     "birch_trapdoor": {
         "fileName": "assets/mc-textures/birch_trapdoor.png",
+        "name": "birch_trapdoor",
         "colors": [
             [
                 31,
@@ -916,6 +444,7 @@
     },
     "black_concrete": {
         "fileName": "assets/mc-textures/black_concrete.png",
+        "name": "black_concrete",
         "colors": [
             [
                 157,
@@ -926,6 +455,7 @@
     },
     "black_concrete_powder": {
         "fileName": "assets/mc-textures/black_concrete_powder.png",
+        "name": "black_concrete_powder",
         "colors": [
             [
                 162,
@@ -936,6 +466,7 @@
     },
     "black_glazed_terracotta": {
         "fileName": "assets/mc-textures/black_glazed_terracotta.png",
+        "name": "black_glazed_terracotta",
         "colors": [
             [
                 161,
@@ -956,6 +487,7 @@
     },
     "black_shulker_box": {
         "fileName": "assets/mc-textures/black_shulker_box.png",
+        "name": "black_shulker_box",
         "colors": [
             [
                 170,
@@ -966,6 +498,7 @@
     },
     "black_stained_glass": {
         "fileName": "assets/mc-textures/black_stained_glass.png",
+        "name": "black_stained_glass",
         "colors": [
             [
                 0,
@@ -974,18 +507,9 @@
             ]
         ]
     },
-    "black_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/black_stained_glass_pane_top.png",
-        "colors": [
-            [
-                0,
-                0,
-                3
-            ]
-        ]
-    },
     "black_terracotta": {
         "fileName": "assets/mc-textures/black_terracotta.png",
+        "name": "black_terracotta",
         "colors": [
             [
                 12,
@@ -996,6 +520,7 @@
     },
     "black_wool": {
         "fileName": "assets/mc-textures/black_wool.png",
+        "name": "black_wool",
         "colors": [
             [
                 161,
@@ -1006,6 +531,7 @@
     },
     "blast_furnace_front": {
         "fileName": "assets/mc-textures/blast_furnace_front.png",
+        "name": "blast_furnace_front",
         "colors": [
             [
                 0,
@@ -1024,28 +550,9 @@
             ]
         ]
     },
-    "blast_furnace_front_on": {
-        "fileName": "assets/mc-textures/blast_furnace_front_on.png",
-        "colors": [
-            [
-                12,
-                9,
-                93
-            ],
-            [
-                23,
-                20,
-                153
-            ],
-            [
-                180,
-                7,
-                64
-            ]
-        ]
-    },
     "blast_furnace_side": {
         "fileName": "assets/mc-textures/blast_furnace_side.png",
+        "name": "blast_furnace_side",
         "colors": [
             [
                 0,
@@ -1066,6 +573,7 @@
     },
     "blast_furnace_top": {
         "fileName": "assets/mc-textures/blast_furnace_top.png",
+        "name": "blast_furnace_top",
         "colors": [
             [
                 0,
@@ -1081,6 +589,7 @@
     },
     "blue_concrete": {
         "fileName": "assets/mc-textures/blue_concrete.png",
+        "name": "blue_concrete",
         "colors": [
             [
                 169,
@@ -1091,6 +600,7 @@
     },
     "blue_concrete_powder": {
         "fileName": "assets/mc-textures/blue_concrete_powder.png",
+        "name": "blue_concrete_powder",
         "colors": [
             [
                 169,
@@ -1111,6 +621,7 @@
     },
     "blue_glazed_terracotta": {
         "fileName": "assets/mc-textures/blue_glazed_terracotta.png",
+        "name": "blue_glazed_terracotta",
         "colors": [
             [
                 176,
@@ -1131,6 +642,7 @@
     },
     "blue_ice": {
         "fileName": "assets/mc-textures/blue_ice.png",
+        "name": "blue_ice",
         "colors": [
             [
                 153,
@@ -1149,23 +661,9 @@
             ]
         ]
     },
-    "blue_orchid": {
-        "fileName": "assets/mc-textures/blue_orchid.png",
-        "colors": [
-            [
-                141,
-                238,
-                144
-            ],
-            [
-                73,
-                165,
-                83
-            ]
-        ]
-    },
     "blue_shulker_box": {
         "fileName": "assets/mc-textures/blue_shulker_box.png",
+        "name": "blue_shulker_box",
         "colors": [
             [
                 169,
@@ -1176,6 +674,7 @@
     },
     "blue_stained_glass": {
         "fileName": "assets/mc-textures/blue_stained_glass.png",
+        "name": "blue_stained_glass",
         "colors": [
             [
                 161,
@@ -1184,18 +683,9 @@
             ]
         ]
     },
-    "blue_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/blue_stained_glass_pane_top.png",
-        "colors": [
-            [
-                161,
-                143,
-                109
-            ]
-        ]
-    },
     "blue_terracotta": {
         "fileName": "assets/mc-textures/blue_terracotta.png",
+        "name": "blue_terracotta",
         "colors": [
             [
                 189,
@@ -1216,6 +706,7 @@
     },
     "blue_wool": {
         "fileName": "assets/mc-textures/blue_wool.png",
+        "name": "blue_wool",
         "colors": [
             [
                 169,
@@ -1231,6 +722,7 @@
     },
     "bone_block_side": {
         "fileName": "assets/mc-textures/bone_block_side.png",
+        "name": "bone_block_side",
         "colors": [
             [
                 34,
@@ -1241,6 +733,7 @@
     },
     "bone_block_top": {
         "fileName": "assets/mc-textures/bone_block_top.png",
+        "name": "bone_block_top",
         "colors": [
             [
                 37,
@@ -1261,6 +754,7 @@
     },
     "bookshelf": {
         "fileName": "assets/mc-textures/bookshelf.png",
+        "name": "bookshelf",
         "colors": [
             [
                 19,
@@ -1279,23 +773,9 @@
             ]
         ]
     },
-    "brain_coral": {
-        "fileName": "assets/mc-textures/brain_coral.png",
-        "colors": [
-            [
-                230,
-                141,
-                142
-            ],
-            [
-                227,
-                137,
-                102
-            ]
-        ]
-    },
     "brain_coral_block": {
         "fileName": "assets/mc-textures/brain_coral_block.png",
+        "name": "brain_coral_block",
         "colors": [
             [
                 230,
@@ -1314,63 +794,9 @@
             ]
         ]
     },
-    "brain_coral_fan": {
-        "fileName": "assets/mc-textures/brain_coral_fan.png",
-        "colors": [
-            [
-                230,
-                139,
-                142
-            ],
-            [
-                230,
-                166,
-                177
-            ]
-        ]
-    },
-    "brewing_stand": {
-        "fileName": "assets/mc-textures/brewing_stand.png",
-        "colors": [
-            [
-                0,
-                0,
-                11
-            ],
-            [
-                12,
-                47,
-                94
-            ],
-            [
-                26,
-                153,
-                141
-            ]
-        ]
-    },
-    "brewing_stand_base": {
-        "fileName": "assets/mc-textures/brewing_stand_base.png",
-        "colors": [
-            [
-                0,
-                13,
-                104
-            ],
-            [
-                0,
-                14,
-                142
-            ],
-            [
-                0,
-                6,
-                128
-            ]
-        ]
-    },
     "bricks": {
         "fileName": "assets/mc-textures/bricks.png",
+        "name": "bricks",
         "colors": [
             [
                 9,
@@ -1391,6 +817,7 @@
     },
     "brown_concrete": {
         "fileName": "assets/mc-textures/brown_concrete.png",
+        "name": "brown_concrete",
         "colors": [
             [
                 18,
@@ -1406,6 +833,7 @@
     },
     "brown_concrete_powder": {
         "fileName": "assets/mc-textures/brown_concrete_powder.png",
+        "name": "brown_concrete_powder",
         "colors": [
             [
                 18,
@@ -1416,6 +844,7 @@
     },
     "brown_glazed_terracotta": {
         "fileName": "assets/mc-textures/brown_glazed_terracotta.png",
+        "name": "brown_glazed_terracotta",
         "colors": [
             [
                 18,
@@ -1434,23 +863,9 @@
             ]
         ]
     },
-    "brown_mushroom": {
-        "fileName": "assets/mc-textures/brown_mushroom.png",
-        "colors": [
-            [
-                16,
-                66,
-                98
-            ],
-            [
-                16,
-                104,
-                160
-            ]
-        ]
-    },
     "brown_mushroom_block": {
         "fileName": "assets/mc-textures/brown_mushroom_block.png",
+        "name": "brown_mushroom_block",
         "colors": [
             [
                 18,
@@ -1461,6 +876,7 @@
     },
     "brown_shulker_box": {
         "fileName": "assets/mc-textures/brown_shulker_box.png",
+        "name": "brown_shulker_box",
         "colors": [
             [
                 18,
@@ -1481,6 +897,7 @@
     },
     "brown_stained_glass": {
         "fileName": "assets/mc-textures/brown_stained_glass.png",
+        "name": "brown_stained_glass",
         "colors": [
             [
                 20,
@@ -1489,18 +906,9 @@
             ]
         ]
     },
-    "brown_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/brown_stained_glass_pane_top.png",
-        "colors": [
-            [
-                21,
-                86,
-                72
-            ]
-        ]
-    },
     "brown_terracotta": {
         "fileName": "assets/mc-textures/brown_terracotta.png",
+        "name": "brown_terracotta",
         "colors": [
             [
                 16,
@@ -1511,6 +919,7 @@
     },
     "brown_wool": {
         "fileName": "assets/mc-textures/brown_wool.png",
+        "name": "brown_wool",
         "colors": [
             [
                 17,
@@ -1524,23 +933,9 @@
             ]
         ]
     },
-    "bubble_coral": {
-        "fileName": "assets/mc-textures/bubble_coral.png",
-        "colors": [
-            [
-                214,
-                188,
-                104
-            ],
-            [
-                209,
-                223,
-                72
-            ]
-        ]
-    },
     "bubble_coral_block": {
         "fileName": "assets/mc-textures/bubble_coral_block.png",
+        "name": "bubble_coral_block",
         "colors": [
             [
                 214,
@@ -1559,248 +954,9 @@
             ]
         ]
     },
-    "bubble_coral_fan": {
-        "fileName": "assets/mc-textures/bubble_coral_fan.png",
-        "colors": [
-            [
-                212,
-                178,
-                97
-            ],
-            [
-                216,
-                146,
-                137
-            ]
-        ]
-    },
-    "cactus_bottom": {
-        "fileName": "assets/mc-textures/cactus_bottom.png",
-        "colors": [
-            [
-                43,
-                124,
-                161
-            ],
-            [
-                90,
-                194,
-                55
-            ]
-        ]
-    },
-    "cactus_side": {
-        "fileName": "assets/mc-textures/cactus_side.png",
-        "colors": [
-            [
-                63,
-                136,
-                86
-            ],
-            [
-                64,
-                128,
-                101
-            ],
-            [
-                63,
-                138,
-                57
-            ]
-        ]
-    },
-    "cactus_top": {
-        "fileName": "assets/mc-textures/cactus_top.png",
-        "colors": [
-            [
-                63,
-                137,
-                84
-            ],
-            [
-                64,
-                132,
-                66
-            ]
-        ]
-    },
-    "cake_bottom": {
-        "fileName": "assets/mc-textures/cake_bottom.png",
-        "colors": [
-            [
-                12,
-                157,
-                83
-            ],
-            [
-                11,
-                137,
-                69
-            ]
-        ]
-    },
-    "cake_inner": {
-        "fileName": "assets/mc-textures/cake_inner.png",
-        "colors": [
-            [
-                14,
-                170,
-                9
-            ],
-            [
-                11,
-                135,
-                68
-            ],
-            [
-                14,
-                172,
-                83
-            ]
-        ]
-    },
-    "cake_side": {
-        "fileName": "assets/mc-textures/cake_side.png",
-        "colors": [
-            [
-                14,
-                169,
-                98
-            ],
-            [
-                233,
-                255,
-                254
-            ]
-        ]
-    },
-    "cake_top": {
-        "fileName": "assets/mc-textures/cake_top.png",
-        "colors": [
-            [
-                233,
-                255,
-                254
-            ],
-            [
-                30,
-                202,
-                230
-            ]
-        ]
-    },
-    "campfire_fire": {
-        "fileName": "assets/mc-textures/campfire_fire.png",
-        "colors": [
-            [
-                19,
-                252,
-                95
-            ],
-            [
-                33,
-                210,
-                162
-            ]
-        ]
-    },
-    "campfire_log": {
-        "fileName": "assets/mc-textures/campfire_log.png",
-        "colors": [
-            [
-                155,
-                47,
-                45
-            ],
-            [
-                24,
-                93,
-                9
-            ],
-            [
-                25,
-                94,
-                94
-            ]
-        ]
-    },
-    "campfire_log_lit": {
-        "fileName": "assets/mc-textures/campfire_log_lit.png",
-        "colors": [
-            [
-                22,
-                147,
-                97
-            ],
-            [
-                153,
-                39,
-                41
-            ],
-            [
-                153,
-                55,
-                82
-            ]
-        ]
-    },
-    "carrots_stage0": {
-        "fileName": "assets/mc-textures/carrots_stage0.png",
-        "colors": [
-            [
-                82,
-                121,
-                74
-            ]
-        ]
-    },
-    "carrots_stage1": {
-        "fileName": "assets/mc-textures/carrots_stage1.png",
-        "colors": [
-            [
-                79,
-                125,
-                77
-            ],
-            [
-                71,
-                148,
-                108
-            ]
-        ]
-    },
-    "carrots_stage2": {
-        "fileName": "assets/mc-textures/carrots_stage2.png",
-        "colors": [
-            [
-                79,
-                125,
-                76
-            ],
-            [
-                17,
-                204,
-                70
-            ]
-        ]
-    },
-    "carrots_stage3": {
-        "fileName": "assets/mc-textures/carrots_stage3.png",
-        "colors": [
-            [
-                78,
-                128,
-                78
-            ],
-            [
-                71,
-                148,
-                108
-            ]
-        ]
-    },
     "cartography_table_side1": {
         "fileName": "assets/mc-textures/cartography_table_side1.png",
+        "name": "cartography_table_side1",
         "colors": [
             [
                 19,
@@ -1821,6 +977,7 @@
     },
     "cartography_table_side2": {
         "fileName": "assets/mc-textures/cartography_table_side2.png",
+        "name": "cartography_table_side2",
         "colors": [
             [
                 19,
@@ -1841,6 +998,7 @@
     },
     "cartography_table_side3": {
         "fileName": "assets/mc-textures/cartography_table_side3.png",
+        "name": "cartography_table_side3",
         "colors": [
             [
                 20,
@@ -1856,6 +1014,7 @@
     },
     "cartography_table_top": {
         "fileName": "assets/mc-textures/cartography_table_top.png",
+        "name": "cartography_table_top",
         "colors": [
             [
                 20,
@@ -1876,6 +1035,7 @@
     },
     "carved_pumpkin": {
         "fileName": "assets/mc-textures/carved_pumpkin.png",
+        "name": "carved_pumpkin",
         "colors": [
             [
                 22,
@@ -1894,33 +1054,9 @@
             ]
         ]
     },
-    "cauldron_bottom": {
-        "fileName": "assets/mc-textures/cauldron_bottom.png",
-        "colors": [
-            [
-                170,
-                12,
-                42
-            ]
-        ]
-    },
-    "cauldron_inner": {
-        "fileName": "assets/mc-textures/cauldron_inner.png",
-        "colors": [
-            [
-                170,
-                13,
-                47
-            ],
-            [
-                180,
-                7,
-                64
-            ]
-        ]
-    },
     "cauldron_side": {
         "fileName": "assets/mc-textures/cauldron_side.png",
+        "name": "cauldron_side",
         "colors": [
             [
                 0,
@@ -1939,118 +1075,9 @@
             ]
         ]
     },
-    "cauldron_top": {
-        "fileName": "assets/mc-textures/cauldron_top.png",
-        "colors": [
-            [
-                0,
-                3,
-                82
-            ],
-            [
-                170,
-                9,
-                52
-            ]
-        ]
-    },
-    "chain_command_block_back": {
-        "fileName": "assets/mc-textures/chain_command_block_back.png",
-        "colors": [
-            [
-                107,
-                67,
-                153
-            ],
-            [
-                184,
-                14,
-                177
-            ],
-            [
-                108,
-                51,
-                119
-            ]
-        ]
-    },
-    "chain_command_block_conditional": {
-        "fileName": "assets/mc-textures/chain_command_block_conditional.png",
-        "colors": [
-            [
-                105,
-                67,
-                155
-            ],
-            [
-                184,
-                14,
-                176
-            ],
-            [
-                108,
-                51,
-                119
-            ]
-        ]
-    },
-    "chain_command_block_front": {
-        "fileName": "assets/mc-textures/chain_command_block_front.png",
-        "colors": [
-            [
-                107,
-                66,
-                159
-            ],
-            [
-                184,
-                14,
-                175
-            ],
-            [
-                108,
-                51,
-                119
-            ]
-        ]
-    },
-    "chain_command_block_side": {
-        "fileName": "assets/mc-textures/chain_command_block_side.png",
-        "colors": [
-            [
-                106,
-                67,
-                155
-            ],
-            [
-                184,
-                14,
-                177
-            ],
-            [
-                108,
-                51,
-                119
-            ]
-        ]
-    },
-    "chipped_anvil_top": {
-        "fileName": "assets/mc-textures/chipped_anvil_top.png",
-        "colors": [
-            [
-                0,
-                0,
-                18
-            ],
-            [
-                0,
-                0,
-                78
-            ]
-        ]
-    },
     "chiseled_quartz_block": {
         "fileName": "assets/mc-textures/chiseled_quartz_block.png",
+        "name": "chiseled_quartz_block",
         "colors": [
             [
                 26,
@@ -2059,18 +1086,9 @@
             ]
         ]
     },
-    "chiseled_quartz_block_top": {
-        "fileName": "assets/mc-textures/chiseled_quartz_block_top.png",
-        "colors": [
-            [
-                27,
-                57,
-                224
-            ]
-        ]
-    },
     "chiseled_red_sandstone": {
         "fileName": "assets/mc-textures/chiseled_red_sandstone.png",
+        "name": "chiseled_red_sandstone",
         "colors": [
             [
                 18,
@@ -2091,6 +1109,7 @@
     },
     "chiseled_sandstone": {
         "fileName": "assets/mc-textures/chiseled_sandstone.png",
+        "name": "chiseled_sandstone",
         "colors": [
             [
                 29,
@@ -2111,6 +1130,7 @@
     },
     "chiseled_stone_bricks": {
         "fileName": "assets/mc-textures/chiseled_stone_bricks.png",
+        "name": "chiseled_stone_bricks",
         "colors": [
             [
                 212,
@@ -2129,68 +1149,9 @@
             ]
         ]
     },
-    "chorus_flower": {
-        "fileName": "assets/mc-textures/chorus_flower.png",
-        "colors": [
-            [
-                212,
-                72,
-                68
-            ],
-            [
-                210,
-                95,
-                231
-            ],
-            [
-                212,
-                38,
-                145
-            ]
-        ]
-    },
-    "chorus_flower_dead": {
-        "fileName": "assets/mc-textures/chorus_flower_dead.png",
-        "colors": [
-            [
-                212,
-                72,
-                68
-            ],
-            [
-                212,
-                103,
-                47
-            ],
-            [
-                213,
-                41,
-                101
-            ]
-        ]
-    },
-    "chorus_plant": {
-        "fileName": "assets/mc-textures/chorus_plant.png",
-        "colors": [
-            [
-                212,
-                72,
-                68
-            ],
-            [
-                212,
-                103,
-                47
-            ],
-            [
-                213,
-                40,
-                102
-            ]
-        ]
-    },
     "clay": {
         "fileName": "assets/mc-textures/clay.png",
+        "name": "clay",
         "colors": [
             [
                 158,
@@ -2206,6 +1167,7 @@
     },
     "coal_block": {
         "fileName": "assets/mc-textures/coal_block.png",
+        "name": "coal_block",
         "colors": [
             [
                 0,
@@ -2216,6 +1178,7 @@
     },
     "coal_ore": {
         "fileName": "assets/mc-textures/coal_ore.png",
+        "name": "coal_ore",
         "colors": [
             [
                 0,
@@ -2236,6 +1199,7 @@
     },
     "coarse_dirt": {
         "fileName": "assets/mc-textures/coarse_dirt.png",
+        "name": "coarse_dirt",
         "colors": [
             [
                 18,
@@ -2256,6 +1220,7 @@
     },
     "cobblestone": {
         "fileName": "assets/mc-textures/cobblestone.png",
+        "name": "cobblestone",
         "colors": [
             [
                 0,
@@ -2274,198 +1239,9 @@
             ]
         ]
     },
-    "cobweb": {
-        "fileName": "assets/mc-textures/cobweb.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                127,
-                26,
-                230
-            ]
-        ]
-    },
-    "cocoa_stage0": {
-        "fileName": "assets/mc-textures/cocoa_stage0.png",
-        "colors": [
-            [
-                41,
-                97,
-                81
-            ],
-            [
-                45,
-                96,
-                115
-            ]
-        ]
-    },
-    "cocoa_stage1": {
-        "fileName": "assets/mc-textures/cocoa_stage1.png",
-        "colors": [
-            [
-                14,
-                153,
-                2
-            ],
-            [
-                22,
-                131,
-                72
-            ],
-            [
-                27,
-                118,
-                137
-            ]
-        ]
-    },
-    "cocoa_stage2": {
-        "fileName": "assets/mc-textures/cocoa_stage2.png",
-        "colors": [
-            [
-                14,
-                208,
-                11
-            ],
-            [
-                19,
-                166,
-                95
-            ],
-            [
-                21,
-                140,
-                148
-            ]
-        ]
-    },
-    "command_block_back": {
-        "fileName": "assets/mc-textures/command_block_back.png",
-        "colors": [
-            [
-                16,
-                123,
-                154
-            ],
-            [
-                16,
-                131,
-                101
-            ],
-            [
-                184,
-                14,
-                177
-            ]
-        ]
-    },
-    "command_block_conditional": {
-        "fileName": "assets/mc-textures/command_block_conditional.png",
-        "colors": [
-            [
-                16,
-                123,
-                156
-            ],
-            [
-                17,
-                132,
-                102
-            ],
-            [
-                184,
-                14,
-                176
-            ]
-        ]
-    },
-    "command_block_front": {
-        "fileName": "assets/mc-textures/command_block_front.png",
-        "colors": [
-            [
-                16,
-                120,
-                160
-            ],
-            [
-                17,
-                135,
-                104
-            ],
-            [
-                184,
-                14,
-                175
-            ]
-        ]
-    },
-    "command_block_side": {
-        "fileName": "assets/mc-textures/command_block_side.png",
-        "colors": [
-            [
-                16,
-                122,
-                156
-            ],
-            [
-                17,
-                131,
-                101
-            ],
-            [
-                184,
-                14,
-                177
-            ]
-        ]
-    },
-    "comparator": {
-        "fileName": "assets/mc-textures/comparator.png",
-        "colors": [
-            [
-                21,
-                3,
-                186
-            ],
-            [
-                85,
-                2,
-                140
-            ],
-            [
-                85,
-                11,
-                201
-            ]
-        ]
-    },
-    "comparator_on": {
-        "fileName": "assets/mc-textures/comparator_on.png",
-        "colors": [
-            [
-                21,
-                3,
-                186
-            ],
-            [
-                85,
-                2,
-                140
-            ],
-            [
-                85,
-                11,
-                201
-            ]
-        ]
-    },
     "composter_bottom": {
         "fileName": "assets/mc-textures/composter_bottom.png",
+        "name": "composter_bottom",
         "colors": [
             [
                 20,
@@ -2479,48 +1255,9 @@
             ]
         ]
     },
-    "composter_compost": {
-        "fileName": "assets/mc-textures/composter_compost.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                23,
-                135,
-                51
-            ],
-            [
-                22,
-                161,
-                68
-            ]
-        ]
-    },
-    "composter_ready": {
-        "fileName": "assets/mc-textures/composter_ready.png",
-        "colors": [
-            [
-                28,
-                109,
-                248
-            ],
-            [
-                21,
-                102,
-                82
-            ],
-            [
-                23,
-                135,
-                51
-            ]
-        ]
-    },
     "composter_side": {
         "fileName": "assets/mc-textures/composter_side.png",
+        "name": "composter_side",
         "colors": [
             [
                 20,
@@ -2534,63 +1271,9 @@
             ]
         ]
     },
-    "composter_top": {
-        "fileName": "assets/mc-textures/composter_top.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                19,
-                126,
-                101
-            ]
-        ]
-    },
-    "conduit": {
-        "fileName": "assets/mc-textures/conduit.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                22,
-                63,
-                159
-            ],
-            [
-                29,
-                62,
-                94
-            ]
-        ]
-    },
-    "cornflower": {
-        "fileName": "assets/mc-textures/cornflower.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                78,
-                90,
-                93
-            ],
-            [
-                162,
-                189,
-                154
-            ]
-        ]
-    },
     "cracked_stone_bricks": {
         "fileName": "assets/mc-textures/cracked_stone_bricks.png",
+        "name": "cracked_stone_bricks",
         "colors": [
             [
                 0,
@@ -2611,6 +1294,7 @@
     },
     "crafting_table_front": {
         "fileName": "assets/mc-textures/crafting_table_front.png",
+        "name": "crafting_table_front",
         "colors": [
             [
                 26,
@@ -2629,28 +1313,9 @@
             ]
         ]
     },
-    "crafting_table_side": {
-        "fileName": "assets/mc-textures/crafting_table_side.png",
-        "colors": [
-            [
-                26,
-                98,
-                138
-            ],
-            [
-                19,
-                109,
-                28
-            ],
-            [
-                25,
-                103,
-                86
-            ]
-        ]
-    },
     "crafting_table_top": {
         "fileName": "assets/mc-textures/crafting_table_top.png",
+        "name": "crafting_table_top",
         "colors": [
             [
                 16,
@@ -2671,6 +1336,7 @@
     },
     "cut_red_sandstone": {
         "fileName": "assets/mc-textures/cut_red_sandstone.png",
+        "name": "cut_red_sandstone",
         "colors": [
             [
                 18,
@@ -2691,6 +1357,7 @@
     },
     "cut_sandstone": {
         "fileName": "assets/mc-textures/cut_sandstone.png",
+        "name": "cut_sandstone",
         "colors": [
             [
                 35,
@@ -2711,6 +1378,7 @@
     },
     "cyan_concrete": {
         "fileName": "assets/mc-textures/cyan_concrete.png",
+        "name": "cyan_concrete",
         "colors": [
             [
                 133,
@@ -2721,6 +1389,7 @@
     },
     "cyan_concrete_powder": {
         "fileName": "assets/mc-textures/cyan_concrete_powder.png",
+        "name": "cyan_concrete_powder",
         "colors": [
             [
                 131,
@@ -2741,6 +1410,7 @@
     },
     "cyan_glazed_terracotta": {
         "fileName": "assets/mc-textures/cyan_glazed_terracotta.png",
+        "name": "cyan_glazed_terracotta",
         "colors": [
             [
                 133,
@@ -2761,6 +1431,7 @@
     },
     "cyan_shulker_box": {
         "fileName": "assets/mc-textures/cyan_shulker_box.png",
+        "name": "cyan_shulker_box",
         "colors": [
             [
                 132,
@@ -2776,6 +1447,7 @@
     },
     "cyan_stained_glass": {
         "fileName": "assets/mc-textures/cyan_stained_glass.png",
+        "name": "cyan_stained_glass",
         "colors": [
             [
                 141,
@@ -2784,18 +1456,9 @@
             ]
         ]
     },
-    "cyan_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/cyan_stained_glass_pane_top.png",
-        "colors": [
-            [
-                141,
-                85,
-                110
-            ]
-        ]
-    },
     "cyan_terracotta": {
         "fileName": "assets/mc-textures/cyan_terracotta.png",
+        "name": "cyan_terracotta",
         "colors": [
             [
                 127,
@@ -2816,6 +1479,7 @@
     },
     "cyan_wool": {
         "fileName": "assets/mc-textures/cyan_wool.png",
+        "name": "cyan_wool",
         "colors": [
             [
                 130,
@@ -2829,58 +1493,9 @@
             ]
         ]
     },
-    "damaged_anvil_top": {
-        "fileName": "assets/mc-textures/damaged_anvil_top.png",
-        "colors": [
-            [
-                0,
-                0,
-                22
-            ],
-            [
-                0,
-                0,
-                80
-            ]
-        ]
-    },
-    "dandelion": {
-        "fileName": "assets/mc-textures/dandelion.png",
-        "colors": [
-            [
-                75,
-                196,
-                74
-            ],
-            [
-                36,
-                252,
-                163
-            ]
-        ]
-    },
-    "dark_oak_door_bottom": {
-        "fileName": "assets/mc-textures/dark_oak_door_bottom.png",
-        "colors": [
-            [
-                22,
-                136,
-                43
-            ],
-            [
-                20,
-                108,
-                71
-            ],
-            [
-                30,
-                255,
-                102
-            ]
-        ]
-    },
     "dark_oak_door_top": {
         "fileName": "assets/mc-textures/dark_oak_door_top.png",
+        "name": "dark_oak_door_top",
         "colors": [
             [
                 21,
@@ -2899,23 +1514,9 @@
             ]
         ]
     },
-    "dark_oak_leaves": {
-        "fileName": "assets/mc-textures/dark_oak_leaves.png",
-        "colors": [
-            [
-                85,
-                2,
-                168
-            ],
-            [
-                212,
-                3,
-                114
-            ]
-        ]
-    },
     "dark_oak_log": {
         "fileName": "assets/mc-textures/dark_oak_log.png",
+        "name": "dark_oak_log",
         "colors": [
             [
                 25,
@@ -2931,6 +1532,7 @@
     },
     "dark_oak_log_top": {
         "fileName": "assets/mc-textures/dark_oak_log_top.png",
+        "name": "dark_oak_log_top",
         "colors": [
             [
                 20,
@@ -2941,6 +1543,7 @@
     },
     "dark_oak_planks": {
         "fileName": "assets/mc-textures/dark_oak_planks.png",
+        "name": "dark_oak_planks",
         "colors": [
             [
                 21,
@@ -2949,28 +1552,9 @@
             ]
         ]
     },
-    "dark_oak_sapling": {
-        "fileName": "assets/mc-textures/dark_oak_sapling.png",
-        "colors": [
-            [
-                21,
-                191,
-                4
-            ],
-            [
-                85,
-                171,
-                49
-            ],
-            [
-                23,
-                127,
-                60
-            ]
-        ]
-    },
     "dark_oak_trapdoor": {
         "fileName": "assets/mc-textures/dark_oak_trapdoor.png",
+        "name": "dark_oak_trapdoor",
         "colors": [
             [
                 22,
@@ -2986,6 +1570,7 @@
     },
     "dark_prismarine": {
         "fileName": "assets/mc-textures/dark_prismarine.png",
+        "name": "dark_prismarine",
         "colors": [
             [
                 111,
@@ -2999,83 +1584,9 @@
             ]
         ]
     },
-    "daylight_detector_inverted_top": {
-        "fileName": "assets/mc-textures/daylight_detector_inverted_top.png",
-        "colors": [
-            [
-                27,
-                70,
-                51
-            ],
-            [
-                152,
-                55,
-                177
-            ],
-            [
-                153,
-                64,
-                71
-            ]
-        ]
-    },
-    "daylight_detector_side": {
-        "fileName": "assets/mc-textures/daylight_detector_side.png",
-        "colors": [
-            [
-                27,
-                75,
-                47
-            ],
-            [
-                25,
-                85,
-                64
-            ],
-            [
-                25,
-                80,
-                60
-            ]
-        ]
-    },
-    "daylight_detector_top": {
-        "fileName": "assets/mc-textures/daylight_detector_top.png",
-        "colors": [
-            [
-                27,
-                70,
-                51
-            ],
-            [
-                23,
-                77,
-                190
-            ],
-            [
-                24,
-                88,
-                75
-            ]
-        ]
-    },
-    "dead_brain_coral": {
-        "fileName": "assets/mc-textures/dead_brain_coral.png",
-        "colors": [
-            [
-                12,
-                15,
-                116
-            ],
-            [
-                17,
-                12,
-                153
-            ]
-        ]
-    },
     "dead_brain_coral_block": {
         "fileName": "assets/mc-textures/dead_brain_coral_block.png",
+        "name": "dead_brain_coral_block",
         "colors": [
             [
                 12,
@@ -3089,43 +1600,9 @@
             ]
         ]
     },
-    "dead_brain_coral_fan": {
-        "fileName": "assets/mc-textures/dead_brain_coral_fan.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                10,
-                13,
-                110
-            ],
-            [
-                21,
-                12,
-                151
-            ]
-        ]
-    },
-    "dead_bubble_coral": {
-        "fileName": "assets/mc-textures/dead_bubble_coral.png",
-        "colors": [
-            [
-                13,
-                14,
-                113
-            ],
-            [
-                23,
-                13,
-                149
-            ]
-        ]
-    },
     "dead_bubble_coral_block": {
         "fileName": "assets/mc-textures/dead_bubble_coral_block.png",
+        "name": "dead_bubble_coral_block",
         "colors": [
             [
                 13,
@@ -3139,63 +1616,9 @@
             ]
         ]
     },
-    "dead_bubble_coral_fan": {
-        "fileName": "assets/mc-textures/dead_bubble_coral_fan.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                21,
-                12,
-                152
-            ],
-            [
-                14,
-                14,
-                104
-            ]
-        ]
-    },
-    "dead_bush": {
-        "fileName": "assets/mc-textures/dead_bush.png",
-        "colors": [
-            [
-                21,
-                95,
-                8
-            ],
-            [
-                24,
-                121,
-                80
-            ],
-            [
-                23,
-                135,
-                115
-            ]
-        ]
-    },
-    "dead_fire_coral": {
-        "fileName": "assets/mc-textures/dead_fire_coral.png",
-        "colors": [
-            [
-                12,
-                15,
-                117
-            ],
-            [
-                21,
-                12,
-                152
-            ]
-        ]
-    },
     "dead_fire_coral_block": {
         "fileName": "assets/mc-textures/dead_fire_coral_block.png",
+        "name": "dead_fire_coral_block",
         "colors": [
             [
                 13,
@@ -3209,43 +1632,9 @@
             ]
         ]
     },
-    "dead_fire_coral_fan": {
-        "fileName": "assets/mc-textures/dead_fire_coral_fan.png",
-        "colors": [
-            [
-                14,
-                11,
-                103
-            ],
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                19,
-                13,
-                150
-            ]
-        ]
-    },
-    "dead_horn_coral": {
-        "fileName": "assets/mc-textures/dead_horn_coral.png",
-        "colors": [
-            [
-                19,
-                14,
-                142
-            ],
-            [
-                13,
-                14,
-                116
-            ]
-        ]
-    },
     "dead_horn_coral_block": {
         "fileName": "assets/mc-textures/dead_horn_coral_block.png",
+        "name": "dead_horn_coral_block",
         "colors": [
             [
                 13,
@@ -3259,43 +1648,9 @@
             ]
         ]
     },
-    "dead_horn_coral_fan": {
-        "fileName": "assets/mc-textures/dead_horn_coral_fan.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                9,
-                14,
-                114
-            ],
-            [
-                23,
-                13,
-                150
-            ]
-        ]
-    },
-    "dead_tube_coral": {
-        "fileName": "assets/mc-textures/dead_tube_coral.png",
-        "colors": [
-            [
-                12,
-                12,
-                103
-            ],
-            [
-                16,
-                14,
-                139
-            ]
-        ]
-    },
     "dead_tube_coral_block": {
         "fileName": "assets/mc-textures/dead_tube_coral_block.png",
+        "name": "dead_tube_coral_block",
         "colors": [
             [
                 11,
@@ -3309,298 +1664,9 @@
             ]
         ]
     },
-    "dead_tube_coral_fan": {
-        "fileName": "assets/mc-textures/dead_tube_coral_fan.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                10,
-                9,
-                103
-            ],
-            [
-                19,
-                13,
-                149
-            ]
-        ]
-    },
-    "debug": {
-        "fileName": "assets/mc-textures/debug.png",
-        "colors": [
-            [
-                39,
-                255,
-                226
-            ],
-            [
-                127,
-                255,
-                160
-            ]
-        ]
-    },
-    "debug2": {
-        "fileName": "assets/mc-textures/debug2.png",
-        "colors": [
-            [
-                4,
-                255,
-                5
-            ],
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                85,
-                255,
-                223
-            ]
-        ]
-    },
-    "destroy_stage_0": {
-        "fileName": "assets/mc-textures/destroy_stage_0.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                0,
-                0,
-                61
-            ],
-            [
-                0,
-                0,
-                155
-            ]
-        ]
-    },
-    "destroy_stage_1": {
-        "fileName": "assets/mc-textures/destroy_stage_1.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                0,
-                0,
-                61
-            ],
-            [
-                0,
-                0,
-                155
-            ]
-        ]
-    },
-    "destroy_stage_2": {
-        "fileName": "assets/mc-textures/destroy_stage_2.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                0,
-                0,
-                61
-            ],
-            [
-                0,
-                0,
-                155
-            ]
-        ]
-    },
-    "destroy_stage_3": {
-        "fileName": "assets/mc-textures/destroy_stage_3.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                0,
-                0,
-                61
-            ],
-            [
-                0,
-                0,
-                155
-            ]
-        ]
-    },
-    "destroy_stage_4": {
-        "fileName": "assets/mc-textures/destroy_stage_4.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                0,
-                0,
-                61
-            ],
-            [
-                0,
-                0,
-                155
-            ]
-        ]
-    },
-    "destroy_stage_5": {
-        "fileName": "assets/mc-textures/destroy_stage_5.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                0,
-                0,
-                61
-            ],
-            [
-                0,
-                0,
-                155
-            ]
-        ]
-    },
-    "destroy_stage_6": {
-        "fileName": "assets/mc-textures/destroy_stage_6.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                0,
-                0,
-                61
-            ],
-            [
-                0,
-                0,
-                155
-            ]
-        ]
-    },
-    "destroy_stage_7": {
-        "fileName": "assets/mc-textures/destroy_stage_7.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                0,
-                0,
-                61
-            ],
-            [
-                0,
-                0,
-                155
-            ]
-        ]
-    },
-    "destroy_stage_8": {
-        "fileName": "assets/mc-textures/destroy_stage_8.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                0,
-                0,
-                61
-            ],
-            [
-                0,
-                0,
-                155
-            ]
-        ]
-    },
-    "destroy_stage_9": {
-        "fileName": "assets/mc-textures/destroy_stage_9.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                0,
-                0,
-                61
-            ],
-            [
-                0,
-                0,
-                155
-            ]
-        ]
-    },
-    "detector_rail": {
-        "fileName": "assets/mc-textures/detector_rail.png",
-        "colors": [
-            [
-                0,
-                255,
-                7
-            ],
-            [
-                27,
-                44,
-                94
-            ],
-            [
-                26,
-                16,
-                152
-            ]
-        ]
-    },
-    "detector_rail_on": {
-        "fileName": "assets/mc-textures/detector_rail_on.png",
-        "colors": [
-            [
-                23,
-                45,
-                96
-            ],
-            [
-                16,
-                22,
-                153
-            ]
-        ]
-    },
     "diamond_block": {
         "fileName": "assets/mc-textures/diamond_block.png",
+        "name": "diamond_block",
         "colors": [
             [
                 124,
@@ -3621,6 +1687,7 @@
     },
     "diamond_ore": {
         "fileName": "assets/mc-textures/diamond_ore.png",
+        "name": "diamond_ore",
         "colors": [
             [
                 0,
@@ -3641,6 +1708,7 @@
     },
     "diorite": {
         "fileName": "assets/mc-textures/diorite.png",
+        "name": "diorite",
         "colors": [
             [
                 0,
@@ -3661,6 +1729,7 @@
     },
     "dirt": {
         "fileName": "assets/mc-textures/dirt.png",
+        "name": "dirt",
         "colors": [
             [
                 18,
@@ -3676,6 +1745,7 @@
     },
     "dispenser_front": {
         "fileName": "assets/mc-textures/dispenser_front.png",
+        "name": "dispenser_front",
         "colors": [
             [
                 0,
@@ -3694,68 +1764,9 @@
             ]
         ]
     },
-    "dispenser_front_vertical": {
-        "fileName": "assets/mc-textures/dispenser_front_vertical.png",
-        "colors": [
-            [
-                0,
-                1,
-                99
-            ],
-            [
-                0,
-                0,
-                136
-            ],
-            [
-                0,
-                2,
-                44
-            ]
-        ]
-    },
-    "dragon_egg": {
-        "fileName": "assets/mc-textures/dragon_egg.png",
-        "colors": [
-            [
-                170,
-                51,
-                10
-            ],
-            [
-                0,
-                0,
-                16
-            ],
-            [
-                207,
-                245,
-                26
-            ]
-        ]
-    },
-    "dried_kelp_bottom": {
-        "fileName": "assets/mc-textures/dried_kelp_bottom.png",
-        "colors": [
-            [
-                64,
-                78,
-                37
-            ],
-            [
-                66,
-                45,
-                25
-            ],
-            [
-                66,
-                35,
-                65
-            ]
-        ]
-    },
     "dried_kelp_side": {
         "fileName": "assets/mc-textures/dried_kelp_side.png",
+        "name": "dried_kelp_side",
         "colors": [
             [
                 64,
@@ -3774,28 +1785,9 @@
             ]
         ]
     },
-    "dried_kelp_top": {
-        "fileName": "assets/mc-textures/dried_kelp_top.png",
-        "colors": [
-            [
-                64,
-                78,
-                37
-            ],
-            [
-                66,
-                45,
-                25
-            ],
-            [
-                66,
-                35,
-                65
-            ]
-        ]
-    },
     "dropper_front": {
         "fileName": "assets/mc-textures/dropper_front.png",
+        "name": "dropper_front",
         "colors": [
             [
                 0,
@@ -3814,28 +1806,9 @@
             ]
         ]
     },
-    "dropper_front_vertical": {
-        "fileName": "assets/mc-textures/dropper_front_vertical.png",
-        "colors": [
-            [
-                0,
-                1,
-                97
-            ],
-            [
-                0,
-                0,
-                136
-            ],
-            [
-                0,
-                0,
-                44
-            ]
-        ]
-    },
     "emerald_block": {
         "fileName": "assets/mc-textures/emerald_block.png",
+        "name": "emerald_block",
         "colors": [
             [
                 96,
@@ -3856,6 +1829,7 @@
     },
     "emerald_ore": {
         "fileName": "assets/mc-textures/emerald_ore.png",
+        "name": "emerald_ore",
         "colors": [
             [
                 0,
@@ -3874,18 +1848,9 @@
             ]
         ]
     },
-    "enchanting_table_bottom": {
-        "fileName": "assets/mc-textures/enchanting_table_bottom.png",
-        "colors": [
-            [
-                185,
-                105,
-                17
-            ]
-        ]
-    },
     "enchanting_table_side": {
         "fileName": "assets/mc-textures/enchanting_table_side.png",
+        "name": "enchanting_table_side",
         "colors": [
             [
                 183,
@@ -3901,6 +1866,7 @@
     },
     "enchanting_table_top": {
         "fileName": "assets/mc-textures/enchanting_table_top.png",
+        "name": "enchanting_table_top",
         "colors": [
             [
                 238,
@@ -3919,73 +1885,9 @@
             ]
         ]
     },
-    "end_portal_frame_eye": {
-        "fileName": "assets/mc-textures/end_portal_frame_eye.png",
-        "colors": [
-            [
-                132,
-                145,
-                28
-            ],
-            [
-                101,
-                62,
-                86
-            ]
-        ]
-    },
-    "end_portal_frame_side": {
-        "fileName": "assets/mc-textures/end_portal_frame_side.png",
-        "colors": [
-            [
-                43,
-                109,
-                178
-            ],
-            [
-                47,
-                170,
-                206
-            ]
-        ]
-    },
-    "end_portal_frame_top": {
-        "fileName": "assets/mc-textures/end_portal_frame_top.png",
-        "colors": [
-            [
-                117,
-                72,
-                82
-            ],
-            [
-                116,
-                106,
-                27
-            ],
-            [
-                41,
-                75,
-                157
-            ]
-        ]
-    },
-    "end_rod": {
-        "fileName": "assets/mc-textures/end_rod.png",
-        "colors": [
-            [
-                24,
-                195,
-                238
-            ],
-            [
-                23,
-                13,
-                150
-            ]
-        ]
-    },
     "end_stone": {
         "fileName": "assets/mc-textures/end_stone.png",
+        "name": "end_stone",
         "colors": [
             [
                 47,
@@ -4006,6 +1908,7 @@
     },
     "end_stone_bricks": {
         "fileName": "assets/mc-textures/end_stone_bricks.png",
+        "name": "end_stone_bricks",
         "colors": [
             [
                 49,
@@ -4024,23 +1927,9 @@
             ]
         ]
     },
-    "farmland": {
-        "fileName": "assets/mc-textures/farmland.png",
-        "colors": [
-            [
-                18,
-                87,
-                96
-            ],
-            [
-                18,
-                101,
-                138
-            ]
-        ]
-    },
     "farmland_moist": {
         "fileName": "assets/mc-textures/farmland_moist.png",
+        "name": "farmland_moist",
         "colors": [
             [
                 18,
@@ -4054,83 +1943,9 @@
             ]
         ]
     },
-    "fern": {
-        "fileName": "assets/mc-textures/fern.png",
-        "colors": [
-            [
-                0,
-                0,
-                255
-            ],
-            [
-                85,
-                2,
-                106
-            ],
-            [
-                212,
-                3,
-                151
-            ]
-        ]
-    },
-    "fire_0": {
-        "fileName": "assets/mc-textures/fire_0.png",
-        "colors": [
-            [
-                17,
-                255,
-                91
-            ],
-            [
-                35,
-                191,
-                251
-            ],
-            [
-                7,
-                255,
-                74
-            ]
-        ]
-    },
-    "fire_1": {
-        "fileName": "assets/mc-textures/fire_1.png",
-        "colors": [
-            [
-                17,
-                255,
-                91
-            ],
-            [
-                31,
-                204,
-                250
-            ],
-            [
-                7,
-                255,
-                74
-            ]
-        ]
-    },
-    "fire_coral": {
-        "fileName": "assets/mc-textures/fire_coral.png",
-        "colors": [
-            [
-                250,
-                168,
-                85
-            ],
-            [
-                251,
-                165,
-                120
-            ]
-        ]
-    },
     "fire_coral_block": {
         "fileName": "assets/mc-textures/fire_coral_block.png",
+        "name": "fire_coral_block",
         "colors": [
             [
                 250,
@@ -4149,23 +1964,9 @@
             ]
         ]
     },
-    "fire_coral_fan": {
-        "fileName": "assets/mc-textures/fire_coral_fan.png",
-        "colors": [
-            [
-                250,
-                167,
-                84
-            ],
-            [
-                251,
-                165,
-                120
-            ]
-        ]
-    },
     "fletching_table_front": {
         "fileName": "assets/mc-textures/fletching_table_front.png",
+        "name": "fletching_table_front",
         "colors": [
             [
                 31,
@@ -4184,138 +1985,9 @@
             ]
         ]
     },
-    "fletching_table_side": {
-        "fileName": "assets/mc-textures/fletching_table_side.png",
-        "colors": [
-            [
-                31,
-                78,
-                148
-            ],
-            [
-                31,
-                139,
-                178
-            ],
-            [
-                0,
-                0,
-                235
-            ]
-        ]
-    },
-    "fletching_table_top": {
-        "fileName": "assets/mc-textures/fletching_table_top.png",
-        "colors": [
-            [
-                32,
-                71,
-                149
-            ],
-            [
-                31,
-                134,
-                176
-            ],
-            [
-                0,
-                0,
-                238
-            ]
-        ]
-    },
-    "flower_pot": {
-        "fileName": "assets/mc-textures/flower_pot.png",
-        "colors": [
-            [
-                8,
-                102,
-                88
-            ]
-        ]
-    },
-    "frosted_ice_0": {
-        "fileName": "assets/mc-textures/frosted_ice_0.png",
-        "colors": [
-            [
-                154,
-                239,
-                188
-            ],
-            [
-                154,
-                250,
-                200
-            ],
-            [
-                154,
-                255,
-                212
-            ]
-        ]
-    },
-    "frosted_ice_1": {
-        "fileName": "assets/mc-textures/frosted_ice_1.png",
-        "colors": [
-            [
-                154,
-                236,
-                187
-            ],
-            [
-                154,
-                245,
-                199
-            ],
-            [
-                154,
-                255,
-                212
-            ]
-        ]
-    },
-    "frosted_ice_2": {
-        "fileName": "assets/mc-textures/frosted_ice_2.png",
-        "colors": [
-            [
-                154,
-                236,
-                186
-            ],
-            [
-                154,
-                245,
-                200
-            ],
-            [
-                155,
-                255,
-                211
-            ]
-        ]
-    },
-    "frosted_ice_3": {
-        "fileName": "assets/mc-textures/frosted_ice_3.png",
-        "colors": [
-            [
-                154,
-                236,
-                185
-            ],
-            [
-                154,
-                245,
-                200
-            ],
-            [
-                155,
-                255,
-                211
-            ]
-        ]
-    },
     "furnace_front": {
         "fileName": "assets/mc-textures/furnace_front.png",
+        "name": "furnace_front",
         "colors": [
             [
                 0,
@@ -4334,48 +2006,9 @@
             ]
         ]
     },
-    "furnace_front_on": {
-        "fileName": "assets/mc-textures/furnace_front_on.png",
-        "colors": [
-            [
-                15,
-                10,
-                99
-            ],
-            [
-                0,
-                3,
-                38
-            ],
-            [
-                0,
-                0,
-                154
-            ]
-        ]
-    },
-    "furnace_side": {
-        "fileName": "assets/mc-textures/furnace_side.png",
-        "colors": [
-            [
-                0,
-                1,
-                97
-            ],
-            [
-                0,
-                0,
-                151
-            ],
-            [
-                0,
-                2,
-                59
-            ]
-        ]
-    },
     "furnace_top": {
         "fileName": "assets/mc-textures/furnace_top.png",
+        "name": "furnace_top",
         "colors": [
             [
                 0,
@@ -4396,6 +2029,7 @@
     },
     "glass": {
         "fileName": "assets/mc-textures/glass.png",
+        "name": "glass",
         "colors": [
             [
                 0,
@@ -4414,23 +2048,9 @@
             ]
         ]
     },
-    "glass_pane_top": {
-        "fileName": "assets/mc-textures/glass_pane_top.png",
-        "colors": [
-            [
-                133,
-                154,
-                212
-            ],
-            [
-                0,
-                0,
-                254
-            ]
-        ]
-    },
     "glowstone": {
         "fileName": "assets/mc-textures/glowstone.png",
+        "name": "glowstone",
         "colors": [
             [
                 20,
@@ -4451,6 +2071,7 @@
     },
     "gold_block": {
         "fileName": "assets/mc-textures/gold_block.png",
+        "name": "gold_block",
         "colors": [
             [
                 35,
@@ -4471,6 +2092,7 @@
     },
     "gold_ore": {
         "fileName": "assets/mc-textures/gold_ore.png",
+        "name": "gold_ore",
         "colors": [
             [
                 0,
@@ -4491,6 +2113,7 @@
     },
     "granite": {
         "fileName": "assets/mc-textures/granite.png",
+        "name": "granite",
         "colors": [
             [
                 11,
@@ -4509,113 +2132,9 @@
             ]
         ]
     },
-    "grass": {
-        "fileName": "assets/mc-textures/grass.png",
-        "colors": [
-            [
-                0,
-                0,
-                154
-            ],
-            [
-                212,
-                2,
-                151
-            ]
-        ]
-    },
-    "grass_block_side": {
-        "fileName": "assets/mc-textures/grass_block_side.png",
-        "colors": [
-            [
-                18,
-                87,
-                90
-            ],
-            [
-                28,
-                78,
-                133
-            ],
-            [
-                68,
-                117,
-                115
-            ]
-        ]
-    },
-    "grass_block_side_overlay": {
-        "fileName": "assets/mc-textures/grass_block_side_overlay.png",
-        "colors": [
-            [
-                0,
-                0,
-                156
-            ],
-            [
-                0,
-                0,
-                123
-            ]
-        ]
-    },
-    "grass_block_snow": {
-        "fileName": "assets/mc-textures/grass_block_snow.png",
-        "colors": [
-            [
-                18,
-                85,
-                94
-            ],
-            [
-                127,
-                113,
-                237
-            ],
-            [
-                17,
-                89,
-                139
-            ]
-        ]
-    },
-    "grass_block_top": {
-        "fileName": "assets/mc-textures/grass_block_top.png",
-        "colors": [
-            [
-                0,
-                0,
-                149
-            ],
-            [
-                0,
-                0,
-                123
-            ],
-            [
-                0,
-                0,
-                193
-            ]
-        ]
-    },
-    "grass_path_side": {
-        "fileName": "assets/mc-textures/grass_path_side.png",
-        "colors": [
-            [
-                18,
-                86,
-                92
-            ],
-            [
-                24,
-                100,
-                137
-            ]
-        ]
-    },
     "grass_path_top": {
         "fileName": "assets/mc-textures/grass_path_top.png",
+        "name": "grass_path_top",
         "colors": [
             [
                 28,
@@ -4631,6 +2150,7 @@
     },
     "gravel": {
         "fileName": "assets/mc-textures/gravel.png",
+        "name": "gravel",
         "colors": [
             [
                 7,
@@ -4651,6 +2171,7 @@
     },
     "gray_concrete": {
         "fileName": "assets/mc-textures/gray_concrete.png",
+        "name": "gray_concrete",
         "colors": [
             [
                 151,
@@ -4661,6 +2182,7 @@
     },
     "gray_concrete_powder": {
         "fileName": "assets/mc-textures/gray_concrete_powder.png",
+        "name": "gray_concrete_powder",
         "colors": [
             [
                 143,
@@ -4671,6 +2193,7 @@
     },
     "gray_glazed_terracotta": {
         "fileName": "assets/mc-textures/gray_glazed_terracotta.png",
+        "name": "gray_glazed_terracotta",
         "colors": [
             [
                 138,
@@ -4691,6 +2214,7 @@
     },
     "gray_shulker_box": {
         "fileName": "assets/mc-textures/gray_shulker_box.png",
+        "name": "gray_shulker_box",
         "colors": [
             [
                 151,
@@ -4711,6 +2235,7 @@
     },
     "gray_stained_glass": {
         "fileName": "assets/mc-textures/gray_stained_glass.png",
+        "name": "gray_stained_glass",
         "colors": [
             [
                 0,
@@ -4719,18 +2244,9 @@
             ]
         ]
     },
-    "gray_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/gray_stained_glass_pane_top.png",
-        "colors": [
-            [
-                0,
-                0,
-                73
-            ]
-        ]
-    },
     "gray_terracotta": {
         "fileName": "assets/mc-textures/gray_terracotta.png",
+        "name": "gray_terracotta",
         "colors": [
             [
                 13,
@@ -4741,6 +2257,7 @@
     },
     "gray_wool": {
         "fileName": "assets/mc-textures/gray_wool.png",
+        "name": "gray_wool",
         "colors": [
             [
                 140,
@@ -4761,6 +2278,7 @@
     },
     "green_concrete": {
         "fileName": "assets/mc-textures/green_concrete.png",
+        "name": "green_concrete",
         "colors": [
             [
                 56,
@@ -4776,6 +2294,7 @@
     },
     "green_concrete_powder": {
         "fileName": "assets/mc-textures/green_concrete_powder.png",
+        "name": "green_concrete_powder",
         "colors": [
             [
                 54,
@@ -4791,6 +2310,7 @@
     },
     "green_glazed_terracotta": {
         "fileName": "assets/mc-textures/green_glazed_terracotta.png",
+        "name": "green_glazed_terracotta",
         "colors": [
             [
                 54,
@@ -4811,6 +2331,7 @@
     },
     "green_shulker_box": {
         "fileName": "assets/mc-textures/green_shulker_box.png",
+        "name": "green_shulker_box",
         "colors": [
             [
                 55,
@@ -4826,6 +2347,7 @@
     },
     "green_stained_glass": {
         "fileName": "assets/mc-textures/green_stained_glass.png",
+        "name": "green_stained_glass",
         "colors": [
             [
                 56,
@@ -4834,18 +2356,9 @@
             ]
         ]
     },
-    "green_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/green_stained_glass_pane_top.png",
-        "colors": [
-            [
-                56,
-                111,
-                85
-            ]
-        ]
-    },
     "green_terracotta": {
         "fileName": "assets/mc-textures/green_terracotta.png",
+        "name": "green_terracotta",
         "colors": [
             [
                 49,
@@ -4861,6 +2374,7 @@
     },
     "green_wool": {
         "fileName": "assets/mc-textures/green_wool.png",
+        "name": "green_wool",
         "colors": [
             [
                 55,
@@ -4874,48 +2388,9 @@
             ]
         ]
     },
-    "grindstone_pivot": {
-        "fileName": "assets/mc-textures/grindstone_pivot.png",
-        "colors": [
-            [
-                19,
-                157,
-                10
-            ]
-        ]
-    },
-    "grindstone_round": {
-        "fileName": "assets/mc-textures/grindstone_round.png",
-        "colors": [
-            [
-                0,
-                0,
-                155
-            ],
-            [
-                0,
-                0,
-                119
-            ]
-        ]
-    },
-    "grindstone_side": {
-        "fileName": "assets/mc-textures/grindstone_side.png",
-        "colors": [
-            [
-                0,
-                0,
-                157
-            ],
-            [
-                0,
-                0,
-                120
-            ]
-        ]
-    },
     "hay_block_side": {
         "fileName": "assets/mc-textures/hay_block_side.png",
+        "name": "hay_block_side",
         "colors": [
             [
                 35,
@@ -4929,43 +2404,9 @@
             ]
         ]
     },
-    "hay_block_top": {
-        "fileName": "assets/mc-textures/hay_block_top.png",
-        "colors": [
-            [
-                35,
-                228,
-                95
-            ],
-            [
-                34,
-                204,
-                80
-            ]
-        ]
-    },
-    "honey_block_bottom": {
-        "fileName": "assets/mc-textures/honey_block_bottom.png",
-        "colors": [
-            [
-                21,
-                229,
-                122
-            ],
-            [
-                26,
-                240,
-                132
-            ],
-            [
-                29,
-                250,
-                152
-            ]
-        ]
-    },
     "honey_block_side": {
         "fileName": "assets/mc-textures/honey_block_side.png",
+        "name": "honey_block_side",
         "colors": [
             [
                 30,
@@ -4984,28 +2425,9 @@
             ]
         ]
     },
-    "honey_block_top": {
-        "fileName": "assets/mc-textures/honey_block_top.png",
-        "colors": [
-            [
-                29,
-                249,
-                163
-            ],
-            [
-                26,
-                240,
-                134
-            ],
-            [
-                34,
-                226,
-                193
-            ]
-        ]
-    },
     "honeycomb_block": {
         "fileName": "assets/mc-textures/honeycomb_block.png",
+        "name": "honeycomb_block",
         "colors": [
             [
                 24,
@@ -5024,23 +2446,9 @@
             ]
         ]
     },
-    "hopper_inside": {
-        "fileName": "assets/mc-textures/hopper_inside.png",
-        "colors": [
-            [
-                170,
-                13,
-                47
-            ],
-            [
-                180,
-                7,
-                64
-            ]
-        ]
-    },
     "hopper_outside": {
         "fileName": "assets/mc-textures/hopper_outside.png",
+        "name": "hopper_outside",
         "colors": [
             [
                 0,
@@ -5059,38 +2467,9 @@
             ]
         ]
     },
-    "hopper_top": {
-        "fileName": "assets/mc-textures/hopper_top.png",
-        "colors": [
-            [
-                0,
-                3,
-                80
-            ],
-            [
-                180,
-                7,
-                64
-            ]
-        ]
-    },
-    "horn_coral": {
-        "fileName": "assets/mc-textures/horn_coral.png",
-        "colors": [
-            [
-                40,
-                180,
-                146
-            ],
-            [
-                28,
-                148,
-                115
-            ]
-        ]
-    },
     "horn_coral_block": {
         "fileName": "assets/mc-textures/horn_coral_block.png",
+        "name": "horn_coral_block",
         "colors": [
             [
                 40,
@@ -5109,23 +2488,9 @@
             ]
         ]
     },
-    "horn_coral_fan": {
-        "fileName": "assets/mc-textures/horn_coral_fan.png",
-        "colors": [
-            [
-                40,
-                175,
-                143
-            ],
-            [
-                32,
-                144,
-                120
-            ]
-        ]
-    },
     "ice": {
         "fileName": "assets/mc-textures/ice.png",
+        "name": "ice",
         "colors": [
             [
                 155,
@@ -5139,23 +2504,9 @@
             ]
         ]
     },
-    "iron_bars": {
-        "fileName": "assets/mc-textures/iron_bars.png",
-        "colors": [
-            [
-                69,
-                12,
-                115
-            ],
-            [
-                0,
-                0,
-                104
-            ]
-        ]
-    },
     "iron_block": {
         "fileName": "assets/mc-textures/iron_block.png",
+        "name": "iron_block",
         "colors": [
             [
                 0,
@@ -5169,28 +2520,9 @@
             ]
         ]
     },
-    "iron_door_bottom": {
-        "fileName": "assets/mc-textures/iron_door_bottom.png",
-        "colors": [
-            [
-                0,
-                5,
-                210
-            ],
-            [
-                0,
-                0,
-                177
-            ],
-            [
-                0,
-                0,
-                46
-            ]
-        ]
-    },
     "iron_door_top": {
         "fileName": "assets/mc-textures/iron_door_top.png",
+        "name": "iron_door_top",
         "colors": [
             [
                 0,
@@ -5206,6 +2538,7 @@
     },
     "iron_ore": {
         "fileName": "assets/mc-textures/iron_ore.png",
+        "name": "iron_ore",
         "colors": [
             [
                 0,
@@ -5226,6 +2559,7 @@
     },
     "iron_trapdoor": {
         "fileName": "assets/mc-textures/iron_trapdoor.png",
+        "name": "iron_trapdoor",
         "colors": [
             [
                 0,
@@ -5239,23 +2573,9 @@
             ]
         ]
     },
-    "item_frame": {
-        "fileName": "assets/mc-textures/item_frame.png",
-        "colors": [
-            [
-                14,
-                134,
-                89
-            ],
-            [
-                15,
-                22,
-                46
-            ]
-        ]
-    },
     "jack_o_lantern": {
         "fileName": "assets/mc-textures/jack_o_lantern.png",
+        "name": "jack_o_lantern",
         "colors": [
             [
                 22,
@@ -5274,68 +2594,9 @@
             ]
         ]
     },
-    "jigsaw_bottom": {
-        "fileName": "assets/mc-textures/jigsaw_bottom.png",
-        "colors": [
-            [
-                199,
-                46,
-                35
-            ],
-            [
-                0,
-                0,
-                17
-            ],
-            [
-                85,
-                2,
-                53
-            ]
-        ]
-    },
-    "jigsaw_side": {
-        "fileName": "assets/mc-textures/jigsaw_side.png",
-        "colors": [
-            [
-                0,
-                0,
-                22
-            ],
-            [
-                199,
-                46,
-                35
-            ],
-            [
-                212,
-                22,
-                108
-            ]
-        ]
-    },
-    "jigsaw_top": {
-        "fileName": "assets/mc-textures/jigsaw_top.png",
-        "colors": [
-            [
-                0,
-                0,
-                21
-            ],
-            [
-                199,
-                46,
-                35
-            ],
-            [
-                212,
-                53,
-                204
-            ]
-        ]
-    },
     "jukebox_side": {
         "fileName": "assets/mc-textures/jukebox_side.png",
+        "name": "jukebox_side",
         "colors": [
             [
                 18,
@@ -5349,43 +2610,9 @@
             ]
         ]
     },
-    "jukebox_top": {
-        "fileName": "assets/mc-textures/jukebox_top.png",
-        "colors": [
-            [
-                15,
-                96,
-                85
-            ],
-            [
-                23,
-                35,
-                39
-            ]
-        ]
-    },
-    "jungle_door_bottom": {
-        "fileName": "assets/mc-textures/jungle_door_bottom.png",
-        "colors": [
-            [
-                19,
-                94,
-                98
-            ],
-            [
-                18,
-                96,
-                139
-            ],
-            [
-                0,
-                0,
-                53
-            ]
-        ]
-    },
     "jungle_door_top": {
         "fileName": "assets/mc-textures/jungle_door_top.png",
+        "name": "jungle_door_top",
         "colors": [
             [
                 18,
@@ -5404,23 +2631,9 @@
             ]
         ]
     },
-    "jungle_leaves": {
-        "fileName": "assets/mc-textures/jungle_leaves.png",
-        "colors": [
-            [
-                85,
-                2,
-                167
-            ],
-            [
-                0,
-                1,
-                135
-            ]
-        ]
-    },
     "jungle_log": {
         "fileName": "assets/mc-textures/jungle_log.png",
+        "name": "jungle_log",
         "colors": [
             [
                 31,
@@ -5441,6 +2654,7 @@
     },
     "jungle_log_top": {
         "fileName": "assets/mc-textures/jungle_log_top.png",
+        "name": "jungle_log_top",
         "colors": [
             [
                 22,
@@ -5461,6 +2675,7 @@
     },
     "jungle_planks": {
         "fileName": "assets/mc-textures/jungle_planks.png",
+        "name": "jungle_planks",
         "colors": [
             [
                 18,
@@ -5479,23 +2694,9 @@
             ]
         ]
     },
-    "jungle_sapling": {
-        "fileName": "assets/mc-textures/jungle_sapling.png",
-        "colors": [
-            [
-                53,
-                191,
-                8
-            ],
-            [
-                74,
-                159,
-                72
-            ]
-        ]
-    },
     "jungle_trapdoor": {
         "fileName": "assets/mc-textures/jungle_trapdoor.png",
+        "name": "jungle_trapdoor",
         "colors": [
             [
                 19,
@@ -5514,73 +2715,9 @@
             ]
         ]
     },
-    "kelp": {
-        "fileName": "assets/mc-textures/kelp.png",
-        "colors": [
-            [
-                60,
-                115,
-                82
-            ],
-            [
-                70,
-                143,
-                109
-            ]
-        ]
-    },
-    "kelp_plant": {
-        "fileName": "assets/mc-textures/kelp_plant.png",
-        "colors": [
-            [
-                60,
-                119,
-                82
-            ],
-            [
-                70,
-                143,
-                109
-            ]
-        ]
-    },
-    "ladder": {
-        "fileName": "assets/mc-textures/ladder.png",
-        "colors": [
-            [
-                23,
-                99,
-                11
-            ],
-            [
-                25,
-                102,
-                85
-            ],
-            [
-                25,
-                103,
-                130
-            ]
-        ]
-    },
-    "lantern": {
-        "fileName": "assets/mc-textures/lantern.png",
-        "colors": [
-            [
-                158,
-                40,
-                78
-            ],
-            [
-                14,
-                140,
-                91
-            ]
-        ]
-    },
     "lapis_block": {
         "fileName": "assets/mc-textures/lapis_block.png",
+        "name": "lapis_block",
         "colors": [
             [
                 157,
@@ -5596,6 +2733,7 @@
     },
     "lapis_ore": {
         "fileName": "assets/mc-textures/lapis_ore.png",
+        "name": "lapis_ore",
         "colors": [
             [
                 0,
@@ -5614,183 +2752,9 @@
             ]
         ]
     },
-    "large_fern_bottom": {
-        "fileName": "assets/mc-textures/large_fern_bottom.png",
-        "colors": [
-            [
-                85,
-                3,
-                114
-            ],
-            [
-                212,
-                3,
-                148
-            ],
-            [
-                0,
-                0,
-                255
-            ]
-        ]
-    },
-    "large_fern_top": {
-        "fileName": "assets/mc-textures/large_fern_top.png",
-        "colors": [
-            [
-                85,
-                2,
-                107
-            ],
-            [
-                212,
-                3,
-                157
-            ]
-        ]
-    },
-    "lava_flow": {
-        "fileName": "assets/mc-textures/lava_flow.png",
-        "colors": [
-            [
-                15,
-                222,
-                109
-            ],
-            [
-                23,
-                185,
-                137
-            ],
-            [
-                19,
-                187,
-                124
-            ]
-        ]
-    },
-    "lava_still": {
-        "fileName": "assets/mc-textures/lava_still.png",
-        "colors": [
-            [
-                14,
-                225,
-                111
-            ],
-            [
-                22,
-                193,
-                135
-            ],
-            [
-                19,
-                195,
-                124
-            ]
-        ]
-    },
-    "lectern_base": {
-        "fileName": "assets/mc-textures/lectern_base.png",
-        "colors": [
-            [
-                25,
-                99,
-                138
-            ],
-            [
-                25,
-                100,
-                89
-            ],
-            [
-                25,
-                93,
-                121
-            ]
-        ]
-    },
-    "lectern_front": {
-        "fileName": "assets/mc-textures/lectern_front.png",
-        "colors": [
-            [
-                26,
-                103,
-                89
-            ],
-            [
-                23,
-                143,
-                43
-            ],
-            [
-                25,
-                103,
-                134
-            ]
-        ]
-    },
-    "lectern_sides": {
-        "fileName": "assets/mc-textures/lectern_sides.png",
-        "colors": [
-            [
-                25,
-                101,
-                91
-            ],
-            [
-                25,
-                101,
-                133
-            ],
-            [
-                25,
-                93,
-                121
-            ]
-        ]
-    },
-    "lectern_top": {
-        "fileName": "assets/mc-textures/lectern_top.png",
-        "colors": [
-            [
-                25,
-                102,
-                138
-            ],
-            [
-                25,
-                93,
-                121
-            ],
-            [
-                25,
-                100,
-                104
-            ]
-        ]
-    },
-    "lever": {
-        "fileName": "assets/mc-textures/lever.png",
-        "colors": [
-            [
-                0,
-                255,
-                0
-            ],
-            [
-                25,
-                60,
-                93
-            ],
-            [
-                25,
-                84,
-                119
-            ]
-        ]
-    },
     "light_blue_concrete": {
         "fileName": "assets/mc-textures/light_blue_concrete.png",
+        "name": "light_blue_concrete",
         "colors": [
             [
                 143,
@@ -5801,6 +2765,7 @@
     },
     "light_blue_concrete_powder": {
         "fileName": "assets/mc-textures/light_blue_concrete_powder.png",
+        "name": "light_blue_concrete_powder",
         "colors": [
             [
                 137,
@@ -5821,6 +2786,7 @@
     },
     "light_blue_glazed_terracotta": {
         "fileName": "assets/mc-textures/light_blue_glazed_terracotta.png",
+        "name": "light_blue_glazed_terracotta",
         "colors": [
             [
                 137,
@@ -5841,6 +2807,7 @@
     },
     "light_blue_shulker_box": {
         "fileName": "assets/mc-textures/light_blue_shulker_box.png",
+        "name": "light_blue_shulker_box",
         "colors": [
             [
                 138,
@@ -5861,6 +2828,7 @@
     },
     "light_blue_stained_glass": {
         "fileName": "assets/mc-textures/light_blue_stained_glass.png",
+        "name": "light_blue_stained_glass",
         "colors": [
             [
                 150,
@@ -5869,18 +2837,9 @@
             ]
         ]
     },
-    "light_blue_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/light_blue_stained_glass_pane_top.png",
-        "colors": [
-            [
-                150,
-                138,
-                152
-            ]
-        ]
-    },
     "light_blue_terracotta": {
         "fileName": "assets/mc-textures/light_blue_terracotta.png",
+        "name": "light_blue_terracotta",
         "colors": [
             [
                 177,
@@ -5891,6 +2850,7 @@
     },
     "light_blue_wool": {
         "fileName": "assets/mc-textures/light_blue_wool.png",
+        "name": "light_blue_wool",
         "colors": [
             [
                 137,
@@ -5911,6 +2871,7 @@
     },
     "light_gray_concrete": {
         "fileName": "assets/mc-textures/light_gray_concrete.png",
+        "name": "light_gray_concrete",
         "colors": [
             [
                 42,
@@ -5921,6 +2882,7 @@
     },
     "light_gray_concrete_powder": {
         "fileName": "assets/mc-textures/light_gray_concrete_powder.png",
+        "name": "light_gray_concrete_powder",
         "colors": [
             [
                 48,
@@ -5936,6 +2898,7 @@
     },
     "light_gray_glazed_terracotta": {
         "fileName": "assets/mc-textures/light_gray_glazed_terracotta.png",
+        "name": "light_gray_glazed_terracotta",
         "colors": [
             [
                 141,
@@ -5956,6 +2919,7 @@
     },
     "light_gray_shulker_box": {
         "fileName": "assets/mc-textures/light_gray_shulker_box.png",
+        "name": "light_gray_shulker_box",
         "colors": [
             [
                 42,
@@ -5976,6 +2940,7 @@
     },
     "light_gray_stained_glass": {
         "fileName": "assets/mc-textures/light_gray_stained_glass.png",
+        "name": "light_gray_stained_glass",
         "colors": [
             [
                 0,
@@ -5984,18 +2949,9 @@
             ]
         ]
     },
-    "light_gray_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/light_gray_stained_glass_pane_top.png",
-        "colors": [
-            [
-                0,
-                0,
-                147
-            ]
-        ]
-    },
     "light_gray_terracotta": {
         "fileName": "assets/mc-textures/light_gray_terracotta.png",
+        "name": "light_gray_terracotta",
         "colors": [
             [
                 10,
@@ -6006,6 +2962,7 @@
     },
     "light_gray_wool": {
         "fileName": "assets/mc-textures/light_gray_wool.png",
+        "name": "light_gray_wool",
         "colors": [
             [
                 47,
@@ -6024,73 +2981,9 @@
             ]
         ]
     },
-    "lilac_bottom": {
-        "fileName": "assets/mc-textures/lilac_bottom.png",
-        "colors": [
-            [
-                213,
-                102,
-                156
-            ],
-            [
-                75,
-                190,
-                75
-            ]
-        ]
-    },
-    "lilac_top": {
-        "fileName": "assets/mc-textures/lilac_top.png",
-        "colors": [
-            [
-                213,
-                102,
-                156
-            ],
-            [
-                211,
-                62,
-                128
-            ]
-        ]
-    },
-    "lily_of_the_valley": {
-        "fileName": "assets/mc-textures/lily_of_the_valley.png",
-        "colors": [
-            [
-                0,
-                0,
-                253
-            ],
-            [
-                70,
-                156,
-                85
-            ],
-            [
-                68,
-                142,
-                113
-            ]
-        ]
-    },
-    "lily_pad": {
-        "fileName": "assets/mc-textures/lily_pad.png",
-        "colors": [
-            [
-                0,
-                0,
-                155
-            ],
-            [
-                0,
-                0,
-                101
-            ]
-        ]
-    },
     "lime_concrete": {
         "fileName": "assets/mc-textures/lime_concrete.png",
+        "name": "lime_concrete",
         "colors": [
             [
                 64,
@@ -6101,6 +2994,7 @@
     },
     "lime_concrete_powder": {
         "fileName": "assets/mc-textures/lime_concrete_powder.png",
+        "name": "lime_concrete_powder",
         "colors": [
             [
                 61,
@@ -6121,6 +3015,7 @@
     },
     "lime_glazed_terracotta": {
         "fileName": "assets/mc-textures/lime_glazed_terracotta.png",
+        "name": "lime_glazed_terracotta",
         "colors": [
             [
                 56,
@@ -6141,6 +3036,7 @@
     },
     "lime_shulker_box": {
         "fileName": "assets/mc-textures/lime_shulker_box.png",
+        "name": "lime_shulker_box",
         "colors": [
             [
                 62,
@@ -6161,6 +3057,7 @@
     },
     "lime_stained_glass": {
         "fileName": "assets/mc-textures/lime_stained_glass.png",
+        "name": "lime_stained_glass",
         "colors": [
             [
                 60,
@@ -6169,18 +3066,9 @@
             ]
         ]
     },
-    "lime_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/lime_stained_glass_pane_top.png",
-        "colors": [
-            [
-                60,
-                199,
-                110
-            ]
-        ]
-    },
     "lime_terracotta": {
         "fileName": "assets/mc-textures/lime_terracotta.png",
+        "name": "lime_terracotta",
         "colors": [
             [
                 51,
@@ -6191,6 +3079,7 @@
     },
     "lime_wool": {
         "fileName": "assets/mc-textures/lime_wool.png",
+        "name": "lime_wool",
         "colors": [
             [
                 61,
@@ -6206,6 +3095,7 @@
     },
     "loom_bottom": {
         "fileName": "assets/mc-textures/loom_bottom.png",
+        "name": "loom_bottom",
         "colors": [
             [
                 25,
@@ -6226,6 +3116,7 @@
     },
     "loom_front": {
         "fileName": "assets/mc-textures/loom_front.png",
+        "name": "loom_front",
         "colors": [
             [
                 23,
@@ -6246,6 +3137,7 @@
     },
     "loom_side": {
         "fileName": "assets/mc-textures/loom_side.png",
+        "name": "loom_side",
         "colors": [
             [
                 10,
@@ -6266,6 +3158,7 @@
     },
     "loom_top": {
         "fileName": "assets/mc-textures/loom_top.png",
+        "name": "loom_top",
         "colors": [
             [
                 22,
@@ -6286,6 +3179,7 @@
     },
     "magenta_concrete": {
         "fileName": "assets/mc-textures/magenta_concrete.png",
+        "name": "magenta_concrete",
         "colors": [
             [
                 216,
@@ -6296,6 +3190,7 @@
     },
     "magenta_concrete_powder": {
         "fileName": "assets/mc-textures/magenta_concrete_powder.png",
+        "name": "magenta_concrete_powder",
         "colors": [
             [
                 215,
@@ -6316,6 +3211,7 @@
     },
     "magenta_glazed_terracotta": {
         "fileName": "assets/mc-textures/magenta_glazed_terracotta.png",
+        "name": "magenta_glazed_terracotta",
         "colors": [
             [
                 216,
@@ -6336,6 +3232,7 @@
     },
     "magenta_shulker_box": {
         "fileName": "assets/mc-textures/magenta_shulker_box.png",
+        "name": "magenta_shulker_box",
         "colors": [
             [
                 216,
@@ -6346,6 +3243,7 @@
     },
     "magenta_stained_glass": {
         "fileName": "assets/mc-textures/magenta_stained_glass.png",
+        "name": "magenta_stained_glass",
         "colors": [
             [
                 200,
@@ -6354,18 +3252,9 @@
             ]
         ]
     },
-    "magenta_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/magenta_stained_glass_pane_top.png",
-        "colors": [
-            [
-                200,
-                150,
-                140
-            ]
-        ]
-    },
     "magenta_terracotta": {
         "fileName": "assets/mc-textures/magenta_terracotta.png",
+        "name": "magenta_terracotta",
         "colors": [
             [
                 241,
@@ -6376,6 +3265,7 @@
     },
     "magenta_wool": {
         "fileName": "assets/mc-textures/magenta_wool.png",
+        "name": "magenta_wool",
         "colors": [
             [
                 216,
@@ -6396,6 +3286,7 @@
     },
     "magma": {
         "fileName": "assets/mc-textures/magma.png",
+        "name": "magma",
         "colors": [
             [
                 0,
@@ -6414,43 +3305,9 @@
             ]
         ]
     },
-    "melon_side": {
-        "fileName": "assets/mc-textures/melon_side.png",
-        "colors": [
-            [
-                48,
-                173,
-                96
-            ],
-            [
-                62,
-                164,
-                78
-            ],
-            [
-                73,
-                150,
-                71
-            ]
-        ]
-    },
-    "melon_stem": {
-        "fileName": "assets/mc-textures/melon_stem.png",
-        "colors": [
-            [
-                0,
-                0,
-                165
-            ],
-            [
-                0,
-                0,
-                101
-            ]
-        ]
-    },
     "melon_top": {
         "fileName": "assets/mc-textures/melon_top.png",
+        "name": "melon_top",
         "colors": [
             [
                 49,
@@ -6471,6 +3328,7 @@
     },
     "mossy_cobblestone": {
         "fileName": "assets/mc-textures/mossy_cobblestone.png",
+        "name": "mossy_cobblestone",
         "colors": [
             [
                 58,
@@ -6491,6 +3349,7 @@
     },
     "mossy_stone_bricks": {
         "fileName": "assets/mc-textures/mossy_stone_bricks.png",
+        "name": "mossy_stone_bricks",
         "colors": [
             [
                 58,
@@ -6511,6 +3370,7 @@
     },
     "mushroom_block_inside": {
         "fileName": "assets/mc-textures/mushroom_block_inside.png",
+        "name": "mushroom_block_inside",
         "colors": [
             [
                 26,
@@ -6519,48 +3379,9 @@
             ]
         ]
     },
-    "mushroom_stem": {
-        "fileName": "assets/mc-textures/mushroom_stem.png",
-        "colors": [
-            [
-                23,
-                37,
-                200
-            ],
-            [
-                29,
-                36,
-                189
-            ],
-            [
-                30,
-                38,
-                183
-            ]
-        ]
-    },
-    "mycelium_side": {
-        "fileName": "assets/mc-textures/mycelium_side.png",
-        "colors": [
-            [
-                18,
-                84,
-                91
-            ],
-            [
-                245,
-                16,
-                106
-            ],
-            [
-                18,
-                88,
-                43
-            ]
-        ]
-    },
     "mycelium_top": {
         "fileName": "assets/mc-textures/mycelium_top.png",
+        "name": "mycelium_top",
         "colors": [
             [
                 242,
@@ -6576,6 +3397,7 @@
     },
     "nether_bricks": {
         "fileName": "assets/mc-textures/nether_bricks.png",
+        "name": "nether_bricks",
         "colors": [
             [
                 245,
@@ -6584,28 +3406,9 @@
             ]
         ]
     },
-    "nether_portal": {
-        "fileName": "assets/mc-textures/nether_portal.png",
-        "colors": [
-            [
-                187,
-                239,
-                97
-            ],
-            [
-                193,
-                182,
-                136
-            ],
-            [
-                192,
-                183,
-                125
-            ]
-        ]
-    },
     "nether_quartz_ore": {
         "fileName": "assets/mc-textures/nether_quartz_ore.png",
+        "name": "nether_quartz_ore",
         "colors": [
             [
                 0,
@@ -6626,6 +3429,7 @@
     },
     "nether_wart_block": {
         "fileName": "assets/mc-textures/nether_wart_block.png",
+        "name": "nether_wart_block",
         "colors": [
             [
                 0,
@@ -6644,68 +3448,9 @@
             ]
         ]
     },
-    "nether_wart_stage0": {
-        "fileName": "assets/mc-textures/nether_wart_stage0.png",
-        "colors": [
-            [
-                0,
-                255,
-                2
-            ],
-            [
-                253,
-                165,
-                85
-            ],
-            [
-                253,
-                237,
-                59
-            ]
-        ]
-    },
-    "nether_wart_stage1": {
-        "fileName": "assets/mc-textures/nether_wart_stage1.png",
-        "colors": [
-            [
-                2,
-                225,
-                8
-            ],
-            [
-                253,
-                164,
-                87
-            ],
-            [
-                253,
-                237,
-                59
-            ]
-        ]
-    },
-    "nether_wart_stage2": {
-        "fileName": "assets/mc-textures/nether_wart_stage2.png",
-        "colors": [
-            [
-                2,
-                225,
-                17
-            ],
-            [
-                253,
-                165,
-                88
-            ],
-            [
-                253,
-                237,
-                59
-            ]
-        ]
-    },
     "netherrack": {
         "fileName": "assets/mc-textures/netherrack.png",
+        "name": "netherrack",
         "colors": [
             [
                 0,
@@ -6726,6 +3471,7 @@
     },
     "note_block": {
         "fileName": "assets/mc-textures/note_block.png",
+        "name": "note_block",
         "colors": [
             [
                 18,
@@ -6739,28 +3485,9 @@
             ]
         ]
     },
-    "oak_door_bottom": {
-        "fileName": "assets/mc-textures/oak_door_bottom.png",
-        "colors": [
-            [
-                25,
-                101,
-                94
-            ],
-            [
-                25,
-                101,
-                132
-            ],
-            [
-                25,
-                93,
-                121
-            ]
-        ]
-    },
     "oak_door_top": {
         "fileName": "assets/mc-textures/oak_door_top.png",
+        "name": "oak_door_top",
         "colors": [
             [
                 25,
@@ -6779,23 +3506,9 @@
             ]
         ]
     },
-    "oak_leaves": {
-        "fileName": "assets/mc-textures/oak_leaves.png",
-        "colors": [
-            [
-                85,
-                2,
-                167
-            ],
-            [
-                212,
-                3,
-                109
-            ]
-        ]
-    },
     "oak_log": {
         "fileName": "assets/mc-textures/oak_log.png",
+        "name": "oak_log",
         "colors": [
             [
                 24,
@@ -6811,6 +3524,7 @@
     },
     "oak_log_top": {
         "fileName": "assets/mc-textures/oak_log_top.png",
+        "name": "oak_log_top",
         "colors": [
             [
                 26,
@@ -6831,6 +3545,7 @@
     },
     "oak_planks": {
         "fileName": "assets/mc-textures/oak_planks.png",
+        "name": "oak_planks",
         "colors": [
             [
                 26,
@@ -6849,28 +3564,9 @@
             ]
         ]
     },
-    "oak_sapling": {
-        "fileName": "assets/mc-textures/oak_sapling.png",
-        "colors": [
-            [
-                14,
-                153,
-                2
-            ],
-            [
-                24,
-                106,
-                80
-            ],
-            [
-                77,
-                128,
-                95
-            ]
-        ]
-    },
     "oak_trapdoor": {
         "fileName": "assets/mc-textures/oak_trapdoor.png",
+        "name": "oak_trapdoor",
         "colors": [
             [
                 26,
@@ -6889,48 +3585,9 @@
             ]
         ]
     },
-    "observer_back": {
-        "fileName": "assets/mc-textures/observer_back.png",
-        "colors": [
-            [
-                0,
-                2,
-                51
-            ],
-            [
-                0,
-                2,
-                87
-            ],
-            [
-                0,
-                0,
-                143
-            ]
-        ]
-    },
-    "observer_back_on": {
-        "fileName": "assets/mc-textures/observer_back_on.png",
-        "colors": [
-            [
-                0,
-                5,
-                51
-            ],
-            [
-                0,
-                11,
-                89
-            ],
-            [
-                0,
-                2,
-                142
-            ]
-        ]
-    },
     "observer_front": {
         "fileName": "assets/mc-textures/observer_front.png",
+        "name": "observer_front",
         "colors": [
             [
                 0,
@@ -6949,48 +3606,9 @@
             ]
         ]
     },
-    "observer_side": {
-        "fileName": "assets/mc-textures/observer_side.png",
-        "colors": [
-            [
-                0,
-                0,
-                52
-            ],
-            [
-                0,
-                3,
-                84
-            ],
-            [
-                0,
-                0,
-                143
-            ]
-        ]
-    },
-    "observer_top": {
-        "fileName": "assets/mc-textures/observer_top.png",
-        "colors": [
-            [
-                0,
-                0,
-                102
-            ],
-            [
-                0,
-                0,
-                50
-            ],
-            [
-                0,
-                0,
-                152
-            ]
-        ]
-    },
     "obsidian": {
         "fileName": "assets/mc-textures/obsidian.png",
+        "name": "obsidian",
         "colors": [
             [
                 185,
@@ -7001,6 +3619,7 @@
     },
     "orange_concrete": {
         "fileName": "assets/mc-textures/orange_concrete.png",
+        "name": "orange_concrete",
         "colors": [
             [
                 18,
@@ -7011,6 +3630,7 @@
     },
     "orange_concrete_powder": {
         "fileName": "assets/mc-textures/orange_concrete_powder.png",
+        "name": "orange_concrete_powder",
         "colors": [
             [
                 22,
@@ -7031,6 +3651,7 @@
     },
     "orange_glazed_terracotta": {
         "fileName": "assets/mc-textures/orange_glazed_terracotta.png",
+        "name": "orange_glazed_terracotta",
         "colors": [
             [
                 20,
@@ -7051,6 +3672,7 @@
     },
     "orange_shulker_box": {
         "fileName": "assets/mc-textures/orange_shulker_box.png",
+        "name": "orange_shulker_box",
         "colors": [
             [
                 18,
@@ -7071,6 +3693,7 @@
     },
     "orange_stained_glass": {
         "fileName": "assets/mc-textures/orange_stained_glass.png",
+        "name": "orange_stained_glass",
         "colors": [
             [
                 19,
@@ -7079,23 +3702,9 @@
             ]
         ]
     },
-    "orange_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/orange_stained_glass_pane_top.png",
-        "colors": [
-            [
-                19,
-                159,
-                125
-            ],
-            [
-                19,
-                170,
-                131
-            ]
-        ]
-    },
     "orange_terracotta": {
         "fileName": "assets/mc-textures/orange_terracotta.png",
+        "name": "orange_terracotta",
         "colors": [
             [
                 15,
@@ -7104,23 +3713,9 @@
             ]
         ]
     },
-    "orange_tulip": {
-        "fileName": "assets/mc-textures/orange_tulip.png",
-        "colors": [
-            [
-                75,
-                190,
-                75
-            ],
-            [
-                71,
-                144,
-                108
-            ]
-        ]
-    },
     "orange_wool": {
         "fileName": "assets/mc-textures/orange_wool.png",
+        "name": "orange_wool",
         "colors": [
             [
                 19,
@@ -7139,23 +3734,9 @@
             ]
         ]
     },
-    "oxeye_daisy": {
-        "fileName": "assets/mc-textures/oxeye_daisy.png",
-        "colors": [
-            [
-                73,
-                180,
-                75
-            ],
-            [
-                71,
-                144,
-                103
-            ]
-        ]
-    },
     "packed_ice": {
         "fileName": "assets/mc-textures/packed_ice.png",
+        "name": "packed_ice",
         "colors": [
             [
                 155,
@@ -7174,38 +3755,9 @@
             ]
         ]
     },
-    "peony_bottom": {
-        "fileName": "assets/mc-textures/peony_bottom.png",
-        "colors": [
-            [
-                91,
-                94,
-                44
-            ],
-            [
-                203,
-                193,
-                201
-            ]
-        ]
-    },
-    "peony_top": {
-        "fileName": "assets/mc-textures/peony_top.png",
-        "colors": [
-            [
-                92,
-                96,
-                45
-            ],
-            [
-                202,
-                196,
-                203
-            ]
-        ]
-    },
     "pink_concrete": {
         "fileName": "assets/mc-textures/pink_concrete.png",
+        "name": "pink_concrete",
         "colors": [
             [
                 239,
@@ -7221,6 +3773,7 @@
     },
     "pink_concrete_powder": {
         "fileName": "assets/mc-textures/pink_concrete_powder.png",
+        "name": "pink_concrete_powder",
         "colors": [
             [
                 239,
@@ -7241,6 +3794,7 @@
     },
     "pink_glazed_terracotta": {
         "fileName": "assets/mc-textures/pink_glazed_terracotta.png",
+        "name": "pink_glazed_terracotta",
         "colors": [
             [
                 240,
@@ -7261,6 +3815,7 @@
     },
     "pink_shulker_box": {
         "fileName": "assets/mc-textures/pink_shulker_box.png",
+        "name": "pink_shulker_box",
         "colors": [
             [
                 241,
@@ -7281,6 +3836,7 @@
     },
     "pink_stained_glass": {
         "fileName": "assets/mc-textures/pink_stained_glass.png",
+        "name": "pink_stained_glass",
         "colors": [
             [
                 240,
@@ -7289,18 +3845,9 @@
             ]
         ]
     },
-    "pink_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/pink_stained_glass_pane_top.png",
-        "colors": [
-            [
-                240,
-                182,
-                177
-            ]
-        ]
-    },
     "pink_terracotta": {
         "fileName": "assets/mc-textures/pink_terracotta.png",
+        "name": "pink_terracotta",
         "colors": [
             [
                 0,
@@ -7314,23 +3861,9 @@
             ]
         ]
     },
-    "pink_tulip": {
-        "fileName": "assets/mc-textures/pink_tulip.png",
-        "colors": [
-            [
-                75,
-                190,
-                75
-            ],
-            [
-                71,
-                143,
-                107
-            ]
-        ]
-    },
     "pink_wool": {
         "fileName": "assets/mc-textures/pink_wool.png",
+        "name": "pink_wool",
         "colors": [
             [
                 240,
@@ -7351,6 +3884,7 @@
     },
     "piston_bottom": {
         "fileName": "assets/mc-textures/piston_bottom.png",
+        "name": "piston_bottom",
         "colors": [
             [
                 0,
@@ -7369,48 +3903,9 @@
             ]
         ]
     },
-    "piston_inner": {
-        "fileName": "assets/mc-textures/piston_inner.png",
-        "colors": [
-            [
-                0,
-                0,
-                92
-            ],
-            [
-                0,
-                0,
-                145
-            ],
-            [
-                0,
-                0,
-                50
-            ]
-        ]
-    },
-    "piston_side": {
-        "fileName": "assets/mc-textures/piston_side.png",
-        "colors": [
-            [
-                25,
-                6,
-                92
-            ],
-            [
-                25,
-                35,
-                139
-            ],
-            [
-                0,
-                0,
-                50
-            ]
-        ]
-    },
     "piston_top": {
         "fileName": "assets/mc-textures/piston_top.png",
+        "name": "piston_top",
         "colors": [
             [
                 25,
@@ -7431,6 +3926,7 @@
     },
     "piston_top_sticky": {
         "fileName": "assets/mc-textures/piston_top_sticky.png",
+        "name": "piston_top_sticky",
         "colors": [
             [
                 77,
@@ -7449,28 +3945,9 @@
             ]
         ]
     },
-    "podzol_side": {
-        "fileName": "assets/mc-textures/podzol_side.png",
-        "colors": [
-            [
-                19,
-                92,
-                91
-            ],
-            [
-                23,
-                120,
-                51
-            ],
-            [
-                18,
-                90,
-                137
-            ]
-        ]
-    },
     "podzol_top": {
         "fileName": "assets/mc-textures/podzol_top.png",
+        "name": "podzol_top",
         "colors": [
             [
                 23,
@@ -7491,6 +3968,7 @@
     },
     "polished_andesite": {
         "fileName": "assets/mc-textures/polished_andesite.png",
+        "name": "polished_andesite",
         "colors": [
             [
                 113,
@@ -7511,6 +3989,7 @@
     },
     "polished_diorite": {
         "fileName": "assets/mc-textures/polished_diorite.png",
+        "name": "polished_diorite",
         "colors": [
             [
                 212,
@@ -7531,6 +4010,7 @@
     },
     "polished_granite": {
         "fileName": "assets/mc-textures/polished_granite.png",
+        "name": "polished_granite",
         "colors": [
             [
                 11,
@@ -7549,118 +4029,9 @@
             ]
         ]
     },
-    "poppy": {
-        "fileName": "assets/mc-textures/poppy.png",
-        "colors": [
-            [
-                0,
-                214,
-                140
-            ],
-            [
-                80,
-                165,
-                57
-            ]
-        ]
-    },
-    "potatoes_stage0": {
-        "fileName": "assets/mc-textures/potatoes_stage0.png",
-        "colors": [
-            [
-                79,
-                125,
-                76
-            ],
-            [
-                71,
-                148,
-                108
-            ]
-        ]
-    },
-    "potatoes_stage1": {
-        "fileName": "assets/mc-textures/potatoes_stage1.png",
-        "colors": [
-            [
-                76,
-                132,
-                81
-            ],
-            [
-                71,
-                148,
-                108
-            ]
-        ]
-    },
-    "potatoes_stage2": {
-        "fileName": "assets/mc-textures/potatoes_stage2.png",
-        "colors": [
-            [
-                77,
-                129,
-                81
-            ],
-            [
-                27,
-                99,
-                100
-            ]
-        ]
-    },
-    "potatoes_stage3": {
-        "fileName": "assets/mc-textures/potatoes_stage3.png",
-        "colors": [
-            [
-                76,
-                130,
-                82
-            ],
-            [
-                71,
-                148,
-                108
-            ]
-        ]
-    },
-    "powered_rail": {
-        "fileName": "assets/mc-textures/powered_rail.png",
-        "colors": [
-            [
-                0,
-                255,
-                9
-            ],
-            [
-                26,
-                43,
-                91
-            ],
-            [
-                30,
-                84,
-                143
-            ]
-        ]
-    },
-    "powered_rail_on": {
-        "fileName": "assets/mc-textures/powered_rail_on.png",
-        "colors": [
-            [
-                26,
-                43,
-                91
-            ],
-            [
-                30,
-                84,
-                143
-            ]
-        ]
-    },
     "prismarine": {
         "fileName": "assets/mc-textures/prismarine.png",
+        "name": "prismarine",
         "colors": [
             [
                 115,
@@ -7681,6 +4052,7 @@
     },
     "prismarine_bricks": {
         "fileName": "assets/mc-textures/prismarine_bricks.png",
+        "name": "prismarine_bricks",
         "colors": [
             [
                 121,
@@ -7701,6 +4073,7 @@
     },
     "pumpkin_side": {
         "fileName": "assets/mc-textures/pumpkin_side.png",
+        "name": "pumpkin_side",
         "colors": [
             [
                 21,
@@ -7714,43 +4087,9 @@
             ]
         ]
     },
-    "pumpkin_stem": {
-        "fileName": "assets/mc-textures/pumpkin_stem.png",
-        "colors": [
-            [
-                85,
-                2,
-                140
-            ],
-            [
-                212,
-                3,
-                179
-            ]
-        ]
-    },
-    "pumpkin_top": {
-        "fileName": "assets/mc-textures/pumpkin_top.png",
-        "colors": [
-            [
-                21,
-                209,
-                100
-            ],
-            [
-                23,
-                196,
-                132
-            ],
-            [
-                31,
-                255,
-                100
-            ]
-        ]
-    },
     "purple_concrete": {
         "fileName": "assets/mc-textures/purple_concrete.png",
+        "name": "purple_concrete",
         "colors": [
             [
                 193,
@@ -7761,6 +4100,7 @@
     },
     "purple_concrete_powder": {
         "fileName": "assets/mc-textures/purple_concrete_powder.png",
+        "name": "purple_concrete_powder",
         "colors": [
             [
                 196,
@@ -7776,6 +4116,7 @@
     },
     "purple_glazed_terracotta": {
         "fileName": "assets/mc-textures/purple_glazed_terracotta.png",
+        "name": "purple_glazed_terracotta",
         "colors": [
             [
                 197,
@@ -7796,6 +4137,7 @@
     },
     "purple_shulker_box": {
         "fileName": "assets/mc-textures/purple_shulker_box.png",
+        "name": "purple_shulker_box",
         "colors": [
             [
                 193,
@@ -7811,6 +4153,7 @@
     },
     "purple_stained_glass": {
         "fileName": "assets/mc-textures/purple_stained_glass.png",
+        "name": "purple_stained_glass",
         "colors": [
             [
                 193,
@@ -7819,18 +4162,9 @@
             ]
         ]
     },
-    "purple_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/purple_stained_glass_pane_top.png",
-        "colors": [
-            [
-                193,
-                120,
-                116
-            ]
-        ]
-    },
     "purple_terracotta": {
         "fileName": "assets/mc-textures/purple_terracotta.png",
+        "name": "purple_terracotta",
         "colors": [
             [
                 240,
@@ -7841,6 +4175,7 @@
     },
     "purple_wool": {
         "fileName": "assets/mc-textures/purple_wool.png",
+        "name": "purple_wool",
         "colors": [
             [
                 196,
@@ -7861,6 +4196,7 @@
     },
     "purpur_block": {
         "fileName": "assets/mc-textures/purpur_block.png",
+        "name": "purpur_block",
         "colors": [
             [
                 212,
@@ -7881,6 +4217,7 @@
     },
     "purpur_pillar": {
         "fileName": "assets/mc-textures/purpur_pillar.png",
+        "name": "purpur_pillar",
         "colors": [
             [
                 212,
@@ -7899,48 +4236,9 @@
             ]
         ]
     },
-    "purpur_pillar_top": {
-        "fileName": "assets/mc-textures/purpur_pillar_top.png",
-        "colors": [
-            [
-                212,
-                54,
-                157
-            ],
-            [
-                212,
-                46,
-                130
-            ],
-            [
-                212,
-                45,
-                124
-            ]
-        ]
-    },
-    "quartz_block_bottom": {
-        "fileName": "assets/mc-textures/quartz_block_bottom.png",
-        "colors": [
-            [
-                22,
-                65,
-                229
-            ]
-        ]
-    },
     "quartz_block_side": {
         "fileName": "assets/mc-textures/quartz_block_side.png",
-        "colors": [
-            [
-                22,
-                62,
-                228
-            ]
-        ]
-    },
-    "quartz_block_top": {
-        "fileName": "assets/mc-textures/quartz_block_top.png",
+        "name": "quartz_block_side",
         "colors": [
             [
                 22,
@@ -7951,6 +4249,7 @@
     },
     "quartz_pillar": {
         "fileName": "assets/mc-textures/quartz_pillar.png",
+        "name": "quartz_pillar",
         "colors": [
             [
                 23,
@@ -7959,58 +4258,9 @@
             ]
         ]
     },
-    "quartz_pillar_top": {
-        "fileName": "assets/mc-textures/quartz_pillar_top.png",
-        "colors": [
-            [
-                22,
-                62,
-                228
-            ]
-        ]
-    },
-    "rail": {
-        "fileName": "assets/mc-textures/rail.png",
-        "colors": [
-            [
-                28,
-                109,
-                7
-            ],
-            [
-                25,
-                71,
-                90
-            ],
-            [
-                0,
-                0,
-                156
-            ]
-        ]
-    },
-    "rail_corner": {
-        "fileName": "assets/mc-textures/rail_corner.png",
-        "colors": [
-            [
-                28,
-                109,
-                3
-            ],
-            [
-                25,
-                78,
-                91
-            ],
-            [
-                69,
-                12,
-                115
-            ]
-        ]
-    },
     "red_concrete": {
         "fileName": "assets/mc-textures/red_concrete.png",
+        "name": "red_concrete",
         "colors": [
             [
                 0,
@@ -8021,6 +4271,7 @@
     },
     "red_concrete_powder": {
         "fileName": "assets/mc-textures/red_concrete_powder.png",
+        "name": "red_concrete_powder",
         "colors": [
             [
                 1,
@@ -8036,6 +4287,7 @@
     },
     "red_glazed_terracotta": {
         "fileName": "assets/mc-textures/red_glazed_terracotta.png",
+        "name": "red_glazed_terracotta",
         "colors": [
             [
                 2,
@@ -8054,23 +4306,9 @@
             ]
         ]
     },
-    "red_mushroom": {
-        "fileName": "assets/mc-textures/red_mushroom.png",
-        "colors": [
-            [
-                0,
-                217,
-                122
-            ],
-            [
-                0,
-                252,
-                148
-            ]
-        ]
-    },
     "red_mushroom_block": {
         "fileName": "assets/mc-textures/red_mushroom_block.png",
+        "name": "red_mushroom_block",
         "colors": [
             [
                 0,
@@ -8091,6 +4329,7 @@
     },
     "red_nether_bricks": {
         "fileName": "assets/mc-textures/red_nether_bricks.png",
+        "name": "red_nether_bricks",
         "colors": [
             [
                 253,
@@ -8106,6 +4345,7 @@
     },
     "red_sand": {
         "fileName": "assets/mc-textures/red_sand.png",
+        "name": "red_sand",
         "colors": [
             [
                 18,
@@ -8126,6 +4366,7 @@
     },
     "red_sandstone": {
         "fileName": "assets/mc-textures/red_sandstone.png",
+        "name": "red_sandstone",
         "colors": [
             [
                 19,
@@ -8144,33 +4385,9 @@
             ]
         ]
     },
-    "red_sandstone_bottom": {
-        "fileName": "assets/mc-textures/red_sandstone_bottom.png",
-        "colors": [
-            [
-                19,
-                191,
-                104
-            ],
-            [
-                18,
-                168,
-                126
-            ]
-        ]
-    },
-    "red_sandstone_top": {
-        "fileName": "assets/mc-textures/red_sandstone_top.png",
-        "colors": [
-            [
-                18,
-                180,
-                106
-            ]
-        ]
-    },
     "red_shulker_box": {
         "fileName": "assets/mc-textures/red_shulker_box.png",
+        "name": "red_shulker_box",
         "colors": [
             [
                 0,
@@ -8186,6 +4403,7 @@
     },
     "red_stained_glass": {
         "fileName": "assets/mc-textures/red_stained_glass.png",
+        "name": "red_stained_glass",
         "colors": [
             [
                 0,
@@ -8194,18 +4412,9 @@
             ]
         ]
     },
-    "red_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/red_stained_glass_pane_top.png",
-        "colors": [
-            [
-                0,
-                129,
-                97
-            ]
-        ]
-    },
     "red_terracotta": {
         "fileName": "assets/mc-textures/red_terracotta.png",
+        "name": "red_terracotta",
         "colors": [
             [
                 6,
@@ -8214,23 +4423,9 @@
             ]
         ]
     },
-    "red_tulip": {
-        "fileName": "assets/mc-textures/red_tulip.png",
-        "colors": [
-            [
-                76,
-                199,
-                73
-            ],
-            [
-                71,
-                145,
-                104
-            ]
-        ]
-    },
     "red_wool": {
         "fileName": "assets/mc-textures/red_wool.png",
+        "name": "red_wool",
         "colors": [
             [
                 1,
@@ -8246,6 +4441,7 @@
     },
     "redstone_block": {
         "fileName": "assets/mc-textures/redstone_block.png",
+        "name": "redstone_block",
         "colors": [
             [
                 5,
@@ -8264,42 +4460,9 @@
             ]
         ]
     },
-    "redstone_dust_dot": {
-        "fileName": "assets/mc-textures/redstone_dust_dot.png",
-        "colors": [
-            [
-                0,
-                0,
-                240
-            ]
-        ]
-    },
-    "redstone_dust_line0": {
-        "fileName": "assets/mc-textures/redstone_dust_line0.png",
-        "colors": [
-            [
-                0,
-                0,
-                240
-            ]
-        ]
-    },
-    "redstone_dust_line1": {
-        "fileName": "assets/mc-textures/redstone_dust_line1.png",
-        "colors": [
-            [
-                0,
-                0,
-                240
-            ]
-        ]
-    },
-    "redstone_dust_overlay": {
-        "fileName": "assets/mc-textures/redstone_dust_overlay.png",
-        "colors": []
-    },
     "redstone_lamp": {
         "fileName": "assets/mc-textures/redstone_lamp.png",
+        "name": "redstone_lamp",
         "colors": [
             [
                 13,
@@ -8315,6 +4478,7 @@
     },
     "redstone_lamp_on": {
         "fileName": "assets/mc-textures/redstone_lamp_on.png",
+        "name": "redstone_lamp_on",
         "colors": [
             [
                 15,
@@ -8335,6 +4499,7 @@
     },
     "redstone_ore": {
         "fileName": "assets/mc-textures/redstone_ore.png",
+        "name": "redstone_ore",
         "colors": [
             [
                 0,
@@ -8353,208 +4518,9 @@
             ]
         ]
     },
-    "redstone_torch": {
-        "fileName": "assets/mc-textures/redstone_torch.png",
-        "colors": [
-            [
-                0,
-                255,
-                0
-            ],
-            [
-                0,
-                255,
-                121
-            ],
-            [
-                24,
-                85,
-                82
-            ]
-        ]
-    },
-    "redstone_torch_off": {
-        "fileName": "assets/mc-textures/redstone_torch_off.png",
-        "colors": [
-            [
-                0,
-                255,
-                1
-            ],
-            [
-                24,
-                85,
-                82
-            ],
-            [
-                25,
-                84,
-                119
-            ]
-        ]
-    },
-    "repeater": {
-        "fileName": "assets/mc-textures/repeater.png",
-        "colors": [
-            [
-                0,
-                0,
-                187
-            ],
-            [
-                85,
-                2,
-                140
-            ],
-            [
-                212,
-                3,
-                171
-            ]
-        ]
-    },
-    "repeater_on": {
-        "fileName": "assets/mc-textures/repeater_on.png",
-        "colors": [
-            [
-                0,
-                0,
-                187
-            ],
-            [
-                85,
-                2,
-                140
-            ],
-            [
-                212,
-                3,
-                171
-            ]
-        ]
-    },
-    "repeating_command_block_back": {
-        "fileName": "assets/mc-textures/repeating_command_block_back.png",
-        "colors": [
-            [
-                181,
-                51,
-                173
-            ],
-            [
-                179,
-                128,
-                140
-            ],
-            [
-                181,
-                90,
-                110
-            ]
-        ]
-    },
-    "repeating_command_block_conditional": {
-        "fileName": "assets/mc-textures/repeating_command_block_conditional.png",
-        "colors": [
-            [
-                180,
-                64,
-                170
-            ],
-            [
-                179,
-                128,
-                140
-            ],
-            [
-                181,
-                94,
-                109
-            ]
-        ]
-    },
-    "repeating_command_block_front": {
-        "fileName": "assets/mc-textures/repeating_command_block_front.png",
-        "colors": [
-            [
-                180,
-                69,
-                172
-            ],
-            [
-                179,
-                128,
-                140
-            ],
-            [
-                181,
-                95,
-                109
-            ]
-        ]
-    },
-    "repeating_command_block_side": {
-        "fileName": "assets/mc-textures/repeating_command_block_side.png",
-        "colors": [
-            [
-                180,
-                62,
-                173
-            ],
-            [
-                179,
-                128,
-                140
-            ],
-            [
-                181,
-                90,
-                110
-            ]
-        ]
-    },
-    "rose_bush_bottom": {
-        "fileName": "assets/mc-textures/rose_bush_bottom.png",
-        "colors": [
-            [
-                12,
-                255,
-                7
-            ],
-            [
-                76,
-                130,
-                84
-            ],
-            [
-                91,
-                95,
-                51
-            ]
-        ]
-    },
-    "rose_bush_top": {
-        "fileName": "assets/mc-textures/rose_bush_top.png",
-        "colors": [
-            [
-                17,
-                255,
-                2
-            ],
-            [
-                0,
-                222,
-                145
-            ],
-            [
-                78,
-                127,
-                82
-            ]
-        ]
-    },
     "sand": {
         "fileName": "assets/mc-textures/sand.png",
+        "name": "sand",
         "colors": [
             [
                 32,
@@ -8575,6 +4541,7 @@
     },
     "sandstone": {
         "fileName": "assets/mc-textures/sandstone.png",
+        "name": "sandstone",
         "colors": [
             [
                 35,
@@ -8593,78 +4560,9 @@
             ]
         ]
     },
-    "sandstone_bottom": {
-        "fileName": "assets/mc-textures/sandstone_bottom.png",
-        "colors": [
-            [
-                35,
-                106,
-                188
-            ],
-            [
-                29,
-                109,
-                165
-            ],
-            [
-                37,
-                120,
-                204
-            ]
-        ]
-    },
-    "sandstone_top": {
-        "fileName": "assets/mc-textures/sandstone_top.png",
-        "colors": [
-            [
-                35,
-                119,
-                198
-            ],
-            [
-                32,
-                109,
-                188
-            ]
-        ]
-    },
-    "scaffolding_bottom": {
-        "fileName": "assets/mc-textures/scaffolding_bottom.png",
-        "colors": [
-            [
-                31,
-                170,
-                252
-            ],
-            [
-                32,
-                138,
-                146
-            ],
-            [
-                31,
-                179,
-                180
-            ]
-        ]
-    },
-    "scaffolding_side": {
-        "fileName": "assets/mc-textures/scaffolding_side.png",
-        "colors": [
-            [
-                32,
-                140,
-                146
-            ],
-            [
-                31,
-                177,
-                179
-            ]
-        ]
-    },
     "scaffolding_top": {
         "fileName": "assets/mc-textures/scaffolding_top.png",
+        "name": "scaffolding_top",
         "colors": [
             [
                 20,
@@ -8685,6 +4583,7 @@
     },
     "sea_lantern": {
         "fileName": "assets/mc-textures/sea_lantern.png",
+        "name": "sea_lantern",
         "colors": [
             [
                 100,
@@ -8703,43 +4602,9 @@
             ]
         ]
     },
-    "sea_pickle": {
-        "fileName": "assets/mc-textures/sea_pickle.png",
-        "colors": [
-            [
-                46,
-                132,
-                52
-            ],
-            [
-                46,
-                120,
-                74
-            ],
-            [
-                0,
-                0,
-                255
-            ]
-        ]
-    },
-    "seagrass": {
-        "fileName": "assets/mc-textures/seagrass.png",
-        "colors": [
-            [
-                69,
-                211,
-                77
-            ],
-            [
-                42,
-                1,
-                142
-            ]
-        ]
-    },
     "shulker_box": {
         "fileName": "assets/mc-textures/shulker_box.png",
+        "name": "shulker_box",
         "colors": [
             [
                 212,
@@ -8755,6 +4620,7 @@
     },
     "slime_block": {
         "fileName": "assets/mc-textures/slime_block.png",
+        "name": "slime_block",
         "colors": [
             [
                 76,
@@ -8770,6 +4636,7 @@
     },
     "smithing_table_bottom": {
         "fileName": "assets/mc-textures/smithing_table_bottom.png",
+        "name": "smithing_table_bottom",
         "colors": [
             [
                 4,
@@ -8785,6 +4652,7 @@
     },
     "smithing_table_front": {
         "fileName": "assets/mc-textures/smithing_table_front.png",
+        "name": "smithing_table_front",
         "colors": [
             [
                 162,
@@ -8803,28 +4671,9 @@
             ]
         ]
     },
-    "smithing_table_side": {
-        "fileName": "assets/mc-textures/smithing_table_side.png",
-        "colors": [
-            [
-                163,
-                23,
-                38
-            ],
-            [
-                4,
-                121,
-                42
-            ],
-            [
-                4,
-                123,
-                64
-            ]
-        ]
-    },
     "smithing_table_top": {
         "fileName": "assets/mc-textures/smithing_table_top.png",
+        "name": "smithing_table_top",
         "colors": [
             [
                 165,
@@ -8840,6 +4689,7 @@
     },
     "smoker_bottom": {
         "fileName": "assets/mc-textures/smoker_bottom.png",
+        "name": "smoker_bottom",
         "colors": [
             [
                 28,
@@ -8860,6 +4710,7 @@
     },
     "smoker_front": {
         "fileName": "assets/mc-textures/smoker_front.png",
+        "name": "smoker_front",
         "colors": [
             [
                 23,
@@ -8878,48 +4729,9 @@
             ]
         ]
     },
-    "smoker_front_on": {
-        "fileName": "assets/mc-textures/smoker_front_on.png",
-        "colors": [
-            [
-                23,
-                67,
-                92
-            ],
-            [
-                23,
-                70,
-                48
-            ],
-            [
-                24,
-                207,
-                124
-            ]
-        ]
-    },
-    "smoker_side": {
-        "fileName": "assets/mc-textures/smoker_side.png",
-        "colors": [
-            [
-                25,
-                43,
-                93
-            ],
-            [
-                23,
-                73,
-                53
-            ],
-            [
-                0,
-                0,
-                136
-            ]
-        ]
-    },
     "smoker_top": {
         "fileName": "assets/mc-textures/smoker_top.png",
+        "name": "smoker_top",
         "colors": [
             [
                 21,
@@ -8940,6 +4752,7 @@
     },
     "smooth_stone": {
         "fileName": "assets/mc-textures/smooth_stone.png",
+        "name": "smooth_stone",
         "colors": [
             [
                 0,
@@ -8953,28 +4766,9 @@
             ]
         ]
     },
-    "smooth_stone_slab_side": {
-        "fileName": "assets/mc-textures/smooth_stone_slab_side.png",
-        "colors": [
-            [
-                0,
-                0,
-                165
-            ],
-            [
-                0,
-                0,
-                201
-            ],
-            [
-                0,
-                0,
-                122
-            ]
-        ]
-    },
     "snow": {
         "fileName": "assets/mc-textures/snow.png",
+        "name": "snow",
         "colors": [
             [
                 127,
@@ -8990,6 +4784,7 @@
     },
     "soul_sand": {
         "fileName": "assets/mc-textures/soul_sand.png",
+        "name": "soul_sand",
         "colors": [
             [
                 15,
@@ -9003,23 +4798,9 @@
             ]
         ]
     },
-    "spawner": {
-        "fileName": "assets/mc-textures/spawner.png",
-        "colors": [
-            [
-                154,
-                69,
-                44
-            ],
-            [
-                144,
-                77,
-                92
-            ]
-        ]
-    },
     "sponge": {
         "fileName": "assets/mc-textures/sponge.png",
+        "name": "sponge",
         "colors": [
             [
                 42,
@@ -9038,28 +4819,9 @@
             ]
         ]
     },
-    "spruce_door_bottom": {
-        "fileName": "assets/mc-textures/spruce_door_bottom.png",
-        "colors": [
-            [
-                23,
-                94,
-                84
-            ],
-            [
-                22,
-                111,
-                55
-            ],
-            [
-                25,
-                109,
-                63
-            ]
-        ]
-    },
     "spruce_door_top": {
         "fileName": "assets/mc-textures/spruce_door_top.png",
+        "name": "spruce_door_top",
         "colors": [
             [
                 23,
@@ -9078,23 +4840,9 @@
             ]
         ]
     },
-    "spruce_leaves": {
-        "fileName": "assets/mc-textures/spruce_leaves.png",
-        "colors": [
-            [
-                0,
-                0,
-                146
-            ],
-            [
-                0,
-                0,
-                74
-            ]
-        ]
-    },
     "spruce_log": {
         "fileName": "assets/mc-textures/spruce_log.png",
+        "name": "spruce_log",
         "colors": [
             [
                 21,
@@ -9105,6 +4853,7 @@
     },
     "spruce_log_top": {
         "fileName": "assets/mc-textures/spruce_log_top.png",
+        "name": "spruce_log_top",
         "colors": [
             [
                 23,
@@ -9125,6 +4874,7 @@
     },
     "spruce_planks": {
         "fileName": "assets/mc-textures/spruce_planks.png",
+        "name": "spruce_planks",
         "colors": [
             [
                 23,
@@ -9143,28 +4893,9 @@
             ]
         ]
     },
-    "spruce_sapling": {
-        "fileName": "assets/mc-textures/spruce_sapling.png",
-        "colors": [
-            [
-                14,
-                153,
-                2
-            ],
-            [
-                85,
-                55,
-                43
-            ],
-            [
-                85,
-                57,
-                59
-            ]
-        ]
-    },
     "spruce_trapdoor": {
         "fileName": "assets/mc-textures/spruce_trapdoor.png",
+        "name": "spruce_trapdoor",
         "colors": [
             [
                 24,
@@ -9185,6 +4916,7 @@
     },
     "stone": {
         "fileName": "assets/mc-textures/stone.png",
+        "name": "stone",
         "colors": [
             [
                 0,
@@ -9200,6 +4932,7 @@
     },
     "stone_bricks": {
         "fileName": "assets/mc-textures/stone_bricks.png",
+        "name": "stone_bricks",
         "colors": [
             [
                 0,
@@ -9218,83 +4951,9 @@
             ]
         ]
     },
-    "stonecutter_bottom": {
-        "fileName": "assets/mc-textures/stonecutter_bottom.png",
-        "colors": [
-            [
-                0,
-                0,
-                95
-            ],
-            [
-                212,
-                1,
-                135
-            ],
-            [
-                0,
-                0,
-                128
-            ]
-        ]
-    },
-    "stonecutter_saw": {
-        "fileName": "assets/mc-textures/stonecutter_saw.png",
-        "colors": [
-            [
-                0,
-                0,
-                234
-            ],
-            [
-                0,
-                0,
-                160
-            ]
-        ]
-    },
-    "stonecutter_side": {
-        "fileName": "assets/mc-textures/stonecutter_side.png",
-        "colors": [
-            [
-                19,
-                115,
-                16
-            ],
-            [
-                19,
-                25,
-                102
-            ],
-            [
-                0,
-                0,
-                143
-            ]
-        ]
-    },
-    "stonecutter_top": {
-        "fileName": "assets/mc-textures/stonecutter_top.png",
-        "colors": [
-            [
-                27,
-                12,
-                112
-            ],
-            [
-                0,
-                0,
-                143
-            ],
-            [
-                26,
-                172,
-                62
-            ]
-        ]
-    },
     "stripped_acacia_log": {
         "fileName": "assets/mc-textures/stripped_acacia_log.png",
+        "name": "stripped_acacia_log",
         "colors": [
             [
                 12,
@@ -9310,6 +4969,7 @@
     },
     "stripped_acacia_log_top": {
         "fileName": "assets/mc-textures/stripped_acacia_log_top.png",
+        "name": "stripped_acacia_log_top",
         "colors": [
             [
                 14,
@@ -9325,6 +4985,7 @@
     },
     "stripped_birch_log": {
         "fileName": "assets/mc-textures/stripped_birch_log.png",
+        "name": "stripped_birch_log",
         "colors": [
             [
                 30,
@@ -9340,6 +5001,7 @@
     },
     "stripped_birch_log_top": {
         "fileName": "assets/mc-textures/stripped_birch_log_top.png",
+        "name": "stripped_birch_log_top",
         "colors": [
             [
                 31,
@@ -9360,6 +5022,7 @@
     },
     "stripped_dark_oak_log": {
         "fileName": "assets/mc-textures/stripped_dark_oak_log.png",
+        "name": "stripped_dark_oak_log",
         "colors": [
             [
                 23,
@@ -9375,6 +5038,7 @@
     },
     "stripped_dark_oak_log_top": {
         "fileName": "assets/mc-textures/stripped_dark_oak_log_top.png",
+        "name": "stripped_dark_oak_log_top",
         "colors": [
             [
                 21,
@@ -9385,6 +5049,7 @@
     },
     "stripped_jungle_log": {
         "fileName": "assets/mc-textures/stripped_jungle_log.png",
+        "name": "stripped_jungle_log",
         "colors": [
             [
                 20,
@@ -9405,6 +5070,7 @@
     },
     "stripped_jungle_log_top": {
         "fileName": "assets/mc-textures/stripped_jungle_log_top.png",
+        "name": "stripped_jungle_log_top",
         "colors": [
             [
                 22,
@@ -9425,6 +5091,7 @@
     },
     "stripped_oak_log": {
         "fileName": "assets/mc-textures/stripped_oak_log.png",
+        "name": "stripped_oak_log",
         "colors": [
             [
                 27,
@@ -9445,6 +5112,7 @@
     },
     "stripped_oak_log_top": {
         "fileName": "assets/mc-textures/stripped_oak_log_top.png",
+        "name": "stripped_oak_log_top",
         "colors": [
             [
                 26,
@@ -9465,6 +5133,7 @@
     },
     "stripped_spruce_log": {
         "fileName": "assets/mc-textures/stripped_spruce_log.png",
+        "name": "stripped_spruce_log",
         "colors": [
             [
                 24,
@@ -9475,6 +5144,7 @@
     },
     "stripped_spruce_log_top": {
         "fileName": "assets/mc-textures/stripped_spruce_log_top.png",
+        "name": "stripped_spruce_log_top",
         "colors": [
             [
                 23,
@@ -9493,303 +5163,9 @@
             ]
         ]
     },
-    "structure_block": {
-        "fileName": "assets/mc-textures/structure_block.png",
-        "colors": [
-            [
-                199,
-                46,
-                35
-            ],
-            [
-                212,
-                37,
-                149
-            ],
-            [
-                0,
-                0,
-                17
-            ]
-        ]
-    },
-    "structure_block_corner": {
-        "fileName": "assets/mc-textures/structure_block_corner.png",
-        "colors": [
-            [
-                0,
-                0,
-                17
-            ],
-            [
-                199,
-                46,
-                35
-            ],
-            [
-                212,
-                33,
-                141
-            ]
-        ]
-    },
-    "structure_block_data": {
-        "fileName": "assets/mc-textures/structure_block_data.png",
-        "colors": [
-            [
-                199,
-                46,
-                35
-            ],
-            [
-                0,
-                0,
-                17
-            ],
-            [
-                212,
-                42,
-                156
-            ]
-        ]
-    },
-    "structure_block_load": {
-        "fileName": "assets/mc-textures/structure_block_load.png",
-        "colors": [
-            [
-                0,
-                0,
-                17
-            ],
-            [
-                199,
-                46,
-                35
-            ],
-            [
-                212,
-                33,
-                141
-            ]
-        ]
-    },
-    "structure_block_save": {
-        "fileName": "assets/mc-textures/structure_block_save.png",
-        "colors": [
-            [
-                212,
-                39,
-                152
-            ],
-            [
-                199,
-                46,
-                35
-            ],
-            [
-                0,
-                0,
-                17
-            ]
-        ]
-    },
-    "sugar_cane": {
-        "fileName": "assets/mc-textures/sugar_cane.png",
-        "colors": [
-            [
-                62,
-                82,
-                130
-            ],
-            [
-                62,
-                156,
-                164
-            ]
-        ]
-    },
-    "sunflower_back": {
-        "fileName": "assets/mc-textures/sunflower_back.png",
-        "colors": [
-            [
-                78,
-                147,
-                73
-            ],
-            [
-                71,
-                143,
-                103
-            ]
-        ]
-    },
-    "sunflower_bottom": {
-        "fileName": "assets/mc-textures/sunflower_bottom.png",
-        "colors": [
-            [
-                75,
-                168,
-                76
-            ],
-            [
-                70,
-                141,
-                101
-            ]
-        ]
-    },
-    "sunflower_front": {
-        "fileName": "assets/mc-textures/sunflower_front.png",
-        "colors": [
-            [
-                35,
-                252,
-                160
-            ],
-            [
-                27,
-                221,
-                139
-            ]
-        ]
-    },
-    "sunflower_top": {
-        "fileName": "assets/mc-textures/sunflower_top.png",
-        "colors": [
-            [
-                76,
-                170,
-                75
-            ],
-            [
-                70,
-                142,
-                102
-            ]
-        ]
-    },
-    "sweet_berry_bush_stage0": {
-        "fileName": "assets/mc-textures/sweet_berry_bush_stage0.png",
-        "colors": [
-            [
-                99,
-                93,
-                77
-            ],
-            [
-                92,
-                81,
-                42
-            ]
-        ]
-    },
-    "sweet_berry_bush_stage1": {
-        "fileName": "assets/mc-textures/sweet_berry_bush_stage1.png",
-        "colors": [
-            [
-                95,
-                83,
-                82
-            ],
-            [
-                92,
-                83,
-                61
-            ]
-        ]
-    },
-    "sweet_berry_bush_stage2": {
-        "fileName": "assets/mc-textures/sweet_berry_bush_stage2.png",
-        "colors": [
-            [
-                95,
-                83,
-                82
-            ],
-            [
-                92,
-                83,
-                61
-            ]
-        ]
-    },
-    "sweet_berry_bush_stage3": {
-        "fileName": "assets/mc-textures/sweet_berry_bush_stage3.png",
-        "colors": [
-            [
-                95,
-                86,
-                81
-            ],
-            [
-                92,
-                83,
-                61
-            ]
-        ]
-    },
-    "tall_grass_bottom": {
-        "fileName": "assets/mc-textures/tall_grass_bottom.png",
-        "colors": [
-            [
-                212,
-                2,
-                146
-            ],
-            [
-                85,
-                2,
-                108
-            ]
-        ]
-    },
-    "tall_grass_top": {
-        "fileName": "assets/mc-textures/tall_grass_top.png",
-        "colors": [
-            [
-                212,
-                3,
-                155
-            ],
-            [
-                85,
-                2,
-                114
-            ]
-        ]
-    },
-    "tall_seagrass_bottom": {
-        "fileName": "assets/mc-textures/tall_seagrass_bottom.png",
-        "colors": [
-            [
-                69,
-                226,
-                72
-            ],
-            [
-                69,
-                255,
-                47
-            ]
-        ]
-    },
-    "tall_seagrass_top": {
-        "fileName": "assets/mc-textures/tall_seagrass_top.png",
-        "colors": [
-            [
-                69,
-                206,
-                78
-            ],
-            [
-                0,
-                0,
-                255
-            ]
-        ]
-    },
     "terracotta": {
         "fileName": "assets/mc-textures/terracotta.png",
+        "name": "terracotta",
         "colors": [
             [
                 13,
@@ -9798,28 +5174,9 @@
             ]
         ]
     },
-    "tnt_bottom": {
-        "fileName": "assets/mc-textures/tnt_bottom.png",
-        "colors": [
-            [
-                6,
-                202,
-                97
-            ],
-            [
-                0,
-                0,
-                142
-            ],
-            [
-                250,
-                200,
-                99
-            ]
-        ]
-    },
     "tnt_side": {
         "fileName": "assets/mc-textures/tnt_side.png",
+        "name": "tnt_side",
         "colors": [
             [
                 6,
@@ -9838,93 +5195,9 @@
             ]
         ]
     },
-    "tnt_top": {
-        "fileName": "assets/mc-textures/tnt_top.png",
-        "colors": [
-            [
-                6,
-                130,
-                92
-            ],
-            [
-                8,
-                212,
-                129
-            ],
-            [
-                170,
-                70,
-                23
-            ]
-        ]
-    },
-    "torch": {
-        "fileName": "assets/mc-textures/torch.png",
-        "colors": [
-            [
-                0,
-                255,
-                0
-            ],
-            [
-                24,
-                85,
-                82
-            ],
-            [
-                24,
-                120,
-                121
-            ]
-        ]
-    },
-    "tripwire": {
-        "fileName": "assets/mc-textures/tripwire.png",
-        "colors": [
-            [
-                0,
-                0,
-                105
-            ],
-            [
-                0,
-                0,
-                149
-            ]
-        ]
-    },
-    "tripwire_hook": {
-        "fileName": "assets/mc-textures/tripwire_hook.png",
-        "colors": [
-            [
-                25,
-                21,
-                138
-            ],
-            [
-                26,
-                18,
-                112
-            ]
-        ]
-    },
-    "tube_coral": {
-        "fileName": "assets/mc-textures/tube_coral.png",
-        "colors": [
-            [
-                160,
-                187,
-                141
-            ],
-            [
-                159,
-                167,
-                82
-            ]
-        ]
-    },
     "tube_coral_block": {
         "fileName": "assets/mc-textures/tube_coral_block.png",
+        "name": "tube_coral_block",
         "colors": [
             [
                 159,
@@ -9943,123 +5216,9 @@
             ]
         ]
     },
-    "tube_coral_fan": {
-        "fileName": "assets/mc-textures/tube_coral_fan.png",
-        "colors": [
-            [
-                159,
-                187,
-                141
-            ],
-            [
-                158,
-                169,
-                98
-            ]
-        ]
-    },
-    "turtle_egg": {
-        "fileName": "assets/mc-textures/turtle_egg.png",
-        "colors": [
-            [
-                33,
-                167,
-                234
-            ],
-            [
-                116,
-                101,
-                119
-            ]
-        ]
-    },
-    "turtle_egg_slightly_cracked": {
-        "fileName": "assets/mc-textures/turtle_egg_slightly_cracked.png",
-        "colors": [
-            [
-                34,
-                165,
-                235
-            ],
-            [
-                33,
-                84,
-                162
-            ]
-        ]
-    },
-    "turtle_egg_very_cracked": {
-        "fileName": "assets/mc-textures/turtle_egg_very_cracked.png",
-        "colors": [
-            [
-                33,
-                170,
-                237
-            ],
-            [
-                33,
-                60,
-                110
-            ]
-        ]
-    },
-    "vine": {
-        "fileName": "assets/mc-textures/vine.png",
-        "colors": [
-            [
-                0,
-                0,
-                94
-            ],
-            [
-                0,
-                0,
-                143
-            ]
-        ]
-    },
-    "water_flow": {
-        "fileName": "assets/mc-textures/water_flow.png",
-        "colors": [
-            [
-                0,
-                0,
-                165
-            ],
-            [
-                0,
-                0,
-                206
-            ]
-        ]
-    },
-    "water_overlay": {
-        "fileName": "assets/mc-textures/water_overlay.png",
-        "colors": [
-            [
-                0,
-                0,
-                242
-            ]
-        ]
-    },
-    "water_still": {
-        "fileName": "assets/mc-textures/water_still.png",
-        "colors": [
-            [
-                0,
-                0,
-                169
-            ],
-            [
-                0,
-                0,
-                205
-            ]
-        ]
-    },
     "wet_sponge": {
         "fileName": "assets/mc-textures/wet_sponge.png",
+        "name": "wet_sponge",
         "colors": [
             [
                 47,
@@ -10078,128 +5237,9 @@
             ]
         ]
     },
-    "wheat_stage0": {
-        "fileName": "assets/mc-textures/wheat_stage0.png",
-        "colors": [
-            [
-                88,
-                220,
-                73
-            ],
-            [
-                85,
-                232,
-                55
-            ]
-        ]
-    },
-    "wheat_stage1": {
-        "fileName": "assets/mc-textures/wheat_stage1.png",
-        "colors": [
-            [
-                86,
-                234,
-                75
-            ],
-            [
-                85,
-                232,
-                55
-            ]
-        ]
-    },
-    "wheat_stage2": {
-        "fileName": "assets/mc-textures/wheat_stage2.png",
-        "colors": [
-            [
-                87,
-                231,
-                75
-            ],
-            [
-                85,
-                232,
-                55
-            ]
-        ]
-    },
-    "wheat_stage3": {
-        "fileName": "assets/mc-textures/wheat_stage3.png",
-        "colors": [
-            [
-                88,
-                234,
-                76
-            ],
-            [
-                85,
-                232,
-                55
-            ]
-        ]
-    },
-    "wheat_stage4": {
-        "fileName": "assets/mc-textures/wheat_stage4.png",
-        "colors": [
-            [
-                88,
-                238,
-                77
-            ],
-            [
-                85,
-                232,
-                55
-            ]
-        ]
-    },
-    "wheat_stage5": {
-        "fileName": "assets/mc-textures/wheat_stage5.png",
-        "colors": [
-            [
-                52,
-                140,
-                76
-            ],
-            [
-                88,
-                238,
-                78
-            ]
-        ]
-    },
-    "wheat_stage6": {
-        "fileName": "assets/mc-textures/wheat_stage6.png",
-        "colors": [
-            [
-                30,
-                107,
-                91
-            ],
-            [
-                40,
-                230,
-                83
-            ]
-        ]
-    },
-    "wheat_stage7": {
-        "fileName": "assets/mc-textures/wheat_stage7.png",
-        "colors": [
-            [
-                36,
-                93,
-                113
-            ],
-            [
-                31,
-                142,
-                150
-            ]
-        ]
-    },
     "white_concrete": {
         "fileName": "assets/mc-textures/white_concrete.png",
+        "name": "white_concrete",
         "colors": [
             [
                 133,
@@ -10215,6 +5255,7 @@
     },
     "white_concrete_powder": {
         "fileName": "assets/mc-textures/white_concrete_powder.png",
+        "name": "white_concrete_powder",
         "colors": [
             [
                 127,
@@ -10235,6 +5276,7 @@
     },
     "white_glazed_terracotta": {
         "fileName": "assets/mc-textures/white_glazed_terracotta.png",
+        "name": "white_glazed_terracotta",
         "colors": [
             [
                 120,
@@ -10255,6 +5297,7 @@
     },
     "white_shulker_box": {
         "fileName": "assets/mc-textures/white_shulker_box.png",
+        "name": "white_shulker_box",
         "colors": [
             [
                 127,
@@ -10275,6 +5318,7 @@
     },
     "white_stained_glass": {
         "fileName": "assets/mc-textures/white_stained_glass.png",
+        "name": "white_stained_glass",
         "colors": [
             [
                 0,
@@ -10283,18 +5327,9 @@
             ]
         ]
     },
-    "white_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/white_stained_glass_pane_top.png",
-        "colors": [
-            [
-                0,
-                0,
-                246
-            ]
-        ]
-    },
     "white_terracotta": {
         "fileName": "assets/mc-textures/white_terracotta.png",
+        "name": "white_terracotta",
         "colors": [
             [
                 15,
@@ -10303,23 +5338,9 @@
             ]
         ]
     },
-    "white_tulip": {
-        "fileName": "assets/mc-textures/white_tulip.png",
-        "colors": [
-            [
-                71,
-                145,
-                104
-            ],
-            [
-                76,
-                199,
-                73
-            ]
-        ]
-    },
     "white_wool": {
         "fileName": "assets/mc-textures/white_wool.png",
+        "name": "white_wool",
         "colors": [
             [
                 136,
@@ -10338,28 +5359,9 @@
             ]
         ]
     },
-    "wither_rose": {
-        "fileName": "assets/mc-textures/wither_rose.png",
-        "colors": [
-            [
-                56,
-                85,
-                4
-            ],
-            [
-                72,
-                148,
-                24
-            ],
-            [
-                78,
-                255,
-                49
-            ]
-        ]
-    },
     "yellow_concrete": {
         "fileName": "assets/mc-textures/yellow_concrete.png",
+        "name": "yellow_concrete",
         "colors": [
             [
                 29,
@@ -10370,6 +5372,7 @@
     },
     "yellow_concrete_powder": {
         "fileName": "assets/mc-textures/yellow_concrete_powder.png",
+        "name": "yellow_concrete_powder",
         "colors": [
             [
                 35,
@@ -10390,6 +5393,7 @@
     },
     "yellow_glazed_terracotta": {
         "fileName": "assets/mc-textures/yellow_glazed_terracotta.png",
+        "name": "yellow_glazed_terracotta",
         "colors": [
             [
                 33,
@@ -10410,6 +5414,7 @@
     },
     "yellow_shulker_box": {
         "fileName": "assets/mc-textures/yellow_shulker_box.png",
+        "name": "yellow_shulker_box",
         "colors": [
             [
                 31,
@@ -10430,6 +5435,7 @@
     },
     "yellow_stained_glass": {
         "fileName": "assets/mc-textures/yellow_stained_glass.png",
+        "name": "yellow_stained_glass",
         "colors": [
             [
                 42,
@@ -10438,18 +5444,9 @@
             ]
         ]
     },
-    "yellow_stained_glass_pane_top": {
-        "fileName": "assets/mc-textures/yellow_stained_glass_pane_top.png",
-        "colors": [
-            [
-                42,
-                183,
-                134
-            ]
-        ]
-    },
     "yellow_terracotta": {
         "fileName": "assets/mc-textures/yellow_terracotta.png",
+        "name": "yellow_terracotta",
         "colors": [
             [
                 27,
@@ -10460,6 +5457,7 @@
     },
     "yellow_wool": {
         "fileName": "assets/mc-textures/yellow_wool.png",
+        "name": "yellow_wool",
         "colors": [
             [
                 32,
