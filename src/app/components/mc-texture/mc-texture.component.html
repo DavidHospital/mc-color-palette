@@ -1,8 +1,10 @@
 
 <div fxFlex class="container"
     *ngIf="mcTexture"
+    [style.padding]="padding + 'px'"
     [style.background]="getHexFromHsl(mcTexture.colors[0])">
   <img 
       [src]="mcTexture.fileName"
+      [style.min-height]="size + 'px'"
       class="mc-texture-img mat-elevation-z16">
 </div>

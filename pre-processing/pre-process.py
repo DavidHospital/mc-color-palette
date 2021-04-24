@@ -26,13 +26,23 @@ def pre_process_images(path_to_images, output_file, whitelist=None):
 
     return data 
 
+def get_vibrant_color(colors):
+    bestIndex = 0
+    best = 0
+    for i in range(len(colors)):
+        t = (128 - abs(128 - colors[i][2])) * colors[i][1] 
+        if t > best:
+            best = t
+            bestIndex = i
+    return colors[bestIndex]
+
 def pre_process_color_maps(data, output_file):
     # generate palette maps
     colors = {}
     for key in data.keys():
         texclrs = data[key]["colors"]
         if len(texclrs) > 0:
-            hue = texclrs[0][0]
+            hue = get_vibrant_color(texclrs)[0]
             if hue not in colors:
                 colors[hue] = []
             colors[hue].append(key)

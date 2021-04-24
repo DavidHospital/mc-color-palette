@@ -10,5 +10,6 @@ export class McTextureComponent {
   getHexFromHsl = getHexFromHsl;
 
   @Input() mcTexture: McTexture;
+  @Input() size = 200;
   @Input() padding = 48;
 }

@@ -7,19 +7,35 @@ export interface McTexture {
   colors: number[][];
 }
 
-// Returns the best hue for this texture
+// Returns the best color for this texture
 // Calculates this based on the most "saturated" color
-export function getPrimaryHue(texture: McTexture) {
+export function getPrimaryColor(texture: McTexture) {
   let best = 0;
   let bestIndex = 0;
-  for (let i = 1; i < texture.colors.length; i ++) {
+  for (let i = 0; i < texture.colors.length; i ++) {
     const score = (128 - Math.abs(128 - texture.colors[i][2])) * texture.colors[i][1];
     if (score > best) {
       best = score;
       bestIndex = i;
     }
   }
-  return texture.colors[bestIndex][0];
+  return texture.colors[bestIndex];
+}
+
+// Returns the best hue for this texture
+// Calculates this based on the most "saturated" color
+export function getPrimaryHue(texture: McTexture) {
+  return getPrimaryColor(texture)[0];
+}
+
+// mct1.hue + angle ~= mct2.hue
+export function collisionScore(mct1: McTexture, mct2: McTexture, angle = 0) {
+  const c1 = getPrimaryColor(mct1);
+  const c2 = getPrimaryColor(mct2);
+  const hueDiff = Math.abs(c1[0] + angle - c2[0]);
+  const satDiff = Math.abs(c1[1] - c2[1]);
+  const lightDiff = Math.abs(c1[2] - c2[2]);
+  return hueDiff + satDiff + lightDiff;
 }
 
 export function getHexFromHsl(hsl: number[]) {

@@ -1,11 +1,9 @@
 .container {
   padding: 24px;
+  height: fit-content;
 }
 
 .mc-texture-img {
-  height: 100%;
-  min-height: 200px;
-
   image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
   image-rendering: -moz-crisp-edges;          /* Firefox                        */
   image-rendering: -o-crisp-edges;            /* Opera                          */

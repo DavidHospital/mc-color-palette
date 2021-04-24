@@ -1,5 +1,5 @@
 import { Component, OnInit, AfterViewInit, Input } from '@angular/core';
-import { McTexture } from 'src/app/types/mc-texture';
+import { McTexture, getPrimaryHue, collisionScore } from 'src/app/types/mc-texture';
 import { McTextureService } from 'src/app/services/mc-texture/mc-texture.service';
 import { Harmony } from 'src/app/types/color-harmonies';
 import { Subscription } from 'rxjs';
@@ -12,7 +12,10 @@ import { PaletteService } from 'src/app/services/palette/palette.service';
 })
 export class McTextureListViewComponent implements AfterViewInit {
 
+  getPrimaryHue = getPrimaryHue;
+
   _mcTextures: McTexture[];
+  _sortedTextures: McTexture[];
   private _currentTextureSub: Subscription;
 
   displayedColumns = ["image", "name", "color"];
@@ -22,7 +25,11 @@ export class McTextureListViewComponent implements AfterViewInit {
 
   ngAfterViewInit(): void {
     this._currentTextureSub = this._mcTextureService.currentTexture.subscribe(mcTexture => {
+      this.mcTexture = mcTexture;
       this._mcTextures = this._paletteService.getPalette(mcTexture, Harmony.COMPLEMENTARY, 8);
+      this._sortedTextures = this._mcTextures.sort((a,b) => {
+        return collisionScore(a, this.mcTexture) < collisionScore(b, this.mcTexture) ? -1 : 1
+      });
     });
   }
 
