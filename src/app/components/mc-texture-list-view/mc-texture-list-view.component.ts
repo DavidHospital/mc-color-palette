@@ -16,7 +16,9 @@ export class McTextureListViewComponent implements AfterViewInit {
 
   _mcTextures: McTexture[];
   _sortedTextures: McTexture[];
+
   private _currentTextureSub: Subscription;
+  private _mcTexture: McTexture;
 
   displayedColumns = ["image", "name", "color"];
 
@@ -25,10 +27,10 @@ export class McTextureListViewComponent implements AfterViewInit {
 
   ngAfterViewInit(): void {
     this._currentTextureSub = this._mcTextureService.currentTexture.subscribe(mcTexture => {
-      this.mcTexture = mcTexture;
+      this._mcTexture = mcTexture;
       this._mcTextures = this._paletteService.getPalette(mcTexture, Harmony.COMPLEMENTARY, 8);
       this._sortedTextures = this._mcTextures.sort((a,b) => {
-        return collisionScore(a, this.mcTexture) < collisionScore(b, this.mcTexture) ? -1 : 1
+        return collisionScore(a, this._mcTexture) < collisionScore(b, this._mcTexture) ? -1 : 1
       });
     });
   }

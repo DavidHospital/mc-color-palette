@@ -2,7 +2,7 @@
 <div fxFlex class="container"
     *ngIf="mcTexture"
     [style.padding]="padding + 'px'"
-    [style.background]="getHexFromHsl(mcTexture.colors[0])">
+    [style.background]="showBackground ? getHexFromHsl(getPrimaryColor(mcTexture)) : 'initial'">
   <img 
       [src]="mcTexture.fileName"
       [style.min-height]="size + 'px'"
