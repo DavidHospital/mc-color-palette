@@ -23,4 +23,17 @@ export class PaletteService {
     });
     return textures;
   }
+
+  public getPaletteFromColor(color: number[], harmony: Harmony, epsilon: number): McTexture[] {
+    let textures = [];
+    harmony.hueAngles.forEach(angle => {
+      let minColor = color[0] - epsilon;
+      let maxColor = color[0] + epsilon;
+      for (let i = minColor; i <= maxColor; i ++) {
+        let hue = i % 255;
+        textures.push(... this._mcTextureService.searchTextureMapByHue(hue));
+      }
+    });
+    return textures;
+  }
 }

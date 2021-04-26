@@ -1,10 +1,15 @@
 import { hslToRgb } from 'node-vibrant/lib/util';
-import { Harmony } from 'src/app/types/color-harmonies';
 
 export interface McTexture {
   fileName: string;
   name: string;
   colors: number[][];
+  friendlyName?: string;
+}
+
+// Returns friendly name of a McTexture
+export function getFriendlyName(texture: McTexture) {
+  return texture.friendlyName = texture.name.split('_').map(term => term.charAt(0).toUpperCase() + term.slice(1)).join(' ');
 }
 
 // Returns the best color for this texture

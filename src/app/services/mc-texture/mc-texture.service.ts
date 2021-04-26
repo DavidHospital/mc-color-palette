@@ -1,9 +1,7 @@
 import { Injectable } from '@angular/core';
 import { BehaviorSubject, Observable } from 'rxjs';
-import { McTexture } from 'src/app/types/mc-texture';
+import { McTexture, getPrimaryHue, getFriendlyName } from 'src/app/types/mc-texture';
 
-import { MC_TEXTURE_NAMES } from 'src/app/file-keys';
-import { Harmony } from 'src/app/types/color-harmonies';
 import * as data from 'src/assets/textures-data.json';
 import * as textureMap from 'src/assets/texture-color-maps.json';
 
@@ -33,8 +31,17 @@ export class McTextureService {
         this._currentTexture.next(texture);
     }
 
+    // Returns list of texture names which match to the search string
+    public searchTextureByName(searchString: string): string[] {
+        const terms = searchString.toLowerCase().split(' ');
+        return Object.keys(this._assetsCache).filter(key => {
+            key = key.toLowerCase();
+            return terms.every(term => key.includes(term));
+        });
+    }
+
     public searchTextureMap(base: McTexture): McTexture[] {
-        return textureMap[base.colors[0][0]].map(name => this.getMcTexture(name));
+        return textureMap[getPrimaryHue(base)].map(name => this.getMcTexture(name));
     }
 
     public searchTextureMapByHue(hue: number): McTexture[] {
@@ -45,6 +52,9 @@ export class McTextureService {
 
     private _loadMcTextures() {
         this._assetsCache = data;
+        Object.keys(this._assetsCache).forEach(key => {
+            this._assetsCache[key].friendlyName = getFriendlyName(this._assetsCache[key]);
+        })
     }
 
 }
