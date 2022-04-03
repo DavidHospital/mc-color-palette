@@ -3041,27 +3041,6 @@
             ]
         ]
     },
-    "magma": {
-        "fileName": "assets/mc-textures/magma.png",
-        "name": "magma",
-        "colors": [
-            [
-                0,
-                105,
-                73
-            ],
-            [
-                0,
-                128,
-                48
-            ],
-            [
-                16,
-                230,
-                114
-            ]
-        ]
-    },
     "nether_bricks": {
         "fileName": "assets/mc-textures/nether_bricks.png",
         "name": "nether_bricks",

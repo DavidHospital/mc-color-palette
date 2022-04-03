@@ -485,18 +485,17 @@
         "magenta_wool",
         "magenta_shulker_box"
     ],
-    "16": [
-        "magma",
-        "iron_ore",
-        "brown_terracotta",
-        "crafting_table_top",
-        "soul_sand"
-    ],
     "245": [
         "nether_bricks"
     ],
     "140": [
         "gray_wool"
+    ],
+    "16": [
+        "iron_ore",
+        "brown_terracotta",
+        "crafting_table_top",
+        "soul_sand"
     ],
     "35": [
         "hay_block_top",
