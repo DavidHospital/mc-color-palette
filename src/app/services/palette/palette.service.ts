@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { McTextureService } from 'src/app/services/mc-texture/mc-texture.service';
-import { McTexture, getPrimaryHue } from 'src/app/types/mc-texture';
+import { McTexture, getPrimaryHue, collisionScore } from 'src/app/types/mc-texture';
 import { Harmony } from 'src/app/types/color-harmonies';
 import arrayShuffle from 'array-shuffle';
 
@@ -21,7 +21,11 @@ export class PaletteService {
    * @returns List of McTexture
    */
   public getPalette(hue: number, harmony: Harmony, epsilon: number, n: number): McTexture[] {
-    return arrayShuffle(this.getFullPaletteFromHue(hue, harmony, epsilon)).slice(0, n);
+    const palette = arrayShuffle(this.getFullPaletteFromHue(hue, harmony, epsilon)).slice(0, n);
+    const anchor_texture = palette[0];
+    return palette.sort((a, b) => {
+      return collisionScore(anchor_texture, a) - collisionScore(anchor_texture, b);
+    });
   }
 
 

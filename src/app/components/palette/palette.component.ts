@@ -16,7 +16,7 @@ export class PaletteComponent implements AfterViewInit {
               private _changeDetectorRef: ChangeDetectorRef) { }
 
   ngAfterViewInit(): void {
-    this.randomPalette(Harmony.ANALAGOUS);
+    this.randomPalette(Harmony.MONOCHROMATIC);
     this._changeDetectorRef.detectChanges();
   }
 
