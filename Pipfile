@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+"colorgram.py" = "1.2.0"
+simplejson = "3.17.6"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"

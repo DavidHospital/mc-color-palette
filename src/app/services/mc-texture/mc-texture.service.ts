@@ -5,8 +5,6 @@ import { McTexture, getPrimaryHue, getFriendlyName } from 'src/app/types/mc-text
 import * as data from 'src/assets/textures-data.json';
 import * as textureMap from 'src/assets/texture-color-maps.json';
 
-const IMAGE_PATH = './assets/mc-textures';
-
 @Injectable({
     providedIn: 'root'
 })
@@ -44,6 +42,11 @@ export class McTextureService {
         return textureMap[getPrimaryHue(base)].map(name => this.getMcTexture(name));
     }
 
+    /**
+     * Get all textures with a given primary hue
+     * @param hue Primary hue of textures to get
+     * @returns List of McTexture
+     */
     public searchTextureMapByHue(hue: number): McTexture[] {
         let t = textureMap[hue];
         if (!t) return [];

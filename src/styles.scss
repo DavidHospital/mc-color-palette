@@ -30,12 +30,16 @@ $background: map-get($mc-color-palette-theme, background);
 $foreground: map-get($mc-color-palette-theme, foreground);
 
 /* You can add global styles to this file, and also import other style files */
-html, body { 
-  height: 100%; 
+html, body, app-root { 
+  height: 100%;
+  display: block;
   background-color: mat-color($background, background);
 }
 body { 
   margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; 
+}
+div {
+  line-height: 0px;
 }
 * {
   color: mat-color($foreground, text);

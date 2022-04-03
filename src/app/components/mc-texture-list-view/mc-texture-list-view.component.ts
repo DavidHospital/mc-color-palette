@@ -30,7 +30,7 @@ export class McTextureListViewComponent implements AfterViewInit {
   ngAfterViewInit(): void {
     this._currentTextureSub = this._mcTextureService.currentTexture.subscribe(mcTexture => {
       this._mcTexture = mcTexture;
-      this._mcTextures = this._mcTexture.colors.map(color => this._paletteService.getPaletteFromColor(color, Harmony.MONOCHROMATIC, 8));
+      this._mcTextures = this._mcTexture.colors.map(color => this._paletteService.getFullPaletteFromHue(color[0], Harmony.MONOCHROMATIC, 8));
       this._sortedTextures = this._mcTextures.map(textures => textures.sort((a,b) => {
         return collisionScore(a, this._mcTexture) < collisionScore(b, this._mcTexture) ? -1 : 1
       }));
